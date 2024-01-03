@@ -29,9 +29,7 @@
 .price--on-sale {
   color: #008000 !important;
 }
-.price__regular {
-  color: ;
-}
+
 .price__regular .price-item--regular {
   margin-right: 0;
 }
