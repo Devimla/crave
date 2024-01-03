@@ -2147,6 +2147,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   height: 35px !important;
   border-bottom: .1rem solid rgba(var(--color-foreground), .08);
   background: #1e2d7d!important;
+  z-index: 1000; /* Ajuste conforme necessário */
 }
 
 
