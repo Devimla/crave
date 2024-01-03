@@ -10,7 +10,7 @@
   text-align: var(--text-alignment);
 }
 input[type="email" i] {
-  color: #FFF !important;
+  color: #333 !important;
 }
 
 .card:not(.ratio) {
