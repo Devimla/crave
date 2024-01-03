@@ -3521,3 +3521,6 @@ details-disclosure > details {
 .disclosure .localization-form__select {
   background: transparent !important;
 }
+.field__input{
+  color: #FFF !important;
+}
