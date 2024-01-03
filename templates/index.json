@@ -49,7 +49,7 @@
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "outline",
-        "enable_desktop_slider": true,
+        "enable_desktop_slider": false,
         "color_scheme": "scheme-52372669-a11f-4893-9058-4e8c50771496",
         "image_ratio": "square",
         "image_shape": "default",
