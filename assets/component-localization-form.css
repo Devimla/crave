@@ -135,6 +135,19 @@ noscript .localization-selector.link {
   font-size: 1.3rem;
   background-color: transparent;
 }
+.disclosure__button span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0; /* Remova qualquer margem padrão */
+  padding: 0; /* Remova qualquer preenchimento padrão */
+}
+.disclosure__button svg {
+  margin-left: 5px; /* Adicione um pequeno espaço entre o texto e o ícone, se necessário */
+}
+.disclosure__list {
+  padding-top: 5px; /* Ajuste conforme necessário para o espaçamento desejado entre o botão e a lista */
+}
 
 .disclosure__list-wrapper {
   border-width: var(--popup-border-width);
@@ -189,6 +202,7 @@ noscript .localization-selector.link {
 .disclosure__button[aria-expanded='true'] .icon-caret {
   transform: rotate(180deg);
 }
+
 
 /* Header localization */
 .header-localization .localization-form:only-child {
