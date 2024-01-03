@@ -344,7 +344,7 @@ a.product__text {
   margin-bottom: 1.5rem;
 }
 .product__title h1 {
-  font-size: 26px; /* Ajuste o valor conforme necessário */
+  font-size: 28px !important; /* Ajuste o valor conforme necessário */
   line-height: 1.0 !important; /* Ajuste o valor conforme necessário */
 }
 .product__title > * {
