@@ -1631,7 +1631,7 @@ details[open] > .share-button__fallback {
 .localization-form__select:after {
   pointer-events: none;
   content: '';
-  border: 1px #1773B0red solid; /* Substitua 2px pelo valor desejado */
+  border: 1px #1773B0 solid; /* Substitua 2px pelo valor desejado */
   position: absolute;
   top: var(--inputs-border-width);
   right: var(--inputs-border-width);
