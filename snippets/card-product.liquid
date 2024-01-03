@@ -106,7 +106,7 @@
             <h3
               class="card__heading"
               {% if card_product.featured_media == null and settings.card_style == 'standard' %}
-                id="title-{{ section_id }}-{{ card_product.id | truncate: 50 }}"
+                id="title-{{ section_id }}-{{ card_product.id | truncate: 10 }}"
               {% endif %}
             >
               <a
@@ -143,7 +143,7 @@
           <h3
             class="card__heading{% if card_product.featured_media or settings.card_style == 'standard' %} h5{% endif %}"
             {% if card_product.featured_media or settings.card_style == 'card' %}
-              id="title-{{ section_id }}-{{ card_product.id }}"
+              id="title-{{ section_id }}-{{ card_product.id | truncate: 20 }}"
             {% endif %}
           >
             <a
