@@ -24,8 +24,8 @@
   font-weight: bold;
   font-size: 18px;
 }
-.price--on-sale .price-item--regular {
-  color: red;
+.price-item--regular {
+  color: red !important;
 }
 .price__regular .price-item--regular {
   margin-right: 0;
