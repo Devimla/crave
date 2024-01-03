@@ -97,6 +97,8 @@ details[open].menu-opening > .menu-drawer__submenu {
   height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
+  color: #333;
+  background: #FFF;
 }
 
 .no-js .menu-drawer__navigation {
