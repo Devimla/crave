@@ -1898,6 +1898,7 @@ input[type='checkbox'] {
   position: relative;
   width: calc(14rem / var(--font-body-scale) + var(--inputs-border-width) * 2);
   display: flex;
+  background: transparent !important;
   border-radius: var(--inputs-radius);
   min-height: calc((var(--inputs-border-width) * 2) + 4.5rem);
 }
@@ -1938,7 +1939,7 @@ input[type='checkbox'] {
   font-weight: 500;
   opacity: 0.85;
   text-align: center;
-  background-color: transparent;
+  background-color: transparent !important;
   border: 0;
   padding: 0 0.5rem;
   width: 100%;
@@ -1952,7 +1953,7 @@ input[type='checkbox'] {
   flex-shrink: 0;
   font-size: 1.8rem;
   border: 0;
-  background-color: transparent;
+  background-color: transparent !important;
   cursor: pointer;
   display: flex;
   align-items: center;
