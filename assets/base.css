@@ -1911,7 +1911,7 @@ input[type='checkbox'] {
   right: 0; /* ajuste conforme necessário */
   bottom: 0; /* ajuste conforme necessário */
   left: 0; /* ajuste conforme necessário */
-  border: 0.1rem solid #1773B0; /* cor da borda */
+  border: 0.1rem solid #b01717; /* cor da borda */
   border-radius: 20px;
   box-shadow: 0 0 0 var(--inputs-border-width) rgba(var(--color-foreground), var(--inputs-border-opacity));
   transition: box-shadow var(--duration-short) ease;
