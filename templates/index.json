@@ -97,16 +97,16 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "scheme-52372669-a11f-4893-9058-4e8c50771496",
+        "color_scheme": "accent-2",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_rating": true,
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 4,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     }
