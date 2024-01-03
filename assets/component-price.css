@@ -17,7 +17,7 @@
 .price--end {
   text-align: right;
 }
-.price-item price-item--regular {
+.price-item .price-item--regular s {
   color: red !important;
 }
 .price .price-item {
