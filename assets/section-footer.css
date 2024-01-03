@@ -172,7 +172,6 @@
 .footer-block__newsletter {
   text-align: center;
   flex-grow: 1;
-  color: red !important;
 }
 
 .newsletter-form__field-wrapper {
