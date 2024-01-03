@@ -123,7 +123,7 @@
         "note": "Ver regras de quantidade"
       },
       "price": {
-        "from_price_html": "A partir de {{ price }}",
+        "from_price_html": "{{ price }}",
         "regular_price": "Preço normal",
         "sale_price": "Preço de saldo",
         "unit_price": "Preço unitário"

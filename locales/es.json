@@ -122,7 +122,7 @@
         "note": "Ver reglas de cantidad"
       },
       "price": {
-        "from_price_html": "A partir de {{ price }}",
+        "from_price_html": "{{ price }}",
         "regular_price": "Precio habitual",
         "sale_price": "Precio de oferta",
         "unit_price": "Precio unitario"
