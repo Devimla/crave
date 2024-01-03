@@ -912,6 +912,7 @@ summary::-webkit-details-marker {
   width: calc(25% - var(--grid-mobile-horizontal-spacing) * 3 / 4);
   max-width: calc(50% - var(--grid-mobile-horizontal-spacing) / 2);
   flex-grow: 1;
+  background: #FFF;
   flex-shrink: 0;
 }
 
