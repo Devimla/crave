@@ -31,7 +31,7 @@
   color: red !important;
   /* Outros estilos conforme necessário */
 }
-.price--on-sale {
+.price-item .price-item--sale .price-item--last {
   color: #008000 !important;
 }
 
