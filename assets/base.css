@@ -2389,6 +2389,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   display: block;
   position: relative;
   background-color: #f7f4f1 !important;
+  color: red !important;
 }
 
 .header-wrapper--border-bottom {
