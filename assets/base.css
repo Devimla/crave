@@ -262,6 +262,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   font-family: var(--font-body-family);
   font-style: var(--font-body-style);
   font-weight: var(--font-body-weight);
+  color: #333 !important;
 }
 
 h1,
