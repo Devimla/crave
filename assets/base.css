@@ -2143,7 +2143,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   top: 0;
   width: 100%; /* Ou ajuste para a largura desejada, por exemplo, 800px; */
   max-width: 100%; /* Garante que a largura não ultrapasse a largura máxima da tela */
-  height: 25px;
+  height: 35px;
   border-bottom: .1rem solid rgba(var(--color-foreground), .08);
   background: #1e2d7d!important;
 }
