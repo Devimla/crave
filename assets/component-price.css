@@ -16,7 +16,7 @@
 .price--end {
   text-align: right;
 }
-.price-item.price-item--regular span {
+.price-item .price-item--regular span {
   color: red !important;
   /* Outros estilos conforme necessário */
 }
