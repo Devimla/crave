@@ -2141,10 +2141,12 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .utility-bar--bottom-border {
   position: fixed;
   top: 0;
-  width: 100%; /* Para ocupar a largura total da tela */
-  border-bottom: .1rem solid rgba(var(--color-foreground),.08);
+  width: 100%; /* Ou ajuste para a largura desejada, por exemplo, 800px; */
+  max-width: 100%; /* Garante que a largura não ultrapasse a largura máxima da tela */
+  border-bottom: .1rem solid rgba(var(--color-foreground), .08);
   background: #1e2d7d!important;
 }
+
 
 @media screen and (min-width: 990px) {
   .utility-bar--bottom-border-social-only {
