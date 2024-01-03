@@ -2394,7 +2394,9 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }
-
+.header {
+  padding: 2px 3rem 10px 3rem;
+}
 .header {
   display: grid;
   grid-template-areas: 'left-icons heading icons';
