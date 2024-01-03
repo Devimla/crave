@@ -7,7 +7,7 @@
   height: 100%;
   display: flex;
   justify-content: flex-end;
-  background-color: rgba(var(--color-foreground), 0.5);
+  background-color:rgba(23, 115, 176, 0.2); /* Cor #1773B0 com 20% de opacidade */
   transition: visibility var(--duration-default) ease;
 }
 
