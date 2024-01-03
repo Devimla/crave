@@ -216,7 +216,7 @@ noscript .localization-selector.link {
   height: auto;
   min-height: initial;
   background: transparent;
-  padding-left: 10px;
+  padding-left: 15px;
 }
 
 .header-localization .disclosure .localization-form__select:hover {
