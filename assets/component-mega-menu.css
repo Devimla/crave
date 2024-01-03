@@ -1,3 +1,6 @@
+.details[open] .modal-overlay:after {
+  background: rgba(23, 115, 176, 0.2) !important;
+}
 .mega-menu {
   position: static;
 }
@@ -85,7 +88,4 @@
 
 .mega-menu__list--condensed .mega-menu__link {
   font-weight: normal;
-}
-.details[open] .modal-overlay:after {
-  background: rgba(23, 115, 176, 0.2) !important;
 }
