@@ -76,7 +76,7 @@
         %}
 
         --color-foreground: {{ scheme.settings.text.red }},{{ scheme.settings.text.green }},{{ scheme.settings.text.blue }};
-        --color-background-contrast: {{ background_color_contrast.red }},{{ background_color_contrast.green }},{{ background_color_contrast.blue }};
+        --color-background-contrast: #333;
         --color-shadow: {{ scheme.settings.shadow.red }},{{ scheme.settings.shadow.green }},{{ scheme.settings.shadow.blue }};
         --color-button: {{ scheme.settings.button.red }},{{ scheme.settings.button.green }},{{ scheme.settings.button.blue }};
         --color-button-text: {{ scheme.settings.button_label.red }},{{ scheme.settings.button_label.green }},{{ scheme.settings.button_label.blue }};
@@ -166,7 +166,7 @@
 
         --drawer-border-width: {{ settings.drawer_border_thickness }}px;
         --drawer-border-opacity: {{ settings.drawer_border_opacity | divided_by: 100.0 }};
-        --drawer-shadow-opacity: 100%;
+        --drawer-shadow-opacity: {{ settings.drawer_shadow_opacity | divided_by: 100.0 }};
         --drawer-shadow-horizontal-offset: {{ settings.drawer_shadow_horizontal_offset }}px;
         --drawer-shadow-vertical-offset: {{ settings.drawer_shadow_vertical_offset }}px;
         --drawer-shadow-blur-radius: {{ settings.drawer_shadow_blur }}px;
