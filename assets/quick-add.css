@@ -52,7 +52,7 @@
   overflow: hidden;
   max-width: var(--page-width);
   width: calc(100% - 3rem);
-  border: 1px red solid;
+  border: 2px #1773B0 solid;
 }
 
 @media screen and (min-width: 750px) {
