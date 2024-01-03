@@ -87,5 +87,5 @@
   font-weight: normal;
 }
 .details[open] .modal-overlay:after {
-  background: #1773b033;
+  background: rgba(23, 115, 176, 0.2);
 }
