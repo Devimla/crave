@@ -484,5 +484,5 @@
   }
 }
 input[type="email" i] {
-  color: #FFF;
+  color: #FFF !important;
 }
