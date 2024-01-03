@@ -18,8 +18,9 @@
   margin-top: 8px; /* Espaçamento entre o texto e a linha */
 }
 h2.title {
+  position: relative;
   font-size: 28px;
-  font-weight: bold;
+  font-weight: bold !important; /* Adiciona negrito à fonte */
 }
 
 h2.title::after {
