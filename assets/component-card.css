@@ -207,8 +207,7 @@ input[type="email" i] {
 
 .card__heading:last-child {
   margin-bottom: 0;
-  visibility: hidden;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .card--horizontal .card__heading,
