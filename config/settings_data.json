@@ -196,7 +196,7 @@
         "settings": {
           "background": "{{ shop.brand.colors.primary[1].background }}",
           "background_gradient": "radial-gradient(rgba(0, 123, 255, 1) 7%, rgba(148, 88, 255, 1) 94%)",
-          "text": "#ffffff",
+          "text": "#333333",
           "button": "#dcc701",
           "button_label": "#f2efdd",
           "secondary_button_label": "#dcc701",
