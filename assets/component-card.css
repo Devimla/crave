@@ -483,3 +483,6 @@
     clip-path: polygon(var(--shape--blob-5));
   }
 }
+input[type="email" i] {
+  color: #FFF;
+}
