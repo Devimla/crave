@@ -2139,8 +2139,11 @@ product-info .loading__spinner:not(.hidden) ~ *,
 }
 
 .utility-bar--bottom-border {
-  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
-  background: #1e2d7d !important;
+  position: fixed;
+  top: 0;
+  width: 100%; /* Para ocupar a largura total da tela */
+  border-bottom: .1rem solid rgba(var(--color-foreground),.08);
+  background: #1e2d7d!important;
 }
 
 @media screen and (min-width: 990px) {
