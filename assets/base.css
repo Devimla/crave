@@ -2474,6 +2474,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .header > .header__heading-link {
   line-height: 0;
+  color: red !important;
 }
 
 .header__heading,
