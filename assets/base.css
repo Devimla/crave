@@ -2949,8 +2949,7 @@ details-disclosure > details {
 }
 
 .badge {
-  border: 0px transparent;
-  border-radius: var(--badge-corner-radius);
+  border-radius: 5px !important;
   display: inline-block;
   font-size: 1.2rem;
   letter-spacing: 0.1rem;
