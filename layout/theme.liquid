@@ -164,9 +164,9 @@
         --popup-shadow-vertical-offset: {{ settings.popup_shadow_vertical_offset }}px;
         --popup-shadow-blur-radius: {{ settings.popup_shadow_blur }}px;
 
-        --drawer-border-width: 2px;
+        --drawer-border-width: {{ settings.drawer_border_thickness }}px;
         --drawer-border-opacity: {{ settings.drawer_border_opacity | divided_by: 100.0 }};
-        --drawer-shadow-opacity: {{ settings.drawer_shadow_opacity | divided_by: 100.0 }};
+        --drawer-shadow-opacity: 100%;
         --drawer-shadow-horizontal-offset: {{ settings.drawer_shadow_horizontal_offset }}px;
         --drawer-shadow-vertical-offset: {{ settings.drawer_shadow_vertical_offset }}px;
         --drawer-shadow-blur-radius: {{ settings.drawer_shadow_blur }}px;
