@@ -3,18 +3,19 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-0": {
+        "a944ad4f-bcfb-4415-a8a1-038c89a2704e": {
           "type": "slide",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Shop all",
-            "link": "shopify:\/\/collections\/all",
-            "button_style_secondary": true,
-            "box_align": "middle-left",
+            "image": "shopify:\/\/shop_images\/20231219_204213_0000.png",
+            "heading": "Image slide",
+            "heading_size": "h2",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
             "show_text_box": true,
-            "text_alignment": "left",
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
@@ -22,7 +23,7 @@
         }
       },
       "block_order": [
-        "slide-0"
+        "a944ad4f-bcfb-4415-a8a1-038c89a2704e"
       ],
       "settings": {
         "layout": "full_bleed",
