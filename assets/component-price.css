@@ -29,7 +29,7 @@
 }
 .price--on-sale .price-item--regular {
   color: #8B0000 !important;
-  font-size: 12px;
+  font-size: 10px !important;
   /* Outros estilos conforme necessário */
 }
 .price:not(.price--show-badge) .price-item--last:last-of-type {
