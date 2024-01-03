@@ -17,7 +17,7 @@
 .price--end {
   text-align: right;
 }
-.price-item--regular {
+.price--on-sale {
   color: red !important;
 }
 .price .price-item {
