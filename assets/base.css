@@ -917,10 +917,14 @@ summary::-webkit-details-marker {
   border-radius: 10px;
   padding: 5px;
 }
+.grid__item:hover {
+  /* Aplique a transformação de escala ao passar o mouse */
+  transform: scale(1.02) !important;
+}
 @media screen and (min-width: 750px) {
 .grid__item:hover {
   /* Aplique a transformação de escala ao passar o mouse */
-  transform: scale(1.04) !important;
+  transform: scale(1.05) !important;
 }
 }
 @media screen and (min-width: 750px) {
