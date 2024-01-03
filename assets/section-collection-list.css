@@ -32,8 +32,11 @@ h2.title::after {
   background-color: #f6c125;
   margin-top: 8px;
 }
-
-
+@media screen and (min-width: 749px) {
+h2.title::after {
+  width: 40%;
+}
+}
 
 @media screen and (max-width: 749px) {
   .collection-list:not(.slider) {
