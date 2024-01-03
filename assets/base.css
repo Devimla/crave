@@ -70,9 +70,7 @@
   --shadow-opacity: var(--media-shadow-opacity);
   --shadow-visible: var(--media-shadow-visible);
 }
-.field__input {
-  color: #FFF !important;
-}
+
 /* base */
 
 .no-js:not(html) {
