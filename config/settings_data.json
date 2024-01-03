@@ -178,7 +178,7 @@
           "button": "#f2efdd",
           "button_label": "#910f3f",
           "secondary_button_label": "#f2efdd",
-          "shadow": "#3d081b"
+          "shadow": "rgba(0,0,0,0)"
         }
       },
       "accent-2": {
@@ -189,7 +189,7 @@
           "button": "#3d081b",
           "button_label": "#1773b0",
           "secondary_button_label": "#faf9e1",
-          "shadow": "#ffffff"
+          "shadow": "#1773b0"
         }
       },
       "scheme-52372669-a11f-4893-9058-4e8c50771496": {
