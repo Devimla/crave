@@ -14,7 +14,7 @@
   width: 100%; /* A linha se estende por toda a largura do texto */
   height: 5px;
   border-radius: 50px;
-  background-color: #3498db; /* Cor da linha */
+  background-color: #f6c125; /* Cor da linha */
   margin-top: 8px; /* Espaçamento entre o texto e a linha */
 }
 h2.title::after {
@@ -22,7 +22,8 @@ h2.title::after {
   display: block;
   width: 40%;
   height: 5px;
-  background-color: #3498db;
+  border-radius: 50px;
+  background-color: #f6c125;
   margin-top: 8px;
 }
 
