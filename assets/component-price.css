@@ -27,7 +27,7 @@
   font-weight: bold;
   font-size: 18px;
 }
-.price--on-sale .price-item--regular s {
+.price--on-sale .price-item--regular {
   color: #8B0000 !important;
   /* Outros estilos conforme necessário */
 }
