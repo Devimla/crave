@@ -27,7 +27,7 @@
   font-weight: bold;
   font-size: 18px;
 }
-.price-item .price-item--regular s {
+.price--on-sale .price-item--regular {
   color: red !important;
   /* Outros estilos conforme necessário */
 }
