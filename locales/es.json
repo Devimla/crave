@@ -109,7 +109,7 @@
     "product": {
       "add_to_cart": "Agregar al carrito",
       "description": "Descripción",
-      "on_sale": "Ahorra: {{ product.compare_at_price | minus: product.price | money }}:",
+      "on_sale": "Ahorra: {{ product.compare_at_price | minus: product.price | money }}",
       "quantity": {
         "label": "Cantidad",
         "input_label": "Cantidad para {{ product }}",
