@@ -27,6 +27,9 @@
 .price--on-sale {
   color: red !important;
 }
+.price__regular {
+  color: #333 !important;
+}
 .price__regular .price-item--regular {
   margin-right: 0;
 }
