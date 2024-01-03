@@ -11,8 +11,9 @@
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 50px; /* Largura da linha */
-  height: 3px; /* Altura da linha (espessura) */
+  width: 100%; /* A linha se estende por toda a largura do texto */
+  height: 5px;
+  border-radius: 50px;
   background-color: #3498db; /* Cor da linha */
   margin-top: 8px; /* Espaçamento entre o texto e a linha */
 }
