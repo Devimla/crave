@@ -1692,7 +1692,7 @@ details[open] > .share-button__fallback {
 .select {
   display: flex;
   position: relative;
-  width: 43%;
+  width: calc(14rem / var(--font-body-scale) + var(--inputs-border-width) * 2);
 }
 
 /* Select */
