@@ -118,7 +118,7 @@
 
 .quick-add-modal__toggle {
   background-color: rgb(var(--color-background));
-  border: 1px #1773B0 solid;
+  border: 5px #1773B0 solid;
   border-radius: 50%;
   color: #1773B0;
   display: flex;
