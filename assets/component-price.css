@@ -24,7 +24,7 @@
   font-weight: bold;
   font-size: 18px;
 }
-.price-item--regular {
+.price--on-sale {
   color: red !important;
 }
 .price__regular .price-item--regular {
