@@ -17,7 +17,7 @@
         "announcement-bar-0"
       ],
       "custom_css": [
-        ".announcement-bar__message {color: #fff;}"
+        ".announcement-bar__message {color: #fff; font-weight: bold;}"
       ],
       "settings": {
         "color_scheme": "background-1",
