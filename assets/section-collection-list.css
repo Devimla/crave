@@ -18,18 +18,17 @@
   margin-top: 8px; /* Espaçamento entre o texto e a linha */
 }
 h2.title {
-  position: relative;
+  position: relative !important;
 }
 
 h2.title::after {
   content: "";
-  display: inline-block;
+  display: inline-block !important;
   width: 100%;
   height: 3px;
-  background-color: #3498db;
+  background-color: #3498db !important;
   margin-top: 8px;
-  position: absolute;
-  bottom: 0;
+  position: absolute !important;
   left: 0;
 }
 
