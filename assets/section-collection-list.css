@@ -17,6 +17,9 @@
   background-color: #f6c125; /* Cor da linha */
   margin-top: 8px; /* Espaçamento entre o texto e a linha */
 }
+h2.title {
+  position: relative;
+}
 h2.title::after {
   content: "";
   display: inline-block;
