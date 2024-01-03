@@ -1591,7 +1591,7 @@ details[open] > .share-button__fallback {
 .customer select {
   -webkit-appearance: none;
   appearance: none;
-  background-color: rgb(var(--color-background));
+  background: transparent;
   color: rgb(var(--color-foreground));
   font-size: 1.6rem;
   width: 100%;
