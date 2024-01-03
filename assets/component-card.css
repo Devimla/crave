@@ -209,7 +209,12 @@ input[type="email" i] {
   margin-bottom: 0;
   font-size: 14px;
 }
-
+@media screen and (min-width: 750px) {
+.card__heading:last-child {
+  margin-bottom: 0;
+  font-size: 18px;
+}
+}
 .card--horizontal .card__heading,
 .card--horizontal .price__container .price-item,
 .card--horizontal__quick-add {
