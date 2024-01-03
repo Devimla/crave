@@ -342,10 +342,9 @@ a.product__text {
 .product__title {
   word-break: break-word;
   margin-bottom: 1.5rem;
-  line-height: 2.5 !important; /* Ajuste o valor conforme necessário */
 }
 .product__title h1 {
-  line-height: 2.5 !important; /* Ajuste o valor conforme necessário */
+  line-height: 0.9 !important; /* Ajuste o valor conforme necessário */
 }
 .product__title > * {
   margin: 0;
