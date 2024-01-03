@@ -254,9 +254,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 ::selection {
   background-color: rgba(var(--color-foreground), 0.2);
 }
-body {
-  padding-top: 35px;
-}
+
 .text-body {
   font-size: 1.5rem;
   letter-spacing: 0.06rem;
@@ -2141,15 +2139,9 @@ product-info .loading__spinner:not(.hidden) ~ *,
 }
 
 .utility-bar--bottom-border {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  height: 35px !important;
-  border-bottom: .1rem solid rgba(var(--color-foreground), .08);
-  background: #1e2d7d!important;
-  z-index: 1000; /* Ajuste conforme necessário */
+  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  background: #1e2d7d !important;
 }
-
 
 @media screen and (min-width: 990px) {
   .utility-bar--bottom-border-social-only {
