@@ -2590,6 +2590,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   width: 2rem;
   fill: none;
   vertical-align: middle;
+  color:  #1773B0;
 }
 
 .header__icon,
