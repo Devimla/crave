@@ -31,7 +31,7 @@
   color: red !important;
   /* Outros estilos conforme necessário */
 }
-.price-item .price-item--sale .price-item--last {
+.price-item--sale .price-item--last span {
   color: #008000 !important;
 }
 
