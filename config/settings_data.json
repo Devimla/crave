@@ -120,9 +120,10 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-52372669-a11f-4893-9058-4e8c50771496",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Picsart_23-12-17_02-49-39-961.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Picsart_23-12-17_02-50-00-551.png",
     "checkout_logo_position": "center",
-    "checkout_logo_size": "medium",
+    "checkout_logo_size": "large",
+    "checkout_button_color": "#21a400",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
