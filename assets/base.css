@@ -70,7 +70,9 @@
   --shadow-opacity: var(--media-shadow-opacity);
   --shadow-visible: var(--media-shadow-visible);
 }
-
+.field__input {
+  color: #FFF !important;
+}
 /* base */
 
 .no-js:not(html) {
@@ -3520,7 +3522,4 @@ details-disclosure > details {
 }
 .disclosure .localization-form__select {
   background: transparent !important;
-}
-.field__input{
-  color: #FFF !important;
 }
