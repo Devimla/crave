@@ -127,6 +127,4 @@
     </span>
   {%- endif -%}
 </div>
-{% assign price_saved = product.price_range.compare_at_price | minus: product.price_range.price %}
-{% render 'price', product: product, price_saved: price_saved %}
 
