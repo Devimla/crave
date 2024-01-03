@@ -17,15 +17,15 @@
   background-color: #3498db; /* Cor da linha */
   margin-top: 8px; /* Espaçamento entre o texto e a linha */
 }
-.title inline-richtext h2 scroll-trigger animate--slide-in {
-  content: ""; /* Adiciona o conteúdo pseudo-elemento */
-  display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 100%; /* A linha se estende por toda a largura do texto */
-  height: 5px;
-  border-radius: 50px;
-  background-color: #3498db; /* Cor da linha */
-  margin-top: 8px; /* Espaçamento entre o texto e a linha */
+h2.title::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: #3498db;
+  margin-top: 8px;
 }
+
 @media screen and (max-width: 749px) {
   .collection-list:not(.slider) {
     padding-left: 0;
