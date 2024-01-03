@@ -9,6 +9,9 @@
   text-decoration: none;
   text-align: var(--text-alignment);
 }
+input[type="email" i] {
+  color: #FFF !important;
+}
 
 .card:not(.ratio) {
   display: flex;
@@ -482,7 +485,4 @@
   .grid__item:nth-child(8n) .product-card-wrapper:hover .shape--blob {
     clip-path: polygon(var(--shape--blob-5));
   }
-}
-input[type="email" i] {
-  color: #FFF !important;
 }
