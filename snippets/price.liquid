@@ -7,12 +7,7 @@
   - show_badges: {Boolean} Renders 'Sale' and 'Sold Out' tags if the product matches the condition (optional)
   - price_class: {String} Adds a price class to the price element (optional)
   - show_compare_at_price: {Boolean} Renders the compare at price if the product matches the condition (optional)
-  {% if product.price_range.compare_at_price and product.price_range.price %}
-  <span class="price-saved">
-    Você economizou {{ product.price_range.compare_at_price - product.price_range.price }}
-  </span>
-{% endif %}
-
+  
 
   Usage:
   {% render 'price', product: product %}
@@ -132,3 +127,4 @@
     </span>
   {%- endif -%}
 </div>
+"price_saved": "{{ product.price_range.compare_at_price - product.price_range.price }}%"
