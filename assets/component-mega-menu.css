@@ -1,6 +1,7 @@
 .details[open] .modal-overlay:after {
-  background: rgba(23, 115, 176, 0.2) !important;
+  background-color: rgba(23, 115, 176, 0.2) !important;
 }
+
 .mega-menu {
   position: static;
 }
