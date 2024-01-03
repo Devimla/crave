@@ -4,17 +4,6 @@
   "sections": {
     "footer": {
       "type": "footer",
-      "blocks": {
-        "0c976077-ea11-4011-91e8-27f667acba7c": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
-        }
-      },
-      "block_order": [
-        "0c976077-ea11-4011-91e8-27f667acba7c"
-      ],
       "settings": {
         "color_scheme": "accent-2",
         "newsletter_enable": true,
