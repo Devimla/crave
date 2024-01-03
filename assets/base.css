@@ -1907,15 +1907,15 @@ input[type='checkbox'] {
   pointer-events: none;
   content: '';
   position: absolute;
-  top: 0; /* ajuste conforme necessário */
-  right: 0; /* ajuste conforme necessário */
-  bottom: 0; /* ajuste conforme necessário */
-  left: 0; /* ajuste conforme necessário */
-  border: 0.1rem solid #b01717; /* cor da borda */
-  border-radius: 20px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 0.1rem solid #1773B0;
+  border-radius: 50px;
   box-shadow: 0 0 0 var(--inputs-border-width) rgba(var(--color-foreground), var(--inputs-border-opacity));
   transition: box-shadow var(--duration-short) ease;
-  z-index: 1;
+  z-index: -1; /* Mude para -1 para colocar o pseudo-elemento atrás do conteúdo */
 }
 
 .quantity:before {
