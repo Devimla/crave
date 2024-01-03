@@ -1958,6 +1958,7 @@ input[type='checkbox'] {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: rgb(var(--color-foreground));
   padding: 0;
 }
 
@@ -1995,7 +1996,7 @@ input[type='checkbox'] {
 .quantity__input:-webkit-autofill,
 .quantity__input:-webkit-autofill:hover,
 .quantity__input:-webkit-autofill:active {
-  box-shadow: 0 0 0 10rem rgb(var(--color-background)) inset !important;
+
   -webkit-box-shadow: 0 0 0 10rem rgb(var(--color-background)) inset !important;
 }
 
