@@ -25,7 +25,7 @@
   font-size: 18px;
 }
 .price--on-sale {
-  color: red !important;
+  color: #008000 !important;
 }
 .price__regular {
   color: #333 !important;
