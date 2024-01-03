@@ -914,6 +914,7 @@ summary::-webkit-details-marker {
   flex-grow: 1;
   background: #FFF;
   flex-shrink: 0;
+  border-radius: 50px;
   padding: 5px;
 }
 
