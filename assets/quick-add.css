@@ -80,6 +80,7 @@
   overflow-y: auto;
   padding: var(--modal-padding);
   height: 100%;
+  background: #fff;
 }
 
 .quick-add-modal__content-info > * {
