@@ -1894,7 +1894,7 @@ input[type='checkbox'] {
 
 /* component-quantity */
 .quantity {
-  border: 2px #333 solid;
+  border: 1px #333 solid;
   position: relative;
   width: calc(14rem / var(--font-body-scale) + var(--inputs-border-width) * 2);
   display: flex;
