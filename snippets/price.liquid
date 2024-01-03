@@ -127,7 +127,6 @@
     </span>
   {%- endif -%}
 </div>
-{% if product.price_range.compare_at_price and product.price_range.price %}
 {% assign price_saved = product.price_range.compare_at_price | minus: product.price_range.price %}
-  <span class="on-sale-label">Ahorra: {{ price_saved }}%!</span>
-{% endif %}
+{% render 'price', product: product, price_saved: price_saved %}
+
