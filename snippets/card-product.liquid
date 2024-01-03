@@ -143,7 +143,7 @@
           <h3
             class="card__heading{% if card_product.featured_media or settings.card_style == 'standard' %} h5{% endif %}"
             {% if card_product.featured_media or settings.card_style == 'card' %}
-              id="title-{{ section_id }}-{{ card_product.id | slice: 0, 50 }}"
+              id="title-{{ section_id }}-{{ card_product.id | slice: 0, 80 }}"
             {% endif %}
           >
             <a
