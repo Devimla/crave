@@ -8,6 +8,7 @@
 .card {
   text-decoration: none;
   text-align: var(--text-alignment);
+  background: green !important;
 }
 input[type="email" i] {
   color: #333 !important;
