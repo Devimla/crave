@@ -919,7 +919,7 @@ summary::-webkit-details-marker {
 }
 .grid__item:hover {
   /* Aplique a transformação de escala ao passar o mouse */
-  transform: scale(1.2);
+  transform: scale(1.2) !important;
 }
 @media screen and (min-width: 750px) {
   .grid__item {
