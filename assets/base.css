@@ -3519,5 +3519,5 @@ details-disclosure > details {
   }
 }
 .disclosure .localization-form__select {
-  background: transparent;
+  background: transparent !important;
 }
