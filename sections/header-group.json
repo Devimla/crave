@@ -31,7 +31,7 @@
       "settings": {
         "logo_position": "top-left",
         "menu": "main-menu",
-        "menu_type_desktop": "dropdown",
+        "menu_type_desktop": "mega",
         "sticky_header_type": "always",
         "show_line_separator": true,
         "color_scheme": "background-1",
