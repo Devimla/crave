@@ -35,6 +35,46 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "37ddd023-944b-4229-bbaf-f92d7122596b": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1",
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2",
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-3"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h0",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -66,6 +106,7 @@
   },
   "order": [
     "slideshow",
+    "37ddd023-944b-4229-bbaf-f92d7122596b",
     "featured_collection"
   ]
 }
