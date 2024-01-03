@@ -1907,7 +1907,11 @@ input[type='checkbox'] {
   pointer-events: none;
   content: '';
   position: absolute;
-  border: #1773B0 0.1rem solid;
+  top: 0; /* ajuste conforme necessário */
+  right: 0; /* ajuste conforme necessário */
+  bottom: 0; /* ajuste conforme necessário */
+  left: 0; /* ajuste conforme necessário */
+  border: 0.1rem solid #1773B0; /* cor da borda */
   border-radius: 50px;
   box-shadow: 0 0 0 var(--inputs-border-width) rgba(var(--color-foreground), var(--inputs-border-opacity));
   transition: box-shadow var(--duration-short) ease;
