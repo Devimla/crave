@@ -1791,7 +1791,7 @@ details[open] > .share-button__fallback {
   align-items: center;
   background-color: transparent;
   border: 0;
-  color: #007bff;
+  color:  var(--color-secondary-button);
   cursor: pointer;
   display: flex;
   height: 4.4rem;
