@@ -1,3 +1,7 @@
+.price-item .price-item--regular span {
+  color: red !important;
+  /* Outros estilos conforme necessário */
+}
 .price {
   font-size: 1.6rem;
   letter-spacing: 0.1rem;
@@ -16,10 +20,7 @@
 .price--end {
   text-align: right;
 }
-.price-item .price-item--regular span {
-  color: red !important;
-  /* Outros estilos conforme necessário */
-}
+
 .price .price-item {
   display: inline-block;
   margin: 0 1rem 0 0;
