@@ -3,7 +3,7 @@
     "b495ebea-6fbe-4b2d-96cf-9d9dbac0cc04": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/20240103_222209_0000.webp\/20240103_222209_0000.webp",
+        "image": "shopify:\/\/shop_images\/20240103_222209_0000.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
