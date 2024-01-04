@@ -46,28 +46,10 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "1704339027be640727": {
-      "type": "apps",
-      "blocks": {
-        "65dfe470-dcb1-459a-9f49-c3fd39fec81e": {
-          "type": "shopify:\/\/apps\/smartbn-banner-slider\/blocks\/banner\/4e519896-1b18-4c51-970e-35631a56cec7",
-          "settings": {
-            "scm_banner_slider": "205223"
-          }
-        }
-      },
-      "block_order": [
-        "65dfe470-dcb1-459a-9f49-c3fd39fec81e"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "1704339027be640727"
+    "header"
   ]
 }
