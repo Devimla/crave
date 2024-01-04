@@ -1,53 +1,5 @@
 {
   "sections": {
-    "77f6d328-fdee-46f6-b540-c100a92d3c3e": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16272637362343__77f6d328-fdee-46f6-b540-c100a92d3c3e-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--16272637362343__77f6d328-fdee-46f6-b540-c100a92d3c3e-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--16272637362343__77f6d328-fdee-46f6-b540-c100a92d3c3e-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16272637362343__77f6d328-fdee-46f6-b540-c100a92d3c3e-heading-1",
-        "template--16272637362343__77f6d328-fdee-46f6-b540-c100a92d3c3e-text-1",
-        "template--16272637362343__77f6d328-fdee-46f6-b540-c100a92d3c3e-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/20240103_222209_0000.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "37ddd023-944b-4229-bbaf-f92d7122596b": {
       "type": "collection-list",
       "blocks": {
@@ -178,7 +130,6 @@
     }
   },
   "order": [
-    "77f6d328-fdee-46f6-b540-c100a92d3c3e",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
     "featured_collection",
     "159a565a-e5ee-47c4-8a27-5e3280abbf63"
