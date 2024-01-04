@@ -208,6 +208,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "1273784864418556257": {
+        "type": "shopify:\/\/apps\/smartbn-banner-slider\/blocks\/embedbanner\/4e519896-1b18-4c51-970e-35631a56cec7",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
