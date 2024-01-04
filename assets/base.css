@@ -919,7 +919,7 @@ summary::-webkit-details-marker {
   padding: 5px;
 }
 
-.card card--standard .card--media:hover {
+.card.card--standard.card--media:hover {
   /* Aplique a transformação de escala ao passar o mouse */
   transform: scale(1.02) !important;
 }
