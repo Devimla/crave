@@ -35,17 +35,17 @@
         "template--16272637362343__77f6d328-fdee-46f6-b540-c100a92d3c3e-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/20231219_204213_0000.png",
+        "image": "shopify:\/\/shop_images\/20240103_222209_0000.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "37ddd023-944b-4229-bbaf-f92d7122596b": {
