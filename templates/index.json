@@ -1,5 +1,22 @@
 {
   "sections": {
+    "17043351064240480a": {
+      "type": "apps",
+      "blocks": {
+        "e4e10d7e-6acb-415c-b5f6-848406f934c9": {
+          "type": "shopify:\/\/apps\/smartbn-banner-slider\/blocks\/banner\/4e519896-1b18-4c51-970e-35631a56cec7",
+          "settings": {
+            "scm_banner_slider": ""
+          }
+        }
+      },
+      "block_order": [
+        "e4e10d7e-6acb-415c-b5f6-848406f934c9"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "37ddd023-944b-4229-bbaf-f92d7122596b": {
       "type": "collection-list",
       "blocks": {
@@ -136,6 +153,7 @@
     }
   },
   "order": [
+    "17043351064240480a",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
     "featured_collection",
     "159a565a-e5ee-47c4-8a27-5e3280abbf63",
