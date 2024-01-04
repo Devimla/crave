@@ -921,7 +921,7 @@ summary::-webkit-details-marker {
 
 .card.card--standard.card--media:hover {
   /* Aplique a transformação de escala ao passar o mouse */
-  transform: scale(1.05) !important;
+  transform: scale(1.03) !important;
 }
 @media screen and (min-width: 750px) {
   .grid__item {
