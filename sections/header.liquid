@@ -31,15 +31,32 @@
 
 <style>
   .barra-de-anuncio {
-    background: #0179fe;
-    color: #ffffff;
-}
+    background: rgb(206, 17, 38); /* Vermelho da bandeira do México */
+    color: #fff;
+  }
+
+  .mexico-green {
+    background-color: rgb(0, 128, 0);
+    color: #fff;
+  }
+
+  .mexico-white {
+    background-color: rgb(255, 255, 255);
+    color: #000;
+  }
+
+  .mexico-red {
+    background-color: rgb(206, 17, 38);
+    color: #fff;
+  }
+
   .container {
     max-width: 1480px;
     margin-left: auto;
     margin-right: auto;
     padding: 0;
-}
+  }
+
   .barra-de-anuncio__inner {
     display: flex;
     align-items: center;
@@ -47,23 +64,28 @@
     width: 100%;
     margin-top: -5px;
     padding-bottom: 2px;
-}
+  }
+
   .barra-de-anuncio__content {
     display: block;
     padding: 4px 0;
     margin-bottom: 0;
-}
+  }
+
   .announcesvg {
     width: 22px;
     vertical-align: middle;
     display: inline-block;
     margin-right: 10px;
-}
+  }
+
   @media only screen and (max-width: 999px) {
-.mobhide {
-    display: none!important;
-}}
+    .mobhide {
+      display: none!important;
+    }
+  }
 </style>
+
 
 <link rel="stylesheet" href="{{ 'component-list-menu.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'component-search.css' | asset_url }}" media="print" onload="this.media='all'">
