@@ -3630,6 +3630,9 @@ details-disclosure > details {
   color: #000;
   font-weight: bold;
 }
+.jdgm-paginate__page {
+  color: #222;
+}
 .jdgm-paginate__page.jdgm-curt {
   color: #f6c125 !important;
   font-size: 200% !important;
