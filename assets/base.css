@@ -3653,6 +3653,7 @@ details-disclosure > details {
   white-space: nowrap; /* Impede que o texto quebre de linha */
   overflow: hidden; /* Corta qualquer conteúdo que exceda a largura do balão */
   font-size: 0.9em; /* Ajuste o tamanho da fonte conforme necessário */
+  display: inline-block; /* Permite que o balão se ajuste ao tamanho do conteúdo */
 }
 
 .balao p {
