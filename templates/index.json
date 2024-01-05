@@ -66,13 +66,13 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "<strong>Venta Caliente<\/strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
-        "products_to_show": 8,
+        "products_to_show": 10,
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
