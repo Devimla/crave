@@ -16,7 +16,7 @@
   height: 20px; /* Define a altura da bolinha */
   border-radius: 50%; /* Torna a bolinha circular */
   background-color: #f6c125; /* Cor da bolinha */
-  border: red;
+  border: solid #1773B0;
   position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
   top: 50%; /* Posiciona a bolinha no centro verticalmente */
   left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
@@ -37,7 +37,7 @@ h2.title::after {
   height: 20px; /* Define a altura da bolinha */
   border-radius: 50%; /* Torna a bolinha circular */
   background-color: #f6c125; /* Cor da bolinha */
-  border: red;
+  border: solid #1773B0;
   position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
   top: 50%; /* Posiciona a bolinha no centro verticalmente */
   left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
