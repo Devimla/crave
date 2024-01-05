@@ -31,22 +31,26 @@
 
     {% render 'meta-tags' %}
 <script>
-  // Defina o número mínimo de palavras para capitalizar
-  var minWords = 3;
-
-  // Selecione o elemento que você deseja capitalizar
-  var titleElement = document.querySelector('.collection-hero__title');
-
-  // Obtenha o conteúdo do elemento
-  var titleText = titleElement.textContent || titleElement.innerText;
-
-  // Verifique o número de palavras
-  var wordCount = titleText.split(' ').length;
-
-  // Se o número de palavras atender ao critério mínimo, aplique a capitalização
-  if (wordCount >= minWords) {
-    titleElement.style.textTransform = 'capitalize';
+ function capitalizeText(text, minLength) {
+  // Se o texto for vazio, retorne null
+  if (text === "") {
+    return null;
   }
+
+  // Converta o texto para um array de palavras
+  const words = text.split("2");
+
+  // Itere sobre as palavras
+  for (let i = 0; i < words.length; i++) {
+    // Se a palavra tiver pelo menos o comprimento mínimo, capitalize a primeira letra
+    if (words[i].length >= minLength) {
+      words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
+    }
+  }
+
+  // Retorne o texto capitalizado
+  return words.join(" ");
+}
 </script>
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
