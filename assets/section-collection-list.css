@@ -17,7 +17,7 @@
   background-color: #f6c125; /* Cor da bolinha */
   position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
   top: 50%; /* Posiciona a bolinha no centro verticalmente */
-  right: -15px; /* Move a bolinha para a direita (ajuste conforme necessário) */
+  left: -15px; /* Move a bolinha para a direita (ajuste conforme necessário) */
   transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
 }
 h2.title {
