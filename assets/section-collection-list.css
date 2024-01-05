@@ -33,8 +33,6 @@ h2.title::after {
   margin-top: 8px;
   position: absolute;
   bottom: 0;
-  left: 50%; /* Centralizando o risco em relação ao texto */
-  transform: translateX(-50%); /* Centralizando o risco em relação ao texto */
 }
 
 @media screen and (min-width: 749px) {
