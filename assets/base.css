@@ -3611,10 +3611,9 @@ details-disclosure > details {
 .jdgm-rev__author::before {
   content: ''; /* Obrigatório para criar o elemento pseudo */
   display: inline-block;
-  width: 8px; /* Diâmetro da bolinha */
-  height: 8px; /* Diâmetro da bolinha */
-  background-color: #000; /* Cor da bolinha */
-  border-radius: 50%; /* Torna a bolinha circular */
+  width: 1px; /* Largura do traço vertical */
+  height: 100%; /* Altura igual à altura do texto */
+  background-color: #000; /* Cor do traço */
   margin-right: 5px; /* Espaçamento entre a bolinha e o texto (ajuste conforme necessário) */
   margin-left: 5px;
 }
