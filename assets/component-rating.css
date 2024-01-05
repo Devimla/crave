@@ -15,6 +15,7 @@
 
 .rating-star {
   --color-rating-star: #f6c125;
+  font-weight: bold;
   --percent: calc(
     (
         var(--rating) / var(--rating-max) + var(--rating-decimal) * var(--font-size) /
