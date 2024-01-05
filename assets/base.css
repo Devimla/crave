@@ -3631,7 +3631,7 @@ details-disclosure > details {
   font-weight: bold;
 }
 .jdgm-paginate__page {
-  color: #222;
+  color: #222 !important;
 }
 .jdgm-paginate__page.jdgm-curt {
   color: #f6c125 !important;
