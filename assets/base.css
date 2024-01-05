@@ -3621,3 +3621,6 @@ details-disclosure > details {
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
   padding: 10px 0px 0px 0px !important;
 }
+.jdgm-row-rating {
+  margin-bottom: 8px !important;
+}
