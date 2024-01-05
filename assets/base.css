@@ -3632,4 +3632,5 @@ details-disclosure > details {
 }
 .jdgm-paginate__page.jdgm-curt {
   color: #f6c125 !important;
+  font-size: 200% !important;
 }
