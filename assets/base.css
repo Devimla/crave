@@ -3618,3 +3618,6 @@ details-disclosure > details {
   margin-right: 5px; /* Espaçamento entre a bolinha e o texto (ajuste conforme necessário) */
   margin-left: 5px;
 }
+.jdgm-gallery-wrapper, .jdgm-medals-wrapper {
+  padding: 10px 0px 0px 0px !important;
+}
