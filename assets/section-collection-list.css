@@ -16,6 +16,7 @@
   height: 20px; /* Define a altura da bolinha */
   border-radius: 50%; /* Torna a bolinha circular */
   background-color: #f6c125; /* Cor da bolinha */
+  border: red;
   position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
   top: 50%; /* Posiciona a bolinha no centro verticalmente */
   left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
@@ -29,13 +30,18 @@ h2.title {
 }
 
 h2.title::after {
-  content: "";
-  display: block;
-  width: 40px;
-  height: 5px;
-  border-radius: 50px;
-  background-color: #f6c125;
-  margin-top: 4px;
+  content: ""; /* Adiciona o conteúdo pseudo-elemento */
+  display: block; /* Torna o pseudo-elemento um bloco separado */
+  width: 20px; /* Define a largura da bolinha */
+  height: 20px; /* Define a altura da bolinha */
+  border-radius: 50%; /* Torna a bolinha circular */
+  background-color: #f6c125; /* Cor da bolinha */
+  border: red;
+  position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
+  top: 50%; /* Posiciona a bolinha no centro verticalmente */
+  left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
+  transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
+  z-index: -1; /* Coloca a bolinha atrás do texto */
 }
 
 @media screen and (min-width: 749px) {
