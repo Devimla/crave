@@ -19,6 +19,7 @@
   top: 50%; /* Posiciona a bolinha no centro verticalmente */
   left: -15px; /* Move a bolinha para a direita (ajuste conforme necessário) */
   transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
+  margin-left: 15px;
 }
 h2.title {
   position: relative;
