@@ -26,18 +26,16 @@ h2.title {
 h2.title::after {
   content: "";
   display: block;
-  width: 50px; /* Largura inicial do risco */
+  width: 40px;
   height: 5px;
   border-radius: 50px;
   background-color: #f6c125;
   margin-top: 8px;
-  position: absolute;
-  bottom: 0;
 }
 
 @media screen and (min-width: 749px) {
   h2.title::after {
-    width: 20%; /* Largura do risco para telas maiores */
+    width: 15%; /* Largura do risco para telas maiores */
   }
 }
 
