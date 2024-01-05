@@ -27,6 +27,7 @@ h2.title {
   position: relative;
   font-size: 28px;
   font-weight: bold !important; /* Adiciona negrito à fonte */
+  margin-left: 30px;
 }
 
 h2.title::after {
