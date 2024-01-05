@@ -20,7 +20,12 @@
 h2.title {
   position: relative;
   font-size: 28px;
+  display: inline-block;
   font-weight: bold !important; /* Adiciona negrito à fonte */
+}
+
+h2.title strong {
+  display: inline-block; /* Certifica-se de que o <strong> tenha apenas a largura do conteúdo */
 }
 
 h2.title::after {
@@ -42,6 +47,7 @@ h2.title::after {
     width: 20%; /* Largura do risco para telas maiores */
   }
 }
+
 
 
 @media screen and (max-width: 749px) {
