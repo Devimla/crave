@@ -3650,8 +3650,6 @@ details-disclosure > details {
   padding: 5px; /* Espaçamento interno para o conteúdo dentro do balão */
   border-radius: 50px; /* Cantos arredondados para um visual mais agradável */
   position: relative; /* Permite ajustar a posição do balão */
-  max-width: 300px; /* Largura máxima do balão, ajuste conforme necessário */
-  max-width: 300px; /* Largura máxima do balão, ajuste conforme necessário */
   white-space: nowrap; /* Impede que o texto quebre de linha */
 }
 
