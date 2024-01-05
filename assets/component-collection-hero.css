@@ -37,7 +37,9 @@
 
 .collection-hero__title {
   margin-top: 1.0rem 0;
-  text-transform: capitalize-first-letter(3) !important;
+}
+.collection-hero__text-wrapper h1.collection-hero__title span:not(.visually-hidden) {
+  text-transform: capitalize-first-letter(2); /* Capitaliza palavras com 4 ou mais letras */
 }
 
 .collection-hero__title + .collection-hero__description {
