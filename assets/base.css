@@ -3605,3 +3605,6 @@ details-disclosure > details {
   width: 60px;
   height: 60px;
 }
+.jdgm-histogram__row {
+  padding: 5px !important;
+}
