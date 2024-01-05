@@ -208,6 +208,12 @@
           "button_vertical_position": "higher",
           "greeting_message": ""
         }
+      },
+      "5784195145160458090": {
+        "type": "shopify:\/\/apps\/avada-seo-suite\/blocks\/avada-critical-css\/15507c6e-1aa3-45d3-b698-7e175e033440",
+        "disabled": true,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
@@ -215,11 +221,11 @@
         "settings": {
           "background": "#f2efdd",
           "background_gradient": "",
-          "text": "#3d081b",
+          "text": "#1773b0",
           "button": "#1773b0",
           "button_label": "#f2efdd",
-          "secondary_button_label": "#3d081b",
-          "shadow": "#3d081b"
+          "secondary_button_label": "#1773b0",
+          "shadow": "#1773b0"
         }
       },
       "background-2": {
