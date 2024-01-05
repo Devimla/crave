@@ -45,11 +45,6 @@ h2.title::after {
   z-index: -1; /* Coloca a bolinha atrás do texto */
 }
 
-@media screen and (min-width: 749px) {
-  h2.title::after {
-    width: 15%; /* Largura do risco para telas maiores */
-  }
-}
 
 
 @media screen and (max-width: 749px) {
