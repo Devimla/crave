@@ -11,11 +11,14 @@
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 100%; /* A linha se estende por toda a largura do texto */
-  height: 5px;
-  border-radius: 50px;
-  background-color: #f6c125; /* Cor da linha */
-  margin-top: 4px; /* Espaçamento entre o texto e a linha */
+  width: 10px; /* Define a largura da bolinha */
+  height: 10px; /* Define a altura da bolinha */
+  border-radius: 50%; /* Torna a bolinha circular */
+  background-color: #f6c125; /* Cor da bolinha */
+  position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
+  top: 50%; /* Posiciona a bolinha no centro verticalmente */
+  right: -15px; /* Move a bolinha para a direita (ajuste conforme necessário) */
+  transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
 }
 h2.title {
   position: relative;
