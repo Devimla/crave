@@ -199,6 +199,12 @@
               </p>
             {%- endif -%}
 
+            <!-- Start of Judge.me code -->
+      <div style='{{ jm_style }}' class='jdgm-widget jdgm-preview-badge' data-id='{{ card_product.id }}' data-auto-install='false'>
+        {{ card_product.metafields.judgeme.badge }}
+      </div>
+      <!-- End of Judge.me code -->
+
             {% render 'price', product: card_product, price_class: '', show_compare_at_price: true %}
             {%- if card_product.quantity_price_breaks_configured? -%}
               <div class="card__information-volume-pricing-note">
