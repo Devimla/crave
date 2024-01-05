@@ -12,8 +12,8 @@
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 10px; /* Define a largura da bolinha */
-  height: 10px; /* Define a altura da bolinha */
+  width: 20px; /* Define a largura da bolinha */
+  height: 20px; /* Define a altura da bolinha */
   border-radius: 50%; /* Torna a bolinha circular */
   background-color: #f6c125; /* Cor da bolinha */
   position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
