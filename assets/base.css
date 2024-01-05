@@ -3644,3 +3644,17 @@ details-disclosure > details {
 .jdgm-rev__body p {
   color: #222;
 }
+.balao {
+  background-color: #4CAF50; /* Cor de fundo verde, você pode ajustar conforme desejar */
+  color: #fff; /* Cor do texto branco para melhor legibilidade */
+  padding: 15px; /* Espaçamento interno para o conteúdo dentro do balão */
+  border-radius: 10px; /* Cantos arredondados para um visual mais agradável */
+  position: relative; /* Permite ajustar a posição do balão */
+  max-width: 300px; /* Largura máxima do balão, ajuste conforme necessário */
+}
+
+.balao p {
+  margin: 0; /* Remove a margem padrão para evitar espaçamento indesejado */
+}
+
+/* Ajuste a posição do balão conforme necessário */
