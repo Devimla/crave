@@ -22,7 +22,6 @@
           (var(--rating-max) * (var(--letter-spacing) + var(--font-size)))
       ) * 100%
   );
-  letter-spacing: calc(var(--letter-spacing) * 1rem);
   font-size: 20px;
   line-height: 1;
   display: inline-block;
