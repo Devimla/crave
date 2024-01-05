@@ -83,21 +83,3 @@ class CustomerAddresses {
     }
   };
 }
-<script>
-  // Defina o número mínimo de palavras para capitalizar
-  var minWords = 2;
-
-  // Selecione o elemento que você deseja capitalizar
-  var titleElement = document.querySelector('.capitalize-first-words');
-
-  // Obtenha o conteúdo do elemento
-  var titleText = titleElement.textContent || titleElement.innerText;
-
-  // Verifique o número de palavras
-  var wordCount = titleText.split(' ').length;
-
-  // Se o número de palavras atender ao critério mínimo, aplique a capitalização
-  if (wordCount >= minWords) {
-    titleElement.style.textTransform = 'capitalize';
-  }
-</script>
