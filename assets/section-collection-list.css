@@ -31,22 +31,17 @@ h2.title strong {
 h2.title::after {
   content: "";
   display: block;
-  width: 50px; /* Largura inicial do risco */
+  width: 50px;
   height: 5px;
   border-radius: 50px;
   background-color: #f6c125;
-  margin-top: 8px;
-  position: absolute;
-  bottom: 0;
-  left: 50%; /* Centralizando o risco em relação ao texto */
-  transform: translateX(-50%); /* Centralizando o risco em relação ao texto */
+  position: relative;
+  margin-top: 0;
 }
-
 @media screen and (min-width: 749px) {
-  h2.title::after {
-    width: 20%; /* Largura do risco para telas maiores */
-  }
-}
+h2.title::after {
+  width: 20%;
+}}
 
 
 
