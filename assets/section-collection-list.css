@@ -15,7 +15,7 @@
   height: 5px;
   border-radius: 50px;
   background-color: #f6c125; /* Cor da linha */
-  margin-top: 8px; /* Espaçamento entre o texto e a linha */
+  margin-top: 4px; /* Espaçamento entre o texto e a linha */
 }
 h2.title {
   position: relative;
@@ -30,7 +30,7 @@ h2.title::after {
   height: 5px;
   border-radius: 50px;
   background-color: #f6c125;
-  margin-top: 8px;
+  margin-top: 4px;
 }
 
 @media screen and (min-width: 749px) {
