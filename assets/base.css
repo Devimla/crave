@@ -3638,3 +3638,6 @@ details-disclosure > details {
   font-size: 12px;
   color: #666;
 }
+.jdgm-rev__body p {
+  color: #222;
+}
