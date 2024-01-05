@@ -3628,4 +3628,5 @@ details-disclosure > details {
   content: none;
   background: #edf5f5;
   color: #000;
+  font-weight: bold;
 }
