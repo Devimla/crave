@@ -208,6 +208,12 @@
           "button_vertical_position": "higher",
           "greeting_message": ""
         }
+      },
+      "5784195145160458090": {
+        "type": "shopify:\/\/apps\/avada-seo-suite\/blocks\/avada-critical-css\/15507c6e-1aa3-45d3-b698-7e175e033440",
+        "disabled": true,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
