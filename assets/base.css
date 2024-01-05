@@ -3615,5 +3615,6 @@ details-disclosure > details {
   height: 8px; /* Diâmetro da bolinha */
   background-color: #000; /* Cor da bolinha */
   border-radius: 50%; /* Torna a bolinha circular */
-  margin-right: 10px; /* Espaçamento entre a bolinha e o texto (ajuste conforme necessário) */
+  margin-right: 5px; /* Espaçamento entre a bolinha e o texto (ajuste conforme necessário) */
+  margin-left: 5px;
 }
