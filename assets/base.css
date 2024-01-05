@@ -3536,6 +3536,6 @@ details-disclosure > details {
 .img-descricao img {
   margin: 0px;
   display: block;
-  width: 100%;
+  width: 40px;
   height: auto;
 }
