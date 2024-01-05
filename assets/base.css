@@ -3634,3 +3634,7 @@ details-disclosure > details {
   color: #f6c125 !important;
   font-size: 200% !important;
 }
+.jdgm-prev-badge__text {
+  font-size: 12px;
+  color: #666;
+}
