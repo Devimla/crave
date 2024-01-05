@@ -3664,5 +3664,7 @@ details-disclosure > details {
 .balao p {
   margin: 0; /* Remove a margem padrão para evitar espaçamento indesejado */
 }
-
-/* Ajuste a posição do balão conforme necessário */
+.product__info-container > * + * {
+  margin-top: 1.0rem;
+  margin-bottom: 1.0rem;
+}
