@@ -3624,3 +3624,7 @@ details-disclosure > details {
 .jdgm-row-rating {
   margin-bottom: 8px !important;
 }
+.jdgm-gallery .jdgm-gallery__thumbnail-link:nth-child(n) .jdgm-gallery__thumbnail-wrapper:before {
+  content: none;
+  background: #555;
+}
