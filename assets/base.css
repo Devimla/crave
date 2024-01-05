@@ -3665,6 +3665,6 @@ details-disclosure > details {
   margin: 0; /* Remove a margem padrão para evitar espaçamento indesejado */
 }
 .product__info-container > * + * {
-  margin-top: 1.0rem;
-  margin-bottom: 1.0rem;
+  margin-top: 1.0rem !important;
+  margin-bottom: 1.0rem !important;
 }
