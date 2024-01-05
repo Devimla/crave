@@ -31,14 +31,15 @@
 
     {% render 'meta-tags' %}
 <script>
- function capitalizeText(text, minLength) {
+ // Função para capitalizar texto com número mínimo de letras
+function capitalizeText(text, minLength) {
   // Se o texto for vazio, retorne null
   if (text === "") {
     return null;
   }
 
   // Converta o texto para um array de palavras
-  const words = text.split("2");
+  const words = text.split(" ");
 
   // Itere sobre as palavras
   for (let i = 0; i < words.length; i++) {
@@ -51,6 +52,22 @@
   // Retorne o texto capitalizado
   return words.join(" ");
 }
+
+// Selecione a div com a classe "collection-hero__text-wrapper"
+const collectionHero = document.querySelector(".collection-hero__text-wrapper");
+
+// Selecione a h1 com a classe "collection-hero__title"
+const title = collectionHero.querySelector("h1.collection-hero__title");
+
+// Selecione o span dentro da h1
+const span = title.querySelector("span");
+
+// Capitalize o texto do span
+const capitalizedText = capitalizeText(span.textContent, 2);
+
+// Defina o texto do span como o texto capitalizado
+span.textContent = capitalizedText;
+
 </script>
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
