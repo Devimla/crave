@@ -3626,5 +3626,5 @@ details-disclosure > details {
 }
 .jdgm-gallery .jdgm-gallery__thumbnail-link:nth-child(n) .jdgm-gallery__thumbnail-wrapper:before {
   content: none;
-  background: #555;
+  background: #edf5f5;
 }
