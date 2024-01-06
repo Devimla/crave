@@ -31,36 +31,29 @@ h2.title {
 }
 
 h2.title::after {
-  content: "";
-  display: block;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background-color: #f6c125;
-  position: absolute;
-  top: 50%;
-  left: -30px;
-  transform: translateY(-50%);
-  z-index: -1;
+  content: ""; /* Adiciona o conteúdo pseudo-elemento */
+  display: block; /* Torna o pseudo-elemento um bloco separado */
+  width: 20px; /* Define a largura da bola */
+  height: 20px; /* Define a altura da bola */
+  border-radius: 50%; /* Torna a bola circular */
+  background-color: #f6c125; /* Cor da bolinha */
+  border: solid #007bff;
+  position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
+  top: 50%; /* Posiciona a bolinha no centro verticalmente */
+  left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
+  transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
+  z-index: -1; /* Coloca a bolinha atrás do texto */
 
-  /* Adiciona sombras para dar efeito 3D */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.2);
-
-  /* Adiciona um pequeno detalhe de rosca */
-  &::before {
-    content: " ";
-    display: inline-block;
-    position: absolute;
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background-color: #007bff;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) rotate(45deg);
-  }
+  /* Adiciona uma rosca à bola */
+  width: 20px; /* Define a largura da rosca */
+  height: 4px; /* Define a altura da rosca */
+  border-radius: 0; /* Torna a rosca retangular */
+  background-color: #007bff; /* Cor da rosca */
+  position: absolute; /* Posiciona a rosca em relação à bola */
+  top: 50%; /* Posiciona a rosca no centro verticalmente */
+  left: 50%; /* Posiciona a rosca no centro horizontalmente */
+  transform: rotate(45deg); /* Rotaciona a rosca */
 }
-
 
 
 
