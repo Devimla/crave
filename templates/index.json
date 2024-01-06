@@ -16,6 +16,34 @@
         "show_text_below": true
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Venta Caliente<\/strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 25,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "37ddd023-944b-4229-bbaf-f92d7122596b": {
       "type": "collection-list",
       "blocks": {
@@ -77,34 +105,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "<strong>Venta Caliente<\/strong>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 10,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "accent-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "159a565a-e5ee-47c4-8a27-5e3280abbf63": {
       "type": "multicolumn",
       "blocks": {
@@ -161,8 +161,8 @@
   },
   "order": [
     "b495ebea-6fbe-4b2d-96cf-9d9dbac0cc04",
-    "37ddd023-944b-4229-bbaf-f92d7122596b",
     "featured_collection",
+    "37ddd023-944b-4229-bbaf-f92d7122596b",
     "159a565a-e5ee-47c4-8a27-5e3280abbf63"
   ]
 }
