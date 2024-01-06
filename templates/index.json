@@ -51,10 +51,10 @@
         "4fe89970-3ef4-42b6-b514-b52d4452b574"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "Lista de Recogida",
         "heading_size": "h0",
-        "image_ratio": "portrait",
-        "columns_desktop": 4,
+        "image_ratio": "square",
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
