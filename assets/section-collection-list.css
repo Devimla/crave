@@ -33,9 +33,9 @@ h2.title {
 h2.title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 20px; /* Define a largura da bolinha */
-  height: 20px; /* Define a altura da bolinha */
-  border-radius: 50%; /* Torna a bolinha circular */
+  width: 20px; /* Define a largura da bola */
+  height: 20px; /* Define a altura da bola */
+  border-radius: 50%; /* Torna a bola circular */
   background-color: #f6c125; /* Cor da bolinha */
   border: solid #007bff;
   position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
@@ -43,6 +43,16 @@ h2.title::after {
   left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
   transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
   z-index: -1; /* Coloca a bolinha atrás do texto */
+
+  /* Adiciona uma rosca à bola */
+  width: 20px; /* Define a largura da rosca */
+  height: 4px; /* Define a altura da rosca */
+  border-radius: 0; /* Torna a rosca retangular */
+  background-color: #007bff; /* Cor da rosca */
+  position: absolute; /* Posiciona a rosca em relação à bola */
+  top: 50%; /* Posiciona a rosca no centro verticalmente */
+  left: 50%; /* Posiciona a rosca no centro horizontalmente */
+  transform: rotate(45deg); /* Rotaciona a rosca */
 }
 
 
