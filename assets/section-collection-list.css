@@ -12,48 +12,21 @@
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 20px; /* Define a largura da bolinha */
-  height: 20px; /* Define a altura da bolinha */
-  border-radius: 50%; /* Torna a bolinha circular */
-  background-color: #f6c125; /* Cor da bolinha */
-  border: solid #007bff;
-  position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
-  top: 50%; /* Posiciona a bolinha no centro verticalmente */
-  left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
-  transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
-  z-index: -1; /* Coloca a bolinha atrás do texto */
+  width: 100%; /* Define a largura do risco como 100% para estender por toda a largura do texto */
+  height: 2px; /* Define a altura do risco */
+  background-color: #007bff; /* Cor do risco */
+  position: absolute; /* Posiciona o risco em relação ao elemento pai */
+  top: 100%; /* Posiciona o risco abaixo do texto */
+  left: 0; /* Alinha o risco à esquerda do texto */
+  content: ''; /* Remove a bolinha */
 }
+
 h2.title {
   position: relative;
   font-size: 28px;
   font-weight: bold !important;
   margin-left: 30px;
 }
-
-h2.title::after {
-  content: ""; /* Adiciona o conteúdo pseudo-elemento */
-  display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 20px; /* Define a largura da bolinha */
-  height: 20px; /* Define a altura da bolinha */
-  border-radius: 50%; /* Torna a bolinha circular */
-  background-color: #f6c125; /* Cor da bolinha */
-  border: solid #007bff;
-  position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
-  top: 50%; /* Posiciona a bolinha no centro verticalmente */
-  left: -30px; /* Move a bolinha para a esquerda (ajuste conforme necessário) */
-  transform: translateY(-50%); /* Centraliza verticalmente a bolinha */
-  z-index: -1; /* Coloca a bolinha atrás do texto */
-
-  /* Adiciona a cabeça do parafuso */
-  width: 14px;
-  height: 4px;
-  background-color: #007bff;
-  position: absolute;
-  top: 50%;
-  left: -7px; /* Ajuste conforme necessário para alinhar com a bolinha */
-  transform: translateY(-50%);
-}
-
 
 
 @media screen and (max-width: 749px) {
