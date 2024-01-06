@@ -7,7 +7,6 @@
   margin: 0;
   font-size: 28px;
   font-weight: bold;
-  margin-left: 30px;
 }
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
