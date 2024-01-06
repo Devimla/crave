@@ -39,24 +39,26 @@ h2.title::after {
   background-color: #f6c125;
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  left: -30px;
+  transform: translateY(-50%);
   z-index: -1;
 
   /* Adiciona sombras para dar efeito 3D */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.2);
 
   /* Adiciona um pequeno detalhe de rosca */
-  content: " ";
-  display: inline-block;
-  position: absolute;
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background-color: #007bff;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%) rotate(45deg);
+  &::before {
+    content: " ";
+    display: inline-block;
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #007bff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
 }
 
 
