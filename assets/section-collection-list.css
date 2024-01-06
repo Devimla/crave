@@ -51,7 +51,7 @@ h2.title::after::before {
   width: 20px; /* Define a largura da rosca */
   height: 4px; /* Define a altura da rosca */
   border-radius: 0; /* Torna a rosca retangular */
-  background-color: #007bff; /* Cor da rosca */
+  background-color: red; /* Cor da rosca */
   position: absolute; /* Posiciona a rosca em relação à bola */
   top: 50%; /* Posiciona a rosca no centro verticalmente */
   left: 50%; /* Posiciona a rosca no centro horizontalmente */
