@@ -19,22 +19,34 @@
     "37ddd023-944b-4229-bbaf-f92d7122596b": {
       "type": "collection-list",
       "blocks": {
+        "a261d76c-a749-43ca-b830-1a0e58318307": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "automoviles-y-motocicletas"
+          }
+        },
+        "aa8850ec-50f3-4e96-b060-d2d8c822c917": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropas-y-accesorios"
+          }
+        },
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "casa-y-jardin"
           }
         },
-        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "herramientas-y-utilidades"
-          }
-        },
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
             "collection": "salud-y-belleza"
+          }
+        },
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "herramientas-y-utilidades"
           }
         },
         "4fe89970-3ef4-42b6-b514-b52d4452b574": {
@@ -45,9 +57,11 @@
         }
       },
       "block_order": [
+        "a261d76c-a749-43ca-b830-1a0e58318307",
+        "aa8850ec-50f3-4e96-b060-d2d8c822c917",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1",
-        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-3",
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2",
         "4fe89970-3ef4-42b6-b514-b52d4452b574"
       ],
       "settings": {
