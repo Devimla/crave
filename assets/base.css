@@ -3666,10 +3666,5 @@ details-disclosure > details {
 }
 
 .balao p {
-  margin: 3px; /* Remove a margem padrão para evitar espaçamento indesejado */
-}
-
-
-.balao p {
-  margin: 0; /* Remove a margem padrão para evitar espaçamento indesejado */
+  margin: 5px; /* Remove a margem padrão para evitar espaçamento indesejado */
 }
