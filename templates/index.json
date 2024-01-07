@@ -105,57 +105,21 @@
         "padding_bottom": 0
       }
     },
-    "159a565a-e5ee-47c4-8a27-5e3280abbf63": {
-      "type": "multicolumn",
+    "17046572019621ab73": {
+      "type": "apps",
       "blocks": {
-        "template--16272637362343__159a565a-e5ee-47c4-8a27-5e3280abbf63-column-1": {
-          "type": "column",
+        "0ca68cbb-0a8d-4d7a-bda3-e6fcb3d8845d": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16272637362343__159a565a-e5ee-47c4-8a27-5e3280abbf63-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16272637362343__159a565a-e5ee-47c4-8a27-5e3280abbf63-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "maxwidth": 1080
           }
         }
       },
       "block_order": [
-        "template--16272637362343__159a565a-e5ee-47c4-8a27-5e3280abbf63-column-1",
-        "template--16272637362343__159a565a-e5ee-47c4-8a27-5e3280abbf63-column-2",
-        "template--16272637362343__159a565a-e5ee-47c4-8a27-5e3280abbf63-column-3"
+        "0ca68cbb-0a8d-4d7a-bda3-e6fcb3d8845d"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "include_margins": true
       }
     }
   },
@@ -163,6 +127,6 @@
     "b495ebea-6fbe-4b2d-96cf-9d9dbac0cc04",
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
-    "159a565a-e5ee-47c4-8a27-5e3280abbf63"
+    "17046572019621ab73"
   ]
 }
