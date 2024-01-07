@@ -3536,13 +3536,13 @@ details-disclosure > details {
 .img-descricao img {
   margin: 0px !important;
   display: block;
-  width: 100%;
+  width: 480px;
   height: auto;
   border-radius: 0px !important;
 }
 .img-brock img {
   display: block;
-  width: 100%;
+  width: 480pxs;
   height: auto;
 }
 .jdgm-widget *{
