@@ -174,7 +174,6 @@ input[type="email" i] {
   align-self: flex-end;
   grid-row-start: 3;
   justify-self: flex-start;
-  background: #4CAF50 !important;
 }
 
 .card__badge.top {
