@@ -3534,7 +3534,7 @@ details-disclosure > details {
   background: transparent !important;
 }
 .img-descricao img {
-  margin: 0px auto !important;
+  margin: 0 !important;
   display: block;
   width: 480px;
   height: auto;
@@ -3649,13 +3649,14 @@ details-disclosure > details {
 .jdgm-rev__body p {
   color: #222;
 }
-.jdgm-carousel-item__review-body jdgm-line-clamp {
+.jdgm-carousel-item__review-body {
   color: #333 !important;
 }
 .balao {
   background-color: #4CAF50; /* Cor de fundo verde, você pode ajustar conforme desejar */
   color: #fff; /* Cor do texto branco para melhor legibilidade */
   padding: 5px; /* Espaçamento interno para o conteúdo dentro do balão */
+  margin: 5px;
   border-radius: 50px; /* Cantos arredondados para um visual mais agradável */
   position: relative; /* Permite ajustar a posição do balão */
   white-space: nowrap; /* Impede que o texto quebre de linha */
