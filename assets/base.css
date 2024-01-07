@@ -3649,6 +3649,9 @@ details-disclosure > details {
 .jdgm-rev__body p {
   color: #222;
 }
+.jdgm-carousel-item__review-body jdgm-line-clamp {
+  color: #333 !important;
+}
 .balao {
   background-color: #4CAF50; /* Cor de fundo verde, você pode ajustar conforme desejar */
   color: #fff; /* Cor do texto branco para melhor legibilidade */
@@ -3669,4 +3672,3 @@ details-disclosure > details {
 .balao p {
   margin: 0; /* Remove a margem padrão para evitar espaçamento indesejado */
 }
-
