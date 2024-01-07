@@ -3534,7 +3534,7 @@ details-disclosure > details {
   background: transparent !important;
 }
 .img-descricao img {
-  margin: 0 !important;
+  margin: 0px auto !important;
   display: block;
   width: 480px;
   height: auto;
