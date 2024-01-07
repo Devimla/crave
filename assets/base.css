@@ -3588,7 +3588,7 @@ details-disclosure > details {
   height: calc(60% - 4em) !important;
 }
 .jdgm-carousel-item__reviewer-name {
-  color: #007bff;
+  color: #333;
   font-size: 15px !important;
   font-weight: bold; 
 }
