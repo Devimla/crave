@@ -3656,7 +3656,7 @@ details-disclosure > details {
   background-color: #4CAF50; /* Cor de fundo verde, você pode ajustar conforme desejar */
   color: #fff; /* Cor do texto branco para melhor legibilidade */
   padding: 5px; /* Espaçamento interno para o conteúdo dentro do balão */
-  border-radius: 50px; /* Cantos arredondados para um visual mais agradável */
+  border-radius: 10px; /* Cantos arredondados para um visual mais agradável */
   position: relative; /* Permite ajustar a posição do balão */
   white-space: nowrap; /* Impede que o texto quebre de linha */
   overflow: hidden; /* Corta qualquer conteúdo que exceda a largura do balão */
