@@ -3581,7 +3581,7 @@ details-disclosure > details {
 }
 .jdgm-carousel-title {
   font-size: 17px !important;
-  color: #007bff;
+  color: #1773B0;
   font-weight: bold;
 }
 .jdgm-carousel-item__product {
@@ -3627,7 +3627,7 @@ details-disclosure > details {
   display: inline-block;
   width: 8px; /* Diâmetro da bolinha */
   height: 8px; /* Diâmetro da bolinha */
-  background-color: #007bff; /* Cor da bolinha */
+  background-color: #1773B0; /* Cor da bolinha */
   border-radius: 50%; /* Torna a bolinha circular */
   margin-right: 5px; /* Espaçamento entre a bolinha e o texto (ajuste conforme necessário) */
   margin-left: 5px;
@@ -3648,7 +3648,7 @@ details-disclosure > details {
   color: #222 !important;
 }
 .jdgm-paginate__page.jdgm-curt {
-  color: #007bff !important;
+  color: #1773B0 !important;
   font-size: 200% !important;
 }
 .jdgm-prev-badge__text {
