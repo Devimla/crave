@@ -1299,6 +1299,9 @@ button.shopify-payment-button__button--unbranded {
   background-color: #333333; /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
   /* Outras propriedades de estilo, se necessário */
 }
+.shopify-payment-button__button [role="button"] .Xrk_DudB6JJ3t2Kh2_cU {
+  text-transform: uppercase;
+}
 
 .button:not([disabled]):hover::after,
 .shopify-challenge__button:hover::after,
