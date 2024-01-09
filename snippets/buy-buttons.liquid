@@ -98,7 +98,6 @@
           {%- endif -%}
         </div>
       {%- endform -%}
-      {% render 'botao-pegajoso' %}
     </product-form>
   {%- else -%}
     <div class="product-form">
@@ -113,6 +112,7 @@
         </button>
       </div>
     </div>
+          {% render 'botao-pegajoso' %}
   {%- endif -%}
 
   {%- if show_pickup_availability -%}
