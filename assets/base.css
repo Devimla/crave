@@ -1302,6 +1302,7 @@ button.shopify-payment-button__button--unbranded {
 .shopify-cleanslate .h7OYsWHrW5495r9beh2n {
   font-weight: bold;
 }
+
 .button:not([disabled]):hover::after,
 .shopify-challenge__button:hover::after,
 .customer button:hover::after,
