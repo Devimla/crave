@@ -97,6 +97,7 @@
             {{ form | payment_button }}
           {%- endif -%}
         </div>
+                  {% render 'botao-pegajoso' %}
       {%- endform -%}
     </product-form>
   {%- else -%}
@@ -112,7 +113,6 @@
         </button>
       </div>
     </div>
-          {% render 'botao-pegajoso' %}
   {%- endif -%}
 
   {%- if show_pickup_availability -%}
