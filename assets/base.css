@@ -1300,7 +1300,7 @@ button.shopify-payment-button__button--unbranded {
   /* Outras propriedades de estilo, se necessário */
 }
 .shopify-cleanslate .h7OYsWHrW5495r9beh2n {
-  text-transform: uppercase;
+  font-weight: bold;
 }
 .button:not([disabled]):hover::after,
 .shopify-challenge__button:hover::after,
