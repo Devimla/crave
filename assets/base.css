@@ -3673,6 +3673,8 @@ details-disclosure > details {
   margin: 2px !important;
   line-height: 29px; 
   height: 37px;
+  font-weight: bold;
+  text-transform: uppercase;
   display: inline-block; /* Permite que o balão se ajuste ao tamanho do conteúdo */
 }
 
