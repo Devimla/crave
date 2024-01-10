@@ -232,3 +232,7 @@ quick-add-modal .product-media-container.constrain-height {
     --constrained-min-height: 400px;
   }
 }
+#quick-add-template--16272637362343__featured_collection7749347803303-submit {
+    font-size: 14px; /* Substitua 16px pelo tamanho desejado em pixels ou utilize outras unidades de medida como em, rem, etc. */
+}
+
