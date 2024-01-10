@@ -3675,7 +3675,6 @@ details-disclosure > details {
   display: inline-block;
   font-weight: bold;
   text-transform: uppercase;
-  margin: 10px!important; /* Ajuste a margem conforme necessário */
 }
 .balao p {
   margin: 0px;
