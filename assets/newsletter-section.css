@@ -9,7 +9,11 @@
     padding-left: 9rem;
   }
 }
-
+@media screen and (max-width: 600px) {
+  .newsletter__wrapper {
+    font-size: 12px;
+  }
+}
 .newsletter__wrapper > * {
   margin-top: 0;
   margin-bottom: 0;
