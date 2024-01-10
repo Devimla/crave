@@ -3664,6 +3664,7 @@ details-disclosure > details {
 .balao {
   background-color: #4caf50;
   color: #fff;
+  padding: 5px;
   border-radius: 5px;
   position: relative;
   white-space: nowrap;
