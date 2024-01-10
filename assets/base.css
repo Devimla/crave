@@ -3672,12 +3672,11 @@ details-disclosure > details {
   font-size: 1em; /* Ajuste o tamanho do texto relativo ao balão */
   line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
   height: 50px; /* Ajuste a altura do balão conforme necessário */
-  width: 60px; /* Ajuste a largura do balão conforme necessário */
   display: inline-block;
+  font-weight: bold;
+  text-transform: uppercase;
   margin: 10px!important; /* Ajuste a margem conforme necessário */
 }
-
-
 .balao p {
   margin: 0px;
 }
