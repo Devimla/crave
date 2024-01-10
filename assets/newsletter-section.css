@@ -14,6 +14,15 @@
     font-size: 12px;
   }
 }
+@media screen and (max-width: 750px) {
+  .custom-heading {
+    /* Seus estilos específicos para dispositivos móveis aqui */
+    /* Por exemplo, mudar a cor do texto */
+    color: red;
+    /* Ou alterar o tamanho da fonte */
+    font-size: 18px;
+  }
+}
 .newsletter__wrapper > * {
   margin-top: 0;
   margin-bottom: 0;
