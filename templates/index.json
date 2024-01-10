@@ -128,14 +128,14 @@
         "heading_aLc3P3": {
           "type": "heading",
           "settings": {
-            "heading": "¡Regístrate en nuestro boletín y mantente al tanto de nuestras novedades y promociones, además de recibir un cupón de descuento del 15%!",
+            "heading": "¡Regístrate en nuestra newsletter!",
             "heading_size": "h2"
           }
         },
         "paragraph_Xw8LAn": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>¡Y mantente al tanto de nuestras novedades y promociones, además de recibir un cupón de descuento del 15%!<\/p>"
           }
         },
         "email_form_XMwEh9": {
