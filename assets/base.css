@@ -3671,7 +3671,7 @@ details-disclosure > details {
   overflow: hidden;
   font-size: 0.8em; /* Ajuste o tamanho do texto relativo ao balão */
   line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
-  height: 30px; /* Ajuste a altura do balão conforme necessário */
+  height: 28px; /* Ajuste a altura do balão conforme necessário */
   display: inline-block;
   font-weight: bold;
   text-transform: uppercase;
