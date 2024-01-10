@@ -2,7 +2,11 @@
 <!-- para remover a animação exclua a linha de cima -->
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-{%- if show_quick_add -%}
+{% if template contains 'product' %}
+  <div class="sticky_cart">
+    <div class="product-details">
+       <div class="cart-btn animate__animated animate__slow animate__infinite animate__pulse">
+            {%- if show_quick_add -%}
           <div class="quick-add no-js-hidden">
             {%- liquid
               assign product_form_id = 'quick-add-' | append: section_id | append: card_product.id
@@ -99,6 +103,10 @@
             {%- endif -%}
           </div>
         {%- endif -%}
+          </div>
+        </div>
+      </div>    
+{% endif %}
 
 <style>
 @media screen and (min-width:721px){
