@@ -128,7 +128,7 @@
         "heading_aLc3P3": {
           "type": "heading",
           "settings": {
-            "heading": "¡Regístrate en nuestra newsletter!",
+            "heading": "<strong>¡Regístrate en nuestra newsletter!<\/strong>",
             "heading_size": "h2"
           }
         },
@@ -151,7 +151,7 @@
       ],
       "custom_css": [
         "@media screen and (max-width: 750px) {h2 {font-size: 16px; }}",
-        ".newsletter__wrapper>*+* {margin-top: 1rem;}"
+        ".newsletter__wrapper > * + * {margin-top: 1rem;}"
       ],
       "settings": {
         "color_scheme": "",
