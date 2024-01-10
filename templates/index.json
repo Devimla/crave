@@ -149,6 +149,9 @@
         "paragraph_Xw8LAn",
         "email_form_XMwEh9"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 750px) {h2 {font-size: 16px; }}"
+      ],
       "settings": {
         "color_scheme": "",
         "full_width": true,
