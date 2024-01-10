@@ -3662,21 +3662,21 @@ details-disclosure > details {
   color: #333 !important;
 }
 .balao {
-  background-color: #4CAF50; /* Cor de fundo verde, você pode ajustar conforme desejar */
-  color: #fff; /* Cor do texto branco para melhor legibilidade */
-  padding: 5px; /* Espaçamento interno para o conteúdo dentro do balão */
-  border-radius: 5px; /* Cantos arredondados para um visual mais agradável */
-  position: relative; /* Permite ajustar a posição do balão */
-  white-space: nowrap; /* Impede que o texto quebre de linha */
-  overflow: hidden; /* Corta qualquer conteúdo que exceda a largura do balão */
-  font-size: 0.9em; /* Ajuste o tamanho da fonte conforme necessário */
-  margin: 2px !important;
-  line-height: 29px; 
-  height: 37px;
-  font-weight: bold;
-  text-transform: uppercase;
-  display: inline-block; /* Permite que o balão se ajuste ao tamanho do conteúdo */
+  background-color: #4caf50;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 1.2em; /* Ajuste o tamanho do texto conforme necessário */
+  line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
+  height: 50px; /* Ajuste a altura do balão conforme necessário */
+  width: 60px; /* Ajuste a largura do balão conforme necessário */
+  display: inline-block;
+  margin: 10px!important; /* Ajuste a margem conforme necessário */
 }
+
 
 .balao p {
   margin: 0px;
