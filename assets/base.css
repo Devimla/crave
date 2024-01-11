@@ -3596,10 +3596,12 @@ details-disclosure > details {
 .jdgm-carousel-wrapper .jdgm-carousel-item__review {
   height: calc(60% - 4em) !important;
 }
-.jdgm-carousel__left-arrow .jdgm-carousel__right-arrow {
+.jdgm-carousel__left-arrow {
   border-color: #1773B0!important;
 }
-
+.jdgm-carousel__right-arrow {
+  border-color: #1773B0!important;
+}
 .jdgm-carousel-item__reviewer-name {
   color: #333;
   font-size: 15px !important;
