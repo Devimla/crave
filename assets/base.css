@@ -3694,7 +3694,7 @@ details-disclosure > details {
   white-space: nowrap;
   width: 100%;
   overflow: hidden;
-  font-size: 0.5em; /* Ajuste o tamanho do texto relativo ao balão */
+  font-size: 0.6em; /* Ajuste o tamanho do texto relativo ao balão */
   line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
   height: 28px; /* Ajuste a altura do balão conforme necessário */
   display: inline-block;
