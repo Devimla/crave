@@ -81,7 +81,7 @@
         "essential_trust_badges_app_block_nh47Qa": {
           "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
           "settings": {
-            "banner_display": "all",
+            "banner_display": "single",
             "banner_id": "f410ebfb-a7c3-4362-8805-ad8c6cf12ef2"
           }
         }
