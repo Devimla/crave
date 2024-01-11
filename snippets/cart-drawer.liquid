@@ -449,9 +449,6 @@
       </cart-drawer-items>
       <div class="drawer__footer">
         {%- if settings.show_cart_note -%}
-                        <div class="balao">
-                  <p>Envío gratis, sin monto mínimo de compra</p>
-                </div>
           <details id="Details-CartDrawer">
             <summary>
               <span class="summary__title">
@@ -494,17 +491,9 @@
             <p class="totals__total-value">{{ cart.total_price | money_with_currency }}</p>
           </div>
 
-          <small class="tax-note caption-large rte">
-            {%- if cart.taxes_included and shop.shipping_policy.body != blank -%}
-              {{ 'sections.cart.taxes_included_and_shipping_policy_html' | t: link: shop.shipping_policy.url }}
-            {%- elsif cart.taxes_included -%}
-              {{ 'sections.cart.taxes_included_but_shipping_at_checkout' | t }}
-            {%- elsif shop.shipping_policy.body != blank -%}
-              {{ 'sections.cart.taxes_and_shipping_policy_at_checkout_html' | t: link: shop.shipping_policy.url }}
-            {%- else -%}
-              {{ 'sections.cart.taxes_and_shipping_at_checkout' | t }}
-            {%- endif -%}
-          </small>
+                <div class="balao">
+                  <p>¿Tienes un cupón? Puedes agregarlo en la página de pago.</p>
+                </div>
         </div>
 
         <!-- CTAs -->
