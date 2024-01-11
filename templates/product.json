@@ -47,6 +47,13 @@
           "type": "description",
           "settings": {
           }
+        },
+        "essential_trust_badges_app_block_6rLxaj": {
+          "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
+          "settings": {
+            "banner_display": "single",
+            "banner_id": "f410ebfb-a7c3-4362-8805-ad8c6cf12ef2"
+          }
         }
       },
       "block_order": [
@@ -57,7 +64,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "essential_trust_badges_app_block_6rLxaj"
       ],
       "settings": {
         "enable_sticky_info": true,
