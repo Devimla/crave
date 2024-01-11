@@ -3685,6 +3685,24 @@ details-disclosure > details {
 .balao p {
   margin: 0px;
 }
+.cupom {
+  background-color: green;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 0.5em; /* Ajuste o tamanho do texto relativo ao balão */
+  line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
+  height: 28px; /* Ajuste a altura do balão conforme necessário */
+  display: inline-block;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.cupom p {
+  margin: 0px;
+}
 #ProductSubmitButton-quickadd-template--16272637591719__main {
   background-color: #333; /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
 }
