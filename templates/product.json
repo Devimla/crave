@@ -75,6 +75,24 @@
         "padding_bottom": 16
       }
     },
+    "1705014613b44e7e82": {
+      "type": "apps",
+      "blocks": {
+        "essential_trust_badges_app_block_nh47Qa": {
+          "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
+          "settings": {
+            "banner_display": "all",
+            "banner_id": "f410ebfb-a7c3-4362-8805-ad8c6cf12ef2"
+          }
+        }
+      },
+      "block_order": [
+        "essential_trust_badges_app_block_nh47Qa"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "1704431877f50aafce": {
       "type": "apps",
       "blocks": {
@@ -112,6 +130,7 @@
   },
   "order": [
     "main",
+    "1705014613b44e7e82",
     "1704431877f50aafce",
     "related-products"
   ]
