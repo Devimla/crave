@@ -105,6 +105,24 @@
         "padding_bottom": 0
       }
     },
+    "17050130867c8f3f14": {
+      "type": "apps",
+      "blocks": {
+        "essential_trust_badges_app_block_FQBYaj": {
+          "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
+          "settings": {
+            "banner_display": "single",
+            "banner_id": "f410ebfb-a7c3-4362-8805-ad8c6cf12ef2"
+          }
+        }
+      },
+      "block_order": [
+        "essential_trust_badges_app_block_FQBYaj"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "17046572019621ab73": {
       "type": "apps",
       "blocks": {
@@ -166,6 +184,7 @@
     "b495ebea-6fbe-4b2d-96cf-9d9dbac0cc04",
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
+    "17050130867c8f3f14",
     "17046572019621ab73",
     "newsletter_xcJNiH"
   ]
