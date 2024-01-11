@@ -3595,6 +3595,7 @@ details-disclosure > details {
 }
 .jdgm-carousel-wrapper .jdgm-carousel-item__review {
   height: calc(60% - 4em) !important;
+  color: #1773B0;
 }
 .jdgm-carousel-item__reviewer-name {
   color: #333;
