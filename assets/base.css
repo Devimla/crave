@@ -3692,6 +3692,7 @@ details-disclosure > details {
   border-radius: 5px;
   position: relative;
   white-space: nowrap;
+  width: 100%;
   overflow: hidden;
   font-size: 0.5em; /* Ajuste o tamanho do texto relativo ao balão */
   line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
