@@ -43,16 +43,15 @@
             "show_gift_card_recipient": true
           }
         },
+        "bundler_custom_bundle_ydBXBK": {
+          "type": "shopify:\/\/apps\/bundler\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "settings": {
+            "shortcode": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
-          }
-        },
-        "essential_trust_badges_app_block_6rLxaj": {
-          "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
-          "settings": {
-            "banner_display": "single",
-            "banner_id": "f410ebfb-a7c3-4362-8805-ad8c6cf12ef2"
           }
         }
       },
@@ -64,8 +63,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "essential_trust_badges_app_block_6rLxaj"
+        "bundler_custom_bundle_ydBXBK",
+        "description"
       ],
       "settings": {
         "enable_sticky_info": true,
