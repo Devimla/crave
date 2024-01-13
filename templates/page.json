@@ -69,7 +69,7 @@
           "settings": {
             "heading": "¿Es seguro el pago?",
             "icon": "lock",
-            "row_content": "<p>Aceptamos los siguientes 2 métodos de pago principales:<\/p><p><strong>PayPal <\/strong><\/p><p>La Tienda  Mix<strong> <\/strong>utiliza principalmente PayPal para procesar pagos seguros. A través de PayPal, aceptamos MasterCard, VISA, American Express, Discover.<\/p><p><strong>Pago seguro con tarjeta de crédito a través de Stripe.<\/strong><\/p><p>También podemos aceptar el pago con tarjeta de crédito utilizando Visa, Master card, American expres y Discover .<\/p>",
+            "row_content": "<p>Aceptamos los siguientes 2 métodos de pago principales:<\/p><p><strong>PayPal <\/strong><\/p><p>La Tienda  Mix<strong> <\/strong>utiliza principalmente PayPal para procesar pagos seguros. A través de PayPal, aceptamos MasterCard, VISA, American Express, Discover.<\/p><p><strong>Pago seguro con tarjeta de crédito a través de Stripe.<\/strong><\/p><p>También podemos aceptar el pago con tarjeta de crédito utilizando Visa, Master card, American expres, Discover y ApplePay.<\/p>",
             "page": ""
           }
         }
