@@ -5,13 +5,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "link_list_CKMVCH": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
         "link_list_LVmEyD": {
           "type": "link_list",
           "settings": {
@@ -21,7 +14,6 @@
         }
       },
       "block_order": [
-        "link_list_CKMVCH",
         "link_list_LVmEyD"
       ],
       "custom_css": [
