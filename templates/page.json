@@ -13,9 +13,9 @@
         "collapsible_row_NK4yAq": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Entrega",
+            "icon": "truck",
+            "row_content": "<h4>¿Qué pasa si no estoy en casa?<\/h4><p>Si no estás en casa, se realizará una nueva entrega al día siguiente o el socio de entrega se pondrá en contacto contigo para programar una nueva fecha de entrega, según el país y el método de entrega que elijas. También es posible que tengas que ir a tu oficina de correos local para recoger tu paquete en caso de que no se lo puedan entregar.<\/p>",
             "page": ""
           }
         },
