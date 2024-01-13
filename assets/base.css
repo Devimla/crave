@@ -3716,7 +3716,7 @@ details-disclosure > details {
   }
 
   .footer-block {
-    width: 48%; /* ou qualquer valor desejado para a largura dos blocos */
+    width: 48% !important; /* ou qualquer valor desejado para a largura dos blocos */
     box-sizing: border-box; /* para incluir as bordas e o preenchimento na largura */
   }
 
