@@ -8,14 +8,14 @@
         "link_list_LVmEyD": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "<strong>Política<\/strong>",
             "menu": "footer-1"
           }
         },
         "link_list_zFwt4V": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "<strong>Servicio<\/strong>",
             "menu": "footer"
           }
         }
