@@ -3708,27 +3708,29 @@ details-disclosure > details {
 #ProductSubmitButton-quickadd-template--16272637591719__main {
   background-color: #333; /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
 }
-.footer__blocks-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
+@media screen and (max-width: 749px) {
+  .footer__blocks-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 
-.footer-block {
-  width: 48%; /* ou qualquer valor desejado para a largura dos blocos */
-  box-sizing: border-box; /* para incluir as bordas e o preenchimento na largura */
-}
+  .footer-block {
+    width: 48%; /* ou qualquer valor desejado para a largura dos blocos */
+    box-sizing: border-box; /* para incluir as bordas e o preenchimento na largura */
+  }
 
-.footer-block__heading {
-  width: 100%;
-}
+  .footer-block__heading {
+    width: 100%;
+  }
 
-.footer-block__details-content {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+  .footer-block__details-content {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
 
-.list-menu__item {
-  margin-bottom: 10px;
+  .list-menu__item {
+    margin-bottom: 10px;
+  }
 }
