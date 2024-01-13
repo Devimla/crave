@@ -19,6 +19,15 @@
             "page": ""
           }
         },
+        "collapsible_row_Vw6aCn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuál es el estado de mi pedido?",
+            "icon": "check_mark",
+            "row_content": "<p>Una vez que haya realizado su pedido, le enviaremos un correo electrónico de confirmación para que pueda seguir el estado de su pedido.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_GyE94U": {
           "type": "collapsible_row",
           "settings": {
@@ -49,6 +58,7 @@
       },
       "block_order": [
         "collapsible_row_NK4yAq",
+        "collapsible_row_Vw6aCn",
         "collapsible_row_GyE94U",
         "collapsible_row_pfNqVi",
         "collapsible_row_BWtYJp"
