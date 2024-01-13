@@ -51,7 +51,7 @@
           "settings": {
             "heading": "¿Puedo cambiar un artículo?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Aceptamos cambios y siguen las mismas condiciones que las devoluciones. Para solicitar un cambio, indique que desea cambiar su artículo por otro al preparar su devolución con nuestro servicio de asistencia, haciendo <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Entrar en contacto\">clic aquí<\/a><\/p>",
             "page": ""
           }
         },
