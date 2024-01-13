@@ -22,9 +22,9 @@
         "collapsible_row_GyE94U": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "¿Aceptan devoluciones?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Sí, aceptamos devoluciones con las siguientes condiciones:<\/p><ul><li>El artículo debe haber sido vendido en nuestra tienda online.<\/li><li>El artículo no debe haber sido usado de ninguna manera.<\/li><li>La solicitud de devolución o cambio se realiza dentro de los 14 días siguientes a la entrega.<\/li><\/ul>",
             "page": ""
           }
         },
