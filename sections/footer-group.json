@@ -24,6 +24,9 @@
         "link_list_CKMVCH",
         "link_list_LVmEyD"
       ],
+      "custom_css": [
+        "p {color: #333;}"
+      ],
       "settings": {
         "color_scheme": "accent-2",
         "newsletter_enable": false,
