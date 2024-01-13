@@ -495,7 +495,6 @@
   @media screen and (max-width: 749px) {
     .footer .grid {
       margin-left: 0;
-      background-color: red !important;
     }
   }
 
@@ -506,7 +505,10 @@
 
     .footer__content-top .grid__item {
       padding-left: 3rem;
-      background-color: red!important;
     }
   }
 }
+.footer-block.footer-block--menu {
+  background-color: #333;
+}
+
