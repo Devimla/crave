@@ -3708,3 +3708,23 @@ details-disclosure > details {
 #ProductSubmitButton-quickadd-template--16272637591719__main {
   background-color: #333; /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
 }
+.footer-block {
+  display: flex;
+  flex-direction: row; /* Por padrão, os itens estarão em uma linha horizontal */
+  justify-content: space-between; /* Adiciona espaçamento entre os itens */
+  flex-wrap: wrap; /* Permite que os itens se movam para a próxima linha se o espaço for insuficiente */
+}
+
+.footer-block__heading {
+  width: 100%; /* Garante que o título ocupa toda a largura do container */
+}
+
+.footer-block__details-content {
+  list-style: none; /* Remove os marcadores da lista padrão */
+  padding: 0; /* Remove o preenchimento padrão da lista */
+  margin: 0; /* Remove as margens padrão da lista */
+}
+
+.list-menu__item {
+  margin-bottom: 10px; /* Adiciona espaçamento entre os itens da lista, se desejar */
+}
