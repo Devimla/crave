@@ -28,6 +28,15 @@
             "page": ""
           }
         },
+        "collapsible_row_enbAeW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo modificar mi pedido?",
+            "icon": "check_mark",
+            "row_content": "<p>Sólo podemos cambiar los pedidos que aún no han sido procesados para su envío. Una vez que su pedido se encuentre en el estado \"preparando el envío\", \"enviando\" o \"entregando\", no podremos aceptar ninguna modificación de su pedido.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_GyE94U": {
           "type": "collapsible_row",
           "settings": {
@@ -49,9 +58,9 @@
         "collapsible_row_BWtYJp": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "¿Es seguro el pago?",
+            "icon": "lock",
+            "row_content": "<p>Aceptamos los siguientes 2 métodos de pago principales:<\/p><ul><li><strong>PayPal<\/strong><\/li><\/ul><p><strong>La Tienda  Mix <\/strong>utiliza principalmente PayPal para procesar pagos seguros. A través de PayPal, aceptamos MasterCard, VISA, American Express, Discover.<\/p><ul><li><strong>Pago seguro con tarjeta de crédito a través de Stripe.<\/strong><\/li><\/ul><p>También podemos aceptar el pago con tarjeta de crédito utilizando Visa, Master card, American expres y Discover .<\/p>",
             "page": ""
           }
         }
@@ -59,6 +68,7 @@
       "block_order": [
         "collapsible_row_NK4yAq",
         "collapsible_row_Vw6aCn",
+        "collapsible_row_enbAeW",
         "collapsible_row_GyE94U",
         "collapsible_row_pfNqVi",
         "collapsible_row_BWtYJp"
