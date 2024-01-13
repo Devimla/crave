@@ -3712,7 +3712,7 @@ details-disclosure > details {
   .footer__blocks-wrapper {
     display: flex !important;
     flex-wrap: wrap !important;
-    justify-content: space-between;
+    justify-content: space-between !important;
   }
 
   .footer-block {
