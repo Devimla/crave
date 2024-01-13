@@ -3711,7 +3711,7 @@ details-disclosure > details {
 @media screen and (max-width: 749px) {
   .footer__blocks-wrapper {
     display: flex !important;
-    flex-wrap: wrap ;
+    flex-wrap: wrap !important;
     justify-content: space-between;
   }
 
