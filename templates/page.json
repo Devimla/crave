@@ -46,6 +46,15 @@
             "page": ""
           }
         },
+        "collapsible_row_GgJ8La": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Las devoluciones son gratuitas?",
+            "icon": "check_mark",
+            "row_content": "<p>Para devolver un artículo, póngase en contacto con el servicio de atención al cliente para obtener una dirección de devolución. Después de recibir la dirección, coloque el artículo de forma segura en su embalaje original e incluya su prueba de compra.<\/p><p>El envío de la devolución es gratuito en algunos casos. Si devuelve un artículo y el motivo de la devolución no es resultado de un error de <strong>latienda-mix.com<\/strong>, el coste del envío de devolución se deducirá de su reembolso.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_pfNqVi": {
           "type": "collapsible_row",
           "settings": {
@@ -70,6 +79,7 @@
         "collapsible_row_Vw6aCn",
         "collapsible_row_enbAeW",
         "collapsible_row_GyE94U",
+        "collapsible_row_GgJ8La",
         "collapsible_row_pfNqVi",
         "collapsible_row_BWtYJp"
       ],
