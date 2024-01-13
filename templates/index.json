@@ -152,13 +152,14 @@
       "custom_css": [
         "@media screen and (max-width: 750px) {h2 {font-size: 18px; color: #1773b0; }}",
         ".newsletter__wrapper > * + * {margin-top: 1rem;}",
-        "p {color: #333; font-size: 12px;}"
+        "p {color: #333; font-size: 12px;}",
+        ".content-container:after {background-color: #e7e7e7; padding-button: 20px;}"
       ],
       "settings": {
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     }
   },
