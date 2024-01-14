@@ -3676,7 +3676,7 @@ h2.inline-richtext {
   color: #333 !important;
 }
 .balao {
-  background-color: green;
+  background-color: #333333;
   color: #fff;
   padding: 5px;
   border-radius: 5px;
@@ -3693,7 +3693,7 @@ h2.inline-richtext {
   margin: 0px;
 }
 .cupom {
-  background-color: green;
+  background-color: #333333;
   color: #fff;
   padding: 5px;
   border-radius: 5px;
