@@ -27,7 +27,7 @@
 }
 span.price-item--sale {
   /* Adicione seus estilos personalizados aqui */
-  color: #ff0000; /* Por exemplo, altera a cor do texto para vermelho */
+  color: #ff0000 !important; /* Por exemplo, altera a cor do texto para vermelho */
   font-weight: bold; /* Adiciona negrito ao texto */
   /* Adicione mais estilos conforme necessário */
 }
