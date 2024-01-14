@@ -325,11 +325,11 @@
   .footer-block__details-content > p,
   .footer-block__details-content > li {
     padding: 0;
-    color: #333;
   }
 
   .footer-block:only-child li {
     display: inline;
+    color: #333 !important;
   }
 
   .footer-block__details-content > li:not(:last-child) {
