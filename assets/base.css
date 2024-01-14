@@ -2963,7 +2963,7 @@ details-disclosure > details {
 }
 
 .badge {
-  border-radius: 5px !important;
+  border-top-left-radius: 5px !important;
   display: inline-block;
   font-size: 1.9rem;
   letter-spacing: 0.1rem;
