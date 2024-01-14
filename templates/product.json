@@ -56,7 +56,7 @@
         "essential_trust_badges_app_block_DaHUXF": {
           "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
           "settings": {
-            "banner_display": "all",
+            "banner_display": "single",
             "banner_id": "e97b720b-402c-4b34-a7d9-e97edc923d26"
           }
         }
