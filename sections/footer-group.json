@@ -2,6 +2,40 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "newsletter_rkJW96": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_TVdW9q": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>¡Regístrate en nuestro boletín!<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_HmjNHG": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>¡Y mantente al tanto de nuestras novedades y promociones, además de recibir un cupón de descuento del 15%!<\/p>"
+          }
+        },
+        "email_form_3Aw47L": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_TVdW9q",
+        "paragraph_HmjNHG",
+        "email_form_3Aw47L"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -44,6 +78,7 @@
     }
   },
   "order": [
+    "newsletter_rkJW96",
     "footer"
   ]
 }
