@@ -3022,6 +3022,7 @@ details-disclosure > details {
   box-shadow: var(--text-boxes-shadow-horizontal-offset) var(--text-boxes-shadow-vertical-offset)
     var(--text-boxes-shadow-blur-radius) rgba(var(--color-shadow), var(--text-boxes-shadow-opacity));
   z-index: -1;
+  background: #e7e7e7;
 }
 
 .content-container--full-width:after {
