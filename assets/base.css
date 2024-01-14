@@ -3707,6 +3707,11 @@ h2.inline-richtext {
   font-weight: bold;
   text-transform: uppercase;
 }
+@media only screen and (min-width: 768px) {
+  .cupom {
+    font-size: 0.8em; /* Ajuste o tamanho do texto relativo ao balão */
+  }
+}
 .cupom p {
   margin: 3px;
 }
