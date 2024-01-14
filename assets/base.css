@@ -3185,6 +3185,11 @@ h2.inline-richtext {
   color: #333;
   font-size: 13px;
 }
+@media only screen and (min-width: 768px) {
+  .rte > *:first-child  {
+  font-size: 16px;
+}
+}
 
 .rte > *:last-child {
   margin-bottom: 0;
