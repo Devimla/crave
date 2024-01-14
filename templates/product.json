@@ -60,11 +60,17 @@
             "banner_id": "e97b720b-402c-4b34-a7d9-e97edc923d26"
           }
         },
-        "popup_fD99Ww": {
-          "type": "popup",
+        "complementary_8rcet7": {
+          "type": "complementary",
           "settings": {
-            "text": "Pop-up link text",
-            "page": "contact"
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
           }
         }
       },
@@ -79,7 +85,7 @@
         "bundler_bundler_target_element_BFfXMe",
         "description",
         "essential_trust_badges_app_block_DaHUXF",
-        "popup_fD99Ww"
+        "complementary_8rcet7"
       ],
       "settings": {
         "enable_sticky_info": true,
