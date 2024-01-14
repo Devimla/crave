@@ -3024,6 +3024,10 @@ details-disclosure > details {
   z-index: -1;
   background: #e7e7e7;
 }
+h2.inline-richtext {
+  color: #1773b0; /* cor do texto, pode ser alterada */
+  font-size: 24px; /* tamanho da fonte, pode ser alterado */
+}
 
 .content-container--full-width:after {
   left: 0;
