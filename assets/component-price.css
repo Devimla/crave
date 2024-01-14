@@ -22,7 +22,8 @@
   display: inline-block;
   margin: 0 1rem 0 0;
   font-weight: bold;
-  font-size: 18px;
+  color: #008000;
+  font-size: 24px;
 }
 .price--on-sale .price-item--regular {
   color: #8B0000 !important;
