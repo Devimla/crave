@@ -3026,7 +3026,7 @@ details-disclosure > details {
 }
 h2.inline-richtext {
   color: #1773b0; /* cor do texto, pode ser alterada */
-  font-size: 24px; /* tamanho da fonte, pode ser alterado */
+  font-size: 18px; /* tamanho da fonte, pode ser alterado */
 }
 
 .content-container--full-width:after {
@@ -3182,6 +3182,7 @@ h2.inline-richtext {
 
 .rte > *:first-child {
   margin-top: 0;
+  color: #333;
 }
 
 .rte > *:last-child {
