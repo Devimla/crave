@@ -3683,7 +3683,7 @@ h2.inline-richtext {
   position: relative;
   white-space: nowrap;
   overflow: hidden;
-  font-size: 0.8em; /* Ajuste o tamanho do texto relativo ao balão */
+  font-size: 0.9em; /* Ajuste o tamanho do texto relativo ao balão */
   line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
   display: inline-block;
   font-weight: bold;
@@ -3701,7 +3701,7 @@ h2.inline-richtext {
   white-space: nowrap;
   width: 100%;
   overflow: hidden;
-  font-size: 0.6em; /* Ajuste o tamanho do texto relativo ao balão */
+  font-size: 0.9em; /* Ajuste o tamanho do texto relativo ao balão */
   line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
   display: inline-block;
   font-weight: bold;
