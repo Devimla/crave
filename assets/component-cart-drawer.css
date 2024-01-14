@@ -18,6 +18,8 @@
 .drawer__inner {
   height: 100%;
   width: 40rem;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
   max-width: calc(100vw - 3rem);
   padding: 0 1.5rem;
   border: 0.1rem solid rgba(var(--color-foreground), 0.2);
@@ -33,6 +35,8 @@
   height: 100%;
   padding: 0 1.5rem;
   overflow: hidden;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
   display: flex;
   flex-direction: column;
 }
