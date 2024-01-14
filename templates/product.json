@@ -59,6 +59,13 @@
             "banner_display": "single",
             "banner_id": "e97b720b-402c-4b34-a7d9-e97edc923d26"
           }
+        },
+        "popup_fD99Ww": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": "contact"
+          }
         }
       },
       "block_order": [
@@ -71,7 +78,8 @@
         "buy_buttons",
         "bundler_bundler_target_element_BFfXMe",
         "description",
-        "essential_trust_badges_app_block_DaHUXF"
+        "essential_trust_badges_app_block_DaHUXF",
+        "popup_fD99Ww"
       ],
       "settings": {
         "enable_sticky_info": true,
