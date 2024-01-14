@@ -53,6 +53,12 @@
             "collection": "salud-y-belleza"
           }
         },
+        "4fe89970-3ef4-42b6-b514-b52d4452b574": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ninos"
+          }
+        },
         "aa8850ec-50f3-4e96-b060-d2d8c822c917": {
           "type": "featured_collection",
           "settings": {
@@ -76,21 +82,15 @@
           "settings": {
             "collection": "herramientas-y-utilidades"
           }
-        },
-        "4fe89970-3ef4-42b6-b514-b52d4452b574": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ninos"
-          }
         }
       },
       "block_order": [
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-3",
+        "4fe89970-3ef4-42b6-b514-b52d4452b574",
         "aa8850ec-50f3-4e96-b060-d2d8c822c917",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1",
         "a261d76c-a749-43ca-b830-1a0e58318307",
-        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2",
-        "4fe89970-3ef4-42b6-b514-b52d4452b574"
+        "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "settings": {
         "title": "Lista de Recogida",
