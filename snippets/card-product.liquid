@@ -54,7 +54,8 @@
       >
         {%- if card_product.featured_media -%}
           <div class="card__media{% if image_shape and image_shape != 'default' %} shape--{{ image_shape }} color-{{ settings.card_color_scheme }} gradient{% endif %}">
-          <div class="card__badge {{ settings.badge_position }}">
+            <div class="media media--transparent media--hover-effect">
+            <div class="card__badge {{ settings.badge_position }}">
             {%- if card_product.available == false -%}
               <span
                 id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
@@ -71,7 +72,6 @@
               </span>
             {%- endif -%}
           </div>
-            <div class="media media--transparent media--hover-effect">
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
               <img
                 srcset="
