@@ -121,53 +121,12 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "newsletter_xcJNiH": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_aLc3P3": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>¡Regístrate en nuestro boletín!<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "paragraph_Xw8LAn": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>¡Y mantente al tanto de nuestras novedades y promociones, además de recibir un cupón de descuento del 15%!<\/p>"
-          }
-        },
-        "email_form_XMwEh9": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_aLc3P3",
-        "paragraph_Xw8LAn",
-        "email_form_XMwEh9"
-      ],
-      "custom_css": [
-        "@media screen and (max-width: 750px) {h2 {font-size: 18px; color: #1773b0; }}",
-        ".newsletter__wrapper > * + * {margin-top: 1rem;}",
-        "p {color: #333; font-size: 12px;}",
-        ".content-container:after {background-color: #e7e7e7; padding-button: 20px;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
     }
   },
   "order": [
     "b495ebea-6fbe-4b2d-96cf-9d9dbac0cc04",
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
-    "17046572019621ab73",
-    "newsletter_xcJNiH"
+    "17046572019621ab73"
   ]
 }
