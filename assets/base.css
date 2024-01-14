@@ -3183,6 +3183,7 @@ h2.inline-richtext {
 .rte > *:first-child {
   margin-top: 0;
   color: #333;
+  font-size: 13px;
 }
 
 .rte > *:last-child {
