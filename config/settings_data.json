@@ -213,7 +213,7 @@
         "disabled": false,
         "settings": {
           "button_color": "#f6c125",
-          "secondary_color": "#ffffff",
+          "secondary_color": "#000000",
           "button_icon": "hand_wave",
           "button_text": "no_text",
           "button_horizontal_position": "bottom_left",
