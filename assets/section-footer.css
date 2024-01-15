@@ -38,7 +38,6 @@
   .footer__content-top .grid {
     row-gap: 6rem;
     margin-bottom: 0;
-    margin-left: 25%;
   }
 }
 
@@ -120,7 +119,6 @@
     align-content: center;
   }
 }
-
 .footer-block:empty {
   display: none;
 }
