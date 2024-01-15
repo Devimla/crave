@@ -1,6 +1,6 @@
 
 .price {
-  font-size: 24px;
+  font-size: 20px;
   letter-spacing: 0;
   line-height: calc(0.8 + 0.5 / var(--font-body-scale));
   font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-s;
@@ -25,7 +25,6 @@
   margin: 0 1rem 0 0;
   font-weight: bold;
   color: #008000;
-
 }
 
 
