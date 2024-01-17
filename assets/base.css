@@ -3710,7 +3710,6 @@ h2.inline-richtext {
   font-size: 0.9em; /* Ajuste o tamanho do texto relativo ao balão */
   line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
   display: inline-block;
-  font-weight: bold;
   text-transform: uppercase;
 }
 @media only screen and (min-width: 768px) {
