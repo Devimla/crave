@@ -92,6 +92,10 @@
         "a261d76c-a749-43ca-b830-1a0e58318307",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
+      "custom_css": [
+        ".collection-list-title:after {display: none;}",
+        ".slider-buttons {display: none;}"
+      ],
       "settings": {
         "title": "Lista de Recogida",
         "heading_size": "h0",
