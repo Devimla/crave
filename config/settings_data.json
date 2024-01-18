@@ -51,7 +51,7 @@
     "collection_card_color_scheme": "background-2",
     "collection_card_border_thickness": 0,
     "collection_card_border_opacity": 0,
-    "collection_card_corner_radius": 6,
+    "collection_card_corner_radius": 40,
     "collection_card_shadow_opacity": 0,
     "collection_card_shadow_horizontal_offset": -40,
     "collection_card_shadow_vertical_offset": -40,
