@@ -94,7 +94,8 @@
       ],
       "custom_css": [
         ".collection-list-title:after {display: none;}",
-        ".slider-buttons {display: none;}"
+        ".slider-buttons {display: none;}",
+        ".gradient {background: transparent;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
