@@ -2509,7 +2509,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .header__heading-logo {
   height: auto;
-  max-width: 100%;
+  max-width: 90%;
 }
 
 .header__heading-logo-wrapper {
