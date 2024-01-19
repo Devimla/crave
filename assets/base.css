@@ -3751,3 +3751,6 @@ h2.inline-richtext {
     margin-bottom: 10px;
   }
 }
+.jdgm-carousel-wrapper {
+  width: 100% !important;
+}
