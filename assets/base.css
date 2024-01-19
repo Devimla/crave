@@ -2512,7 +2512,14 @@ product-info .loading__spinner:not(.hidden) ~ *,
   max-width: 90%;
 }
 @media screen and (min-width: 990px) {
+  .header__heading-logo {
   max-width: 60%;
+  }
+}
+@media screen and (min-width: 990px) {
+  .header__heading-logo-wrapper {
+    width: 60%;
+  }
 }
 .header__heading-logo-wrapper {
   width: 90%;
