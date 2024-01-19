@@ -2513,12 +2513,12 @@ product-info .loading__spinner:not(.hidden) ~ *,
 }
 @media screen and (min-width: 990px) {
   .header__heading-logo {
-  max-width: 60%;
+  max-width: 70%;
   }
 }
 @media screen and (min-width: 990px) {
   .header__heading-logo-wrapper {
-    width: 60%;
+    width: 70%;
   }
 }
 .header__heading-logo-wrapper {
