@@ -121,8 +121,8 @@
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-52372669-a11f-4893-9058-4e8c50771496",
     "checkout_logo_image": "shopify:\/\/shop_images\/Picsart_23-12-17_02-50-00-551.png",
-    "checkout_logo_position": "center",
-    "checkout_logo_size": "medium",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
     "checkout_input_background_color_mode": "white",
     "checkout_button_color": "#21a400",
     "sections": {
@@ -199,12 +199,6 @@
       },
       "3758703918006478555": {
         "type": "shopify:\/\/apps\/pixee-multi-facebook-pixels\/blocks\/consent-banner\/61bbb1d9-d4be-4d08-879a-ee3ccb59f558",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "4804304946286255945": {
-        "type": "shopify:\/\/apps\/avada-cookie-consent\/blocks\/app-embed\/deacc407-65bc-4a4e-84d9-f90e9e492cf3",
         "disabled": false,
         "settings": {
         }
