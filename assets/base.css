@@ -3696,6 +3696,7 @@ h2.inline-richtext {
 .jdgm-quest.jdgm-rev  {
   background: red;
 }
+
 .balao {
   background-color: #333333;
   color: #fff;
@@ -3762,7 +3763,4 @@ h2.inline-richtext {
   .list-menu__item {
     margin-bottom: 10px;
   }
-}
-.jdgm-carousel-wrapper {
-  width: 100% !important;
 }
