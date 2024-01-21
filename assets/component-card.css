@@ -4,9 +4,7 @@
   position: relative;
   text-decoration: none;
 }
-.card-wrapper.product-card-wrapper.underline-links-hover:hover {
-  transform: scale(1.01);
-}
+
 
 .card {
   text-decoration: none;
