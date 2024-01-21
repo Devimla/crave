@@ -73,12 +73,12 @@
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 16
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "collapsible_content_7ULDFy": {
@@ -88,7 +88,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "NUESTRA GARANTIA",
-            "icon": "box",
+            "icon": "question_mark",
             "row_content": "",
             "page": "nuestra-garantia"
           }
@@ -97,9 +97,15 @@
       "block_order": [
         "collapsible_row_d4847z"
       ],
+      "custom_css": [
+        ".accordion {margin-top: 0; background-color: transparent; border-top: 0.1rem transparent rgba(var(--color-foreground), 0.08); border-bottom: 0.1rem transparent rgba(var(--color-foreground), 0.08);}",
+        ".content-container:after {background: transparent;}",
+        ".collapsible-content summary:hover {background: transparent;}",
+        ".collapsible-content summary:hover .accordion__title {text-decoration: none;}"
+      ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -108,8 +114,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1704431877f50aafce": {
