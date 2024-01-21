@@ -3694,7 +3694,7 @@ h2.inline-richtext {
   color: #333 !important;
 }
 .jdgm-quest, .jdgm-rev {
-    margin: 0 0 20px 0;
+    margin: 0 0 20px 0 !important;
     padding: 16px;
     background-color: #fff; /* Use background-color em vez de background */
     border-radius: 10px;
