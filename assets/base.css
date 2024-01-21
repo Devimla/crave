@@ -81,7 +81,7 @@
   display: none !important;
 }
 .strong {
-  color: "";
+  color: none;
 }
 
 html.no-js .no-js:not(html) {
