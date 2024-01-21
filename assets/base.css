@@ -80,9 +80,6 @@
 .no-js:not(html) {
   display: none !important;
 }
-.strong {
-  color: black !important;
-}
 
 html.no-js .no-js:not(html) {
   display: block !important;
@@ -3706,9 +3703,9 @@ h2.inline-richtext {
     margin: 0 0 8px 0 !important;
     padding-top: 8px !important;
     padding-bottom: 8px !important;
-    background-color: #fff; /* Use background-color em vez de background */
+    background-color: #f7f7f7; /* Use background-color em vez de background */
     border-radius: 10px;
-    border: 5px solid #fff !important;
+    border: 5px solid #f7f7f7 !important;
 }
 .jdgm-rev-widg__header {
   background-color: #fff;
