@@ -3698,7 +3698,7 @@ h2.inline-richtext {
     padding: 16px;
     background-color: #fff; /* Use background-color em vez de background */
     border-radius: 10px;
-    border: 1px solid #ddd !important;
+    border: 5px solid #fff !important;
 }
 
 
