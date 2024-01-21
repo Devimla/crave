@@ -1,12 +1,12 @@
 .quick-add {
   position: relative;
   grid-row-start: 4;
-  margin: 0 0 1rem;
+  margin: 0;
   z-index: 1;
 }
 
 .card--card .quick-add {
-  margin: 0 1.3rem 1rem;
+  margin: 0;
 }
 
 .quick-add-modal {
