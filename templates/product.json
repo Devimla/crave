@@ -99,7 +99,7 @@
       ],
       "custom_css": [
         ".accordion {background-color: transparent; margin-top: 0; margin-bottom: 0; border-top: 0.1rem transparent rgba(var(--color-foreground), 0.08); border-bottom: 0.1rem transparent rgba(var(--color-foreground), 0.08);}",
-        ".section-template--16272637591719__collapsible_content_7ULDFy-padding {background-color: red;}"
+        ".content-container:after {background: transparent;}"
       ],
       "settings": {
         "caption": "",
