@@ -3151,10 +3151,10 @@ h2.inline-richtext {
     }
   }
 }
-@media screen and (max-width: 749px)
+@media screen and (max-width: 749px){
 .grid__item {
-    width: 25%;
-}
+  width: 25%;
+}}
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
