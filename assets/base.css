@@ -3152,7 +3152,7 @@ h2.inline-richtext {
   }
 }
 @media screen and (max-width: 749px){
-.grid__item {
+  .grid--2-col-tablet-down .grid__item {
   width: 25%;
 }}
 .font-body-bold {
