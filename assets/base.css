@@ -3574,9 +3574,9 @@ h2.inline-richtext {
   border-radius: 0px !important;
 }
 .img-brock img {
-  display: block;
-  width: 480pxs;
-  height: auto;
+  display: block !important;
+  width: 480pxs !important;
+  height: auto !important;
 }
 .jdgm-widget *{
   margin: 0px 0px 0px !important;
