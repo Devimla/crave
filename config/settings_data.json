@@ -8,7 +8,7 @@
     "type_body_font": "archivo_n4",
     "body_scale": 100,
     "page_width": 1200,
-    "spacing_sections": 36,
+    "spacing_sections": 48,
     "spacing_grid_horizontal": 12,
     "spacing_grid_vertical": 12,
     "animations_reveal_on_scroll": false,
