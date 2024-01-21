@@ -3621,12 +3621,12 @@ h2.inline-richtext {
 }
 .jdgm-carousel-wrapper .jdgm-carousel-item__review {
   height: calc(60% - 4em) !important;
-  margin-bottom: 10px;
 }
 .jdgm-carousel-wrapper {
   background-color: #fff; /* Use background-color em vez de background */
   border-radius: 10px;
   border: 5px solid #fff !important;
+  margin-bottom: 10px;
 }
 .jdgm-carousel__left-arrow {
   border-color: #1773B0!important;
