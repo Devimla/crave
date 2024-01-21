@@ -99,7 +99,8 @@
       ],
       "custom_css": [
         ".accordion {background-color: transparent; margin-top: 0; margin-bottom: 0; border-top: 0.1rem transparent rgba(var(--color-foreground), 0.08); border-bottom: 0.1rem transparent rgba(var(--color-foreground), 0.08);}",
-        ".content-container:after {background: transparent;}"
+        ".content-container:after {background: transparent;}",
+        ".collapsible-content summary:hover {background: transparent;}"
       ],
       "settings": {
         "caption": "",
