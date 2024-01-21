@@ -81,7 +81,7 @@
   display: none !important;
 }
 .strong {
-  color: black;
+  color: black !important;
 }
 
 html.no-js .no-js:not(html) {
