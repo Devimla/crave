@@ -1084,7 +1084,7 @@ summary::-webkit-details-marker {
     width: calc(50% - var(--grid-mobile-horizontal-spacing) / 2);
   }
   .grid--2-col-tablet-down .grid__item:hover {
-    transform: scale(1.03);
+    transform: scale(1.02);
   }
 
   .slider--tablet.grid--peek.grid--2-col-tablet-down .grid__item,
