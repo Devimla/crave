@@ -21,8 +21,9 @@
   content: ''; /* Remove a bolinha */
 }
 
-h2.title {
+h2 {
   position: relative;
+  font-size: 24px;
   font-weight: bold !important;
 }
 
