@@ -3783,4 +3783,13 @@ h2.inline-richtext {
 }
 .newsletter {
     margin-top: 10px; /* Adiciona uma margem de 20 pixels no topo */
-}3
+}
+.tm_tracking_content > 
+  .tm_tracking_form_div > 
+  .tm_tracking_form_in > 
+  .tm_tracking_form_order > 
+  .tm_tracking_form > 
+  .tm_tracking_parent > 
+  .tm_tracking_input {
+    border-radius: 20px !important;
+}
