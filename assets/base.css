@@ -3621,6 +3621,7 @@ h2.inline-richtext {
 }
 .jdgm-carousel-wrapper .jdgm-carousel-item__review {
   height: calc(60% - 4em) !important;
+  margin-bottom: 10px;
 }
 .jdgm-carousel-wrapper {
   background-color: #fff; /* Use background-color em vez de background */
