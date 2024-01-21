@@ -3703,14 +3703,14 @@ h2.inline-richtext {
     margin: 0 0 8px 0 !important;
     padding-top: 8px !important;
     padding-bottom: 8px !important;
-    background-color: #f7f7f7 !important; /* Use background-color em vez de background */
+    background-color: #fff; /* Use background-color em vez de background */
     border-radius: 10px;
-    border: 5px solid #f7f7f7 !important;
+    border: 5px solid #fff !important;
 }
 .jdgm-rev-widg__header {
-  background-color: #f7f7f7;
+  background-color: #fff;
   border-radius: 10px;
-  border: 5px solid #f7f7f7 !important;
+  border: 5px solid #fff !important;
 }
 
 .balao {
