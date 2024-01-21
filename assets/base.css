@@ -3713,7 +3713,7 @@ h2.inline-richtext {
   border: 5px solid #fff !important;
 }
 .jdgm-row-media {
-    border-top: 2px solid rgba(51,153,153,0.1) !important;
+    border-top: 2px solid #edf5f5 !important;
     border-color: var(--jdgm-secondary-color) !important; 
 }
 .balao {
