@@ -3712,7 +3712,7 @@ h2.inline-richtext {
   border-radius: 10px;
   border: 5px solid #fff !important;
 }
-.jdgm-row-media, .jdgm-row-search, .jdgm-subtab, .jdgm-row-actions, .jdgm-quest, .jdgm-rev, .jdgm-paginate {
+.jdgm-row-media {
     border-top: 2px solid rgba(51,153,153,0.1) !important;
     border-color: var(--jdgm-secondary-color) !important; 
 }
