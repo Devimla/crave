@@ -80,6 +80,9 @@
 .no-js:not(html) {
   display: none !important;
 }
+.strong {
+  color: "";
+}
 
 html.no-js .no-js:not(html) {
   display: block !important;
