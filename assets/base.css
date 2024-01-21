@@ -3693,8 +3693,10 @@ h2.inline-richtext {
 .jdgm-carousel-item__review-body {
   color: #333 !important;
 }
-.jdgm-quest.jdgm-rev  {
-  background: red;
+.jdgm-quest, .jdgm-rev {
+    margin: 0;
+    padding: 16px 0;
+    background: red;
 }
 
 .balao {
