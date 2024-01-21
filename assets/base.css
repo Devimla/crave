@@ -3151,10 +3151,6 @@ h2.inline-richtext {
     }
   }
 }
-@media screen and (max-width: 749px){
-  .grid--2-col-tablet-down .grid__item {
-  width: 25%;
-}}
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
