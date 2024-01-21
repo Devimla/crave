@@ -88,7 +88,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "NUESTRA GARANTIA",
-            "icon": "box",
+            "icon": "star",
             "row_content": "",
             "page": "nuestra-garantia"
           }
