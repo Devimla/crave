@@ -3708,9 +3708,9 @@ h2.inline-richtext {
     border: 5px solid #f7f7f7 !important;
 }
 .jdgm-rev-widg__header {
-  background-color: #fff;
+  background-color: #f7f7f7;
   border-radius: 10px;
-  border: 5px solid #fff !important;
+  border: 5px solid #f7f7f7 !important;
 }
 
 .balao {
