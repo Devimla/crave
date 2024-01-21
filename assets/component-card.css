@@ -4,6 +4,9 @@
   position: relative;
   text-decoration: none;
 }
+.card-wrapper:hover {
+  transform: scale(1.03);
+}
 
 .card {
   text-decoration: none;
