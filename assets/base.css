@@ -1317,7 +1317,7 @@ button.shopify-payment-button__button--unbranded {
 }
 
 .button--secondary:after {
-  --border-opacity: var(--buttons-border-opacity);
+  --border-opacity: none;
 }
 
 .button:focus-visible,
