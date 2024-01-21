@@ -3701,7 +3701,10 @@ h2.inline-richtext {
     border-radius: 10px;
     border: 5px solid #fff !important;
 }
-
+.jdgm-rev-widg__header {
+  background-color: #fff;
+  border-radius: 10px;
+}
 
 .balao {
   background-color: #333333;
