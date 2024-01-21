@@ -88,7 +88,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "NUESTRA GARANTIA",
-            "icon": "truck",
+            "icon": "question_mark",
             "row_content": "",
             "page": "nuestra-garantia"
           }
