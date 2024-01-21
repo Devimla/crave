@@ -3695,11 +3695,12 @@ h2.inline-richtext {
 }
 .jdgm-quest, .jdgm-rev {
     margin: 0;
-    padding: 16px 0;
-    background: #fff;
+    padding: 16px;
+    background-color: #fff; /* Use background-color em vez de background */
     border-radius: 10px;
-    border: 5px solid #ddd; /* Adiciona uma borda de 1 pixel com cor cinza claro */
+    border: 1px solid #ddd;
 }
+
 
 .balao {
   background-color: #333333;
