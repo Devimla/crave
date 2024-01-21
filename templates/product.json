@@ -98,7 +98,7 @@
         "collapsible_row_d4847z"
       ],
       "custom_css": [
-        ".accordion {background-color: transparent; border-top: 0.1rem transparent rgba(var(--color-foreground), 0.08); border-bottom: 0.1rem transparent rgba(var(--color-foreground), 0.08);}",
+        ".accordion {margin-top: 0; background-color: transparent; border-top: 0.1rem transparent rgba(var(--color-foreground), 0.08); border-bottom: 0.1rem transparent rgba(var(--color-foreground), 0.08);}",
         ".content-container:after {background: transparent;}",
         ".collapsible-content summary:hover {background: transparent;}"
       ],
