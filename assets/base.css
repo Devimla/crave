@@ -3697,8 +3697,8 @@ h2.inline-richtext {
     margin: 0;
     padding: 16px 0;
     background: #fff;
-    margin: 5px;
     border-radius: 10px;
+    border: 2px solid #fff; /* Adiciona uma borda de 1 pixel com cor cinza claro */
 }
 
 .balao {
