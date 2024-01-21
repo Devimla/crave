@@ -3575,7 +3575,7 @@ h2.inline-richtext {
 }
 .img-brock img {
   display: block;
-  width: 480px;
+  width: 100%;
   height: auto;
 }
 .jdgm-widget *{
