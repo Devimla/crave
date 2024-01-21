@@ -52,13 +52,6 @@
           "type": "description",
           "settings": {
           }
-        },
-        "essential_trust_badges_app_block_DaHUXF": {
-          "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
-          "settings": {
-            "banner_display": "single",
-            "banner_id": "e97b720b-402c-4b34-a7d9-e97edc923d26"
-          }
         }
       },
       "block_order": [
@@ -70,8 +63,7 @@
         "quantity_selector",
         "buy_buttons",
         "bundler_bundler_target_element_BFfXMe",
-        "description",
-        "essential_trust_badges_app_block_DaHUXF"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -87,6 +79,37 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 16
+      }
+    },
+    "collapsible_content_7ULDFy": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_d4847z": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "NUESTRA GARANTIA",
+            "icon": "box",
+            "row_content": "",
+            "page": "nuestra-garantia"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_d4847z"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1704431877f50aafce": {
@@ -126,6 +149,7 @@
   },
   "order": [
     "main",
+    "collapsible_content_7ULDFy",
     "1704431877f50aafce",
     "related-products"
   ]
