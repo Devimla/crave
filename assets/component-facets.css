@@ -956,7 +956,7 @@ input.mobile-facets__checkbox {
   display: flex;
   z-index: 2;
   margin-top: auto;
-  background: aliceblue;
+  background: rgba(var(--color-foreground),.03);
 }
 
 .mobile-facets__footer > * + * {
