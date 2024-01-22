@@ -3634,11 +3634,7 @@ h2.inline-richtext {
 .jdgm-carousel__right-arrow {
   border-color: #1773B0!important;
 }
-.jdgm-carousel-item__reviewer-name {
-  color: #333;
-  font-size: 15px !important;
-  font-weight: bold; 
-}
+
 .jdgm-carousel-item__timestamp {
   color: #D30404;
 }
@@ -3647,8 +3643,7 @@ h2.inline-richtext {
   border-bottom: 2px solid rgba(103, 114, 121, 0.5); /* 2px é a largura da borda, você pode ajustar conforme necessário */
 }
 .jdgm-rev__author, .jdgm-rev__icon:before {
-  font-weight: bold;
-  font-size: 18px;
+  font-size: 16px;
   }
 .jdgm-prev-badge__stars {
   margin: 3px;
