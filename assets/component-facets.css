@@ -662,7 +662,7 @@ a.active-facets__button.focused .active-facets__button-inner,
 }
 
 .mobile-facets__inner {
-  background-color: aliceblue;
+  background: rgba(var(--color-foreground),.03);;
   width: calc(100% - 5rem);
   margin-left: auto;
   height: 100%;
