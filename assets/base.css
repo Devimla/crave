@@ -3644,7 +3644,7 @@ h2.inline-richtext {
 }
 .jdgm-carousel-title-and-link {
   margin-bottom: 24px;
-  border-bottom: 2px transparent; /* 2px é a largura da borda, você pode ajustar conforme necessário */
+  border-bottom: 2px solid rgba(103, 114, 121, 0.5); /* 2px é a largura da borda, você pode ajustar conforme necessário */
 }
 .jdgm-rev__author, .jdgm-rev__icon:before {
   font-weight: bold;
@@ -3716,7 +3716,7 @@ h2.inline-richtext {
   
 }
 .jdgm-row-media {
-    border-top: 2px solid #edf5f5 !important;
+    border-top: 2px transparent #edf5f5;
     border-color: var(--jdgm-secondary-color) !important; 
 }
 .balao {
