@@ -3601,7 +3601,7 @@ h2.inline-richtext {
   font-weight: bold;
   font-size: 17px;
 }
-img.jdgm-gallery__thumbnail {
+.jdgm-gallery__thumbnail {
   border-radius: 5px;
 }
 .jdgm-row-actions {
