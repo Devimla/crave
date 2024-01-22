@@ -3625,6 +3625,7 @@ h2.inline-richtext {
   border-radius: 10px;
   border: 5px solid #fff !important;
   margin-bottom: 10px !important;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
 }
 .jdgm-carousel__left-arrow {
   border-color: #1773B0!important;
