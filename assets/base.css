@@ -3634,7 +3634,11 @@ h2.inline-richtext {
 .jdgm-carousel__right-arrow {
   border-color: #1773B0!important;
 }
-
+.jdgm-carousel-item__reviewer-name {
+  color: #333;
+  font-size: 15px !important;
+  font-weight: bold; 
+}
 .jdgm-carousel-item__timestamp {
   color: #D30404;
 }
