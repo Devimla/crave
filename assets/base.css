@@ -3594,6 +3594,7 @@ h2.inline-richtext {
 }
 .jdgm-gallery-title {
   font-size: 18px;
+  text-align: center;
   font-weight: bold;
 }
 .jdgm-sort-dropdown-wrapper .jdgm-sort-dropdown, .jdgm-sort-dropdown-wrapper .jdgm-sort-dropdown-arrow {
