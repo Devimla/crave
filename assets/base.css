@@ -3716,7 +3716,7 @@ h2.inline-richtext {
   
 }
 .jdgm-row-media {
-    border-top: 2px transparent #edf5f5;
+    border-top: 2px transparent #edf5f5 !important;
     border-color: var(--jdgm-secondary-color) !important; 
 }
 .balao {
