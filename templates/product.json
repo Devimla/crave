@@ -65,6 +65,9 @@
         "bundler_bundler_target_element_BFfXMe",
         "description"
       ],
+      "custom_css": [
+        ".product__info-wrapper.grid__item {border-radius: 5px; \/* Adicione outros estilos conforme necessário *\/}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "background-2",
