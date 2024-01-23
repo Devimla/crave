@@ -3733,6 +3733,10 @@ h2.inline-richtext {
   display: inline-block;
   text-transform: uppercase;
 }
+.jdgm-row-media, .jdgm-row-search, .jdgm-subtab, .jdgm-row-actions, .jdgm-quest, .jdgm-rev, .jdgm-paginate {
+  border-top: 1px transparent rgba(51,153,153,0.1) !important;
+  border-color: var(--jdgm-secondary-color);
+}
 .balao p {
   margin: 0px;
 }
