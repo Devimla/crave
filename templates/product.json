@@ -67,7 +67,7 @@
       ],
       "custom_css": [
         ".product__media-wrapper {margin-bottom: 2px;}",
-        ".product-media-container {box-shadow: none !important;}"
+        ".grid--peek.slider--mobile .grid__item {box-shadow: none !important;}"
       ],
       "settings": {
         "enable_sticky_info": true,
