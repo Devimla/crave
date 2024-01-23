@@ -3703,7 +3703,7 @@ h2.inline-richtext {
   color: #333 !important;
 }
 .jdgm-quest, .jdgm-rev {
-    margin: 0 0 8px 0 !important;
+    margin: 0 0 2px 0 !important;
     padding-top: 8px !important;
     padding-bottom: 8px !important;
     background-color: #fff; /* Use background-color em vez de background */
@@ -3722,7 +3722,8 @@ h2.inline-richtext {
 .jdgm-row-media {
     border-top: 2px transparent #edf5f5 !important;
     border-color: transparent !important; 
-    border-top-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 .balao {
   background-color: #333333;
