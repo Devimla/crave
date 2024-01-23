@@ -66,7 +66,8 @@
         "description"
       ],
       "custom_css": [
-        ".product__media-wrapper {margin-bottom: 2px;}"
+        ".product__media-wrapper {margin-bottom: 2px;}",
+        ".product__media-wrapper {box-shadow: none;}"
       ],
       "settings": {
         "enable_sticky_info": true,
