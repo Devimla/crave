@@ -59,7 +59,7 @@
         "link_list_LVmEyD"
       ],
       "custom_css": [
-
+        ".footer__blocks-wrapper .elemento-especifico {box-shadow: none;}"
       ],
       "settings": {
         "color_scheme": "accent-2",
