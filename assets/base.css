@@ -3604,8 +3604,7 @@ h2.inline-richtext {
 .jdgm-row-actions {
   align-items: center !important;
   background-color: #fff;
-  border-bottom: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 5px !important;
 }
 .jdgm-carousel-title {
   font-size: 17px !important;
