@@ -487,7 +487,7 @@
   "platform_customizations": {
     "custom_css": [
       ".grid__item {border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); \/* Adiciona uma sombra fraca *\/}",
-      ".footer__blocks-wrapper .elemento-especifico {box-shadow: none;}"
+      ".footer__blocks-wrapper .elemento-especifico {box-shadow: none !important;}"
     ]
   }
 }
