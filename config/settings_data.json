@@ -483,5 +483,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".grid__item {border-radius: 5px;}"
+    ]
   }
 }
