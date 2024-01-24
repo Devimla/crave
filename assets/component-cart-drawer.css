@@ -19,7 +19,7 @@
   height: 100%;
   width: 40rem;
   border-top-left-radius: 5px;
-  border-bottom-left-radius: 25px;
+  border-bottom-left-radius: 5px;
   max-width: calc(100vw - 3rem);
   padding: 0 1.5rem;
   border: 0.1rem solid rgba(var(--color-foreground), 0.2);
