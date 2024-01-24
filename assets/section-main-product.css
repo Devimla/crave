@@ -800,9 +800,9 @@ a.product__text {
 
 .product-media-modal__toggle {
   background-color: #fff;
-  border: 0.1rem solid #333;
+  border: 0.1rem solid #444;
   border-radius: 50%;
-  color: #333;
+  color: #444;
   display: flex;
   align-items: center;
   justify-content: center;
