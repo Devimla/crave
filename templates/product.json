@@ -69,7 +69,7 @@
         ".product__media-wrapper {margin-bottom: 2px;}",
         ".grid--peek.slider--mobile .grid__item {box-shadow: none !important;}",
         ".product__media-icon,.thumbnail__badge {background-color: #fff;}",
-        ".product-media-modal__toggle {background-color: #fff;}"
+        ".product-media-modal__toggle {background-color: #fff !important;}"
       ],
       "settings": {
         "enable_sticky_info": true,
