@@ -3800,3 +3800,33 @@ h2.inline-richtext {
 .newsletter {
     margin-top: 10px; /* Adiciona uma margem de 20 pixels no topo */
 }
+@media screen and (max-width: 749px) {
+.multicolumn .page-width {
+    padding-left: 0;
+    padding-right: 0;
+}
+}
+.section-multicolumn-padding {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.slider-component {
+  --desktop-margin-left-first-item: max(5rem, calc((100vw - var(--page-width) + 10rem - var(--grid-desktop-horizontal-spacing)) / 2));
+  position: relative;
+  display: block;
+}
+@media screen and (max-width: 749px){
+.multicolumn-list:not(.slider) {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+}
+.grid:last-child {
+    margin-bottom: 0;
+}
+@media screen and (max-width: 749px){
+.multicolumn-list {
+    margin: 0;
+    width: 100%;
+}
+}
