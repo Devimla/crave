@@ -137,9 +137,10 @@
 
 .mobile-facets__sort .select__select.focused,
 .no-js .mobile-facets__sort .select__select:focus {
-  outline: 0.2rem solid rgba(var(--color-foreground), 0.5);
+  outline:  0.1rem solid #444;
   outline-offset: 0.3rem;
-  box-shadow: 0 0 0 0.3rem rgb(var(--color-background)), 0 0 0.5rem 0.4rem rgba(var(--color-foreground), 0.3);
+  box-shadow: 0 0 0 0.2rem #1773B0;
+  border-radius: 5px;
 }
 
 .facet-filters__sort:focus-visible {
