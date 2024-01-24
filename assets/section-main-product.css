@@ -578,10 +578,10 @@ a.product__text {
 
 .product__media-icon,
 .thumbnail__badge {
-  background-color: rgb(var(--color-background));
+  background-color: #FFF;
   border-radius: 50%;
-  border: 0.1rem solid rgba(var(--color-foreground), 0.1);
-  color: rgb(var(--color-foreground));
+  border: 0.1rem solid #444;
+  color: #444;
   display: flex;
   align-items: center;
   justify-content: center;
