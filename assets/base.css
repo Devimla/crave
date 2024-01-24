@@ -1065,6 +1065,7 @@ summary::-webkit-details-marker {
   .grid--peek.slider--mobile .grid__item {
     box-sizing: content-box;
     margin: 0;
+    box-shadow: none;
   }
 
   .grid--peek .grid__item {
