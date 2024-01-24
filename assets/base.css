@@ -3669,7 +3669,7 @@ h2.inline-richtext {
   display: inline-block;
   width: 16px; /* Largura do SVG */
   height: 16px; /* Altura do SVG */
-  margin-right: 5px; /* Espaçamento entre o SVG e o texto (ajuste conforme necessário) */
+  margin-right: 10px; /* Espaçamento entre o SVG e o texto (ajuste conforme necessário) */
   margin-left: 5px;
 }
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
