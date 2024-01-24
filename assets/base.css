@@ -3830,3 +3830,14 @@ h2.inline-richtext {
     width: 100%;
 }
 }
+@media screen and (max-width: 749px){
+.multicolumn-list .grid__item {
+    width: 22%;
+    padding: 2.5rem 0;
+}
+}
+@media screen and (max-width: 749px){
+.grid--2-col-tablet-down .grid__item {
+    width: calc(50% - var(--grid-mobile-horizontal-spacing) / 2);
+}
+}
