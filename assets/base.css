@@ -3669,7 +3669,7 @@ h2.inline-richtext {
   display: inline-block;
   margin-right: 5px; /* Espaçamento entre o SVG e o texto (ajuste conforme necessário) */
   margin-left: 5px;
-  color: #FF0000;
+  color: #FF0000 !important;
   fill: #FF0000 !important; /* Substitua #FF0000 pela cor desejada em formato hexadecimal, RGB ou nome da cor */
 }
 
