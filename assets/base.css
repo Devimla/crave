@@ -3673,8 +3673,9 @@ h2.inline-richtext {
 .jdgm-rev__icon:empty {
   border-radius: 10px;
   background-color: #f7f7f7;
-  border-color: 1px #1773B0 solid !important;
+  border: 1px solid #1773B0; /* Corrigido a ordem para largura, estilo, cor */
 }
+
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
   padding: 10px 0px 0px 0px !important;
 }
