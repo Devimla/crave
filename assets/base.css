@@ -3671,8 +3671,8 @@ h2.inline-richtext {
   margin-left: 5px;
 }
 .jdgm-rev__icon:empty {
-  border-radius: 10px !important;
-  background-color: #e7e7e7;
+  border-radius: 10px;
+  background-color: #e7e7e7 !important;
 }
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
   padding: 10px 0px 0px 0px !important;
