@@ -3670,7 +3670,7 @@ h2.inline-richtext {
   margin-right: 5px;
   margin-left: 5px;
 }
-.jdgm-rev__ico {
+.jdgm-rev__icon:empty {
   border-radius: 10px !important;
   background-color: #e7e7e7;
 }
