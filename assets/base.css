@@ -3670,8 +3670,9 @@ h2.inline-richtext {
   margin-right: 5px;
   margin-left: 5px;
 }
-
-
+.jdgm-rev__ico {
+  border-radius: 10px;
+}
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
   padding: 10px 0px 0px 0px !important;
 }
