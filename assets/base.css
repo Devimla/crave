@@ -3669,7 +3669,7 @@ h2.inline-richtext {
   display: inline-block;
   margin-right: 7px; /* Espaçamento entre o SVG e o texto (ajuste conforme necessário) */
   margin-left: 5px;
-  fill: #FF0000; /* Substitua #FF0000 pela cor desejada em formato hexadecimal, RGB ou nome da cor */
+  fill: #FF0000 !important; /* Substitua #FF0000 pela cor desejada em formato hexadecimal, RGB ou nome da cor */
 }
 
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
