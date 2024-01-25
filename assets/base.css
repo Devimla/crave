@@ -3671,7 +3671,7 @@ h2.inline-richtext {
   margin-left: 5px;
 }
 .jdgm-rev__ico {
-  border-radius: 10px;
+  border-radius: 10px !important;
   background-color: #e7e7e7;
 }
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
