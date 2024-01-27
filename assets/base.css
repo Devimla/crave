@@ -710,7 +710,7 @@ summary::-webkit-details-marker {
   outline: 0;
   box-shadow: none;
 }
-/* personalizar cor slecionado */
+/* personalizar cor slecionado b*/
 *:focus-visible {
   outline: .1rem solid #444;
   outline-offset: .3rem;
@@ -1633,8 +1633,7 @@ details[open] > .share-button__fallback {
   bottom: 0;
   left: 0;
   border-radius: var(--inputs-radius-outset);
-  box-shadow: var(--inputs-shadow-horizontal-offset) var(--inputs-shadow-vertical-offset)
-    var(--inputs-shadow-blur-radius) rgba(var(--color-shadow), var(--inputs-shadow-opacity));
+  box-shadow: red;
   z-index: -1;
 }
 
