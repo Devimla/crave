@@ -716,6 +716,7 @@ summary::-webkit-details-marker {
   outline: 1px solid #333;
   outline-offset: 0.3rem;
   box-shadow: 0 0 0 0.3rem #1773B0;
+  border-radius: 5px;
 }
 
 /* Fallback - for browsers that don't support :focus-visible, a fallback is set for :focus */
