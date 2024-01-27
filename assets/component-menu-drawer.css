@@ -121,7 +121,7 @@ details[open].menu-opening > .menu-drawer__submenu {
   padding: 1.1rem 3rem;
   text-decoration: none;
   font-size: 1.8rem;
-  color: 333;
+  color: #333;
 }
 
 .no-js .menu-drawer__menu-item {
