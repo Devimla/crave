@@ -132,7 +132,7 @@ cart-remove-button .button {
   min-width: calc(4.5rem / var(--font-body-scale));
   min-height: 4.5rem;
   padding: 0;
-  color: #1773B0;
+  color: #333;
   margin: 0 0.1rem 0.1rem 0;
 }
 
