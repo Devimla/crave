@@ -2700,7 +2700,7 @@ details[open] .modal-overlay {
 details[open] .modal-overlay::after {
   position: absolute;
   content: '';
-  background-color: rgba(255, 241, 89, 0.7); 
+  background-color: rgba(255, 241, 89, 0.4); 
   top: 100%;
   left: 0;
   right: 0;
