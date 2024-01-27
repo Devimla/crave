@@ -2129,8 +2129,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
   position: absolute;
   background-color: rgb(var(--color-button));
   color: rgb(var(--color-button-text));
-  height: 1.7rem;
-  width: 1.7rem;
+  height: 1.6rem;
+  width: 1.6rem;
   border-radius: 100%;
   display: flex;
   justify-content: center;
