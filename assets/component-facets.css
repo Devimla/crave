@@ -993,7 +993,7 @@ input.mobile-facets__checkbox {
 }
 
 .mobile-facets__sort .select .icon-caret {
-  right: 0;
+  right: 5px;
 }
 
 .mobile-facets__sort .select__select {
