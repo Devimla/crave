@@ -713,9 +713,9 @@ summary::-webkit-details-marker {
 }
 
 *:focus-visible {
-  outline: 1px solid #333;
-  outline-offset: 0.3rem;
-  box-shadow: 0 0 0 0.3rem #1773B0;
+  outline: .1rem solid #444;
+  outline-offset: .3rem;
+  box-shadow: 0 0 0 0.2rem #1773b0;
   border-radius: 5px;
 }
 
