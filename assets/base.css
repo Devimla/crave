@@ -1908,8 +1908,8 @@ input[type='checkbox'] {
 
 /* component-quantity */
 .quantity {
-  border: 1px #1773B0 solid;
-  color: #1773B0;
+  border: 1px #333 solid;
+  color: #333;
   position: relative;
   width: calc(14rem / var(--font-body-scale) + var(--inputs-border-width) * 2);
   display: flex;
