@@ -102,7 +102,9 @@ html.no-js .no-js-hidden {
   margin: 0 auto;
   padding: 0 1.5rem;
 }
-
+.return-to-chat-wrapper .hover-effect-button .label {
+    color: #FFFFFF !important;
+}
 body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   max-width: 100%;
 }
@@ -3801,7 +3803,4 @@ h2.inline-richtext {
 }
 .newsletter {
     margin-top: 10px; /* Adiciona uma margem de 20 pixels no topo */
-}
-.return-to-chat-wrapper .hover-effect-button .label {
-    color: #FFFFFF !important;
 }
