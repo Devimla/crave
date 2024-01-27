@@ -3034,6 +3034,7 @@ details-disclosure > details {
   border-radius: var(--text-boxes-radius);
   z-index: -1;
   background: #Fff159;
+  border-top: 5px solid #1773b0;
 }
 h2.inline-richtext {
   color: #1773b0; /* cor do texto, pode ser alterada */
