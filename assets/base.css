@@ -3681,12 +3681,12 @@ h2.inline-richtext {
 .jdgm-row-rating {
   margin-bottom: 8px !important;
 }
-.jdgm-gallery .jdgm-gallery__thumbnail-link:nth-child(n) .jdgm-gallery__thumbnail-wrapper:before {
+/* Remova o seletor que não está afetando os elementos de paginação */
+.jdgm-gallery .jdgm-gallery__thumbnail-link .jdgm-gallery__thumbnail-wrapper:before {
   content: none;
-  background: #edf5f5;
-  color: #000;
-  font-weight: bold;
 }
+
+/* Estilo para os elementos de paginação */
 .jdgm-paginate__page {
   color: #222 !important;
   background-color: #FFF;
@@ -3694,25 +3694,26 @@ h2.inline-richtext {
   margin: 2px !important;  
   border: #FFF solid 5px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
-}
-.jdgm-paginate__page {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
-
+/* Estilo específico para a página atual (jdgm-curt) */
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
   font-size: 26px !important;
-  text-align: center !important;
   border-color: #FFF solid 5px;
-  padding: 0 0 0 1px !important;
+  padding: 0 1px !important; /* Ajuste o preenchimento conforme necessário */
 }
+
+/* Estilo para o texto dentro do badge de página anterior */
 .jdgm-prev-badge__text {
   font-size: 12px;
   color: #666;
 }
+
 .jdgm-rev__body p {
   color: #222;
 }
