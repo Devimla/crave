@@ -3833,3 +3833,6 @@ h2.inline-richtext {
 .rbr-addBundleBtn-container {
   border-radius: 10px !important;
 }
+.rbr-poweredBy__container {
+  display: none !important;
+}
