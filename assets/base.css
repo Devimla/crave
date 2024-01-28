@@ -3836,3 +3836,6 @@ h2.inline-richtext {
 .rbr-poweredBy__container {
   display: none !important;
 }
+.rbr-standard-bundle__title {
+  text-align: center !important;
+}
