@@ -3681,11 +3681,6 @@ h2.inline-richtext {
 .jdgm-row-rating {
   margin-bottom: 8px !important;
 }
-/* Remova o seletor que não está afetando os elementos de paginação */
-.jdgm-gallery .jdgm-gallery__thumbnail-link .jdgm-gallery__thumbnail-wrapper:before {
-  content: none;
-}
-
 /* Estilo para os elementos de paginação */
 .jdgm-paginate__page {
   color: #222 !important;
@@ -3698,6 +3693,7 @@ h2.inline-richtext {
   justify-content: center;
   align-items: center;
   text-align: center;
+  width: 24px; /* Defina a largura desejada */
 }
 
 /* Estilo específico para a página atual (jdgm-curt) */
