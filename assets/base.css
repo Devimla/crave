@@ -3689,6 +3689,9 @@ h2.inline-richtext {
 }
 .jdgm-paginate__page {
   color: #222 !important;
+  background-color: #FFF;
+  border-radius: 5px;
+  border: #FFF solid 1px;
 }
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
