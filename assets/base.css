@@ -3709,7 +3709,7 @@ h2.inline-richtext {
   border: #FFF solid 5px !important;
 }
 .jdgm-widget a:empty .jm-mfp-wrap a:empty {
-  padding: 5px !important;
+  padding: 8dvh !important;
 }
 /* Estilo para o texto dentro do badge de página anterior */
 .jdgm-prev-badge__text {
