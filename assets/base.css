@@ -1246,21 +1246,17 @@ button.shopify-payment-button__button--unbranded {
 .button,
 .shopify-challenge__button,
 .customer button {
-  display: inline-flex;
   justify-content: center;
   align-items: center;
   border: 0;
   padding: 0 3rem;
   cursor: pointer;
   font: inherit;
-  font-size: 1.3rem;
   text-decoration: none;
   color: #FFF;
   transition: box-shadow var(--duration-short) ease;
-  -webkit-appearance: none;
   appearance: none;
   text-transform: uppercase;
-  background-color: rgba(var(--color-button), var(--alpha-button-background));
 }
 .button:before,
 .shopify-challenge__button:before,
