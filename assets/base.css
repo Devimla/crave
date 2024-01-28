@@ -3708,7 +3708,9 @@ h2.inline-richtext {
 .jm-mfp-wrap a:not([href])[role="button"] {
   border: #FFF solid 5px !important;
 }
-
+.jdgm-widget a:empty .jm-mfp-wrap a:empty {
+  padding: 5px !important;
+}
 /* Estilo para o texto dentro do badge de página anterior */
 .jdgm-prev-badge__text {
   font-size: 12px;
