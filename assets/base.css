@@ -3695,9 +3695,11 @@ h2.inline-richtext {
   border: #FFF solid 5px;
 }
 .jdgm-paginate__page {
-  justify-content: center !important;
+  display: flex;
+  justify-content: center;
   align-items: center;
 }
+
 
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
