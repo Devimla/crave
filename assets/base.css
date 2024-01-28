@@ -3831,5 +3831,5 @@ h2.inline-richtext {
   border-radius: 5px !important;
 }
 .rbr-addBundleBtn-container {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
