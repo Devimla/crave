@@ -3704,6 +3704,7 @@ h2.inline-richtext {
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
   font-size: 200% !important;
+  padding: 0 0 0 1px !important;
 }
 .jdgm-prev-badge__text {
   font-size: 12px;
