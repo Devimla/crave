@@ -3688,6 +3688,7 @@ h2.inline-richtext {
   border-radius: 5px;
   margin: 2px !important;  
   border: #FFF solid 5px;
+  padding: 0px 0px !important;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
   display: flex;
   justify-content: center;
@@ -3709,6 +3710,7 @@ h2.inline-richtext {
   font-size: 12px;
   color: #666;
 }
+
 
 .jdgm-rev__body p {
   color: #222;
