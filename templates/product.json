@@ -43,8 +43,8 @@
             "show_gift_card_recipient": true
           }
         },
-        "bundler_bundler_target_element_BFfXMe": {
-          "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-target-element\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+        "fast_bundle_all_bundles_ktaHw3": {
+          "type": "shopify:\/\/apps\/fast-bundle\/blocks\/all_bundles\/9e87fbe2-9041-4c23-acf5-322413994cef",
           "settings": {
           }
         },
@@ -62,7 +62,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "bundler_bundler_target_element_BFfXMe",
+        "fast_bundle_all_bundles_ktaHw3",
         "description"
       ],
       "custom_css": [
