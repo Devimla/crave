@@ -3693,6 +3693,7 @@ h2.inline-richtext {
   border-radius: 5px;
   margin: 2px !important;  
   border: #FFF solid 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
 }
 .jdgm-paginate__page {
   display: flex;
@@ -3705,7 +3706,6 @@ h2.inline-richtext {
   color: #1773B0 !important;
   font-size: 28px !important;
   padding: 0 0 0 1px !important;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
 }
 .jdgm-prev-badge__text {
   font-size: 12px;
