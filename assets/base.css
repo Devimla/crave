@@ -3701,7 +3701,7 @@ h2.inline-richtext {
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
   font-size: 24px !important;
-  border-color: #FFF solid 5px;
+  border-right: 2px solid #FFF;
   padding: 0 1px !important; /* Ajuste o preenchimento conforme necessário */
 }
 
