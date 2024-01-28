@@ -3708,10 +3708,16 @@ h2.inline-richtext {
 .jm-mfp-wrap a:not([href])[role="button"] {
   border: #FFF solid 5px !important;
 }
-.jdgm-widget a:empty .jm-mfp-wrap a:empty {
-  padding: 8px !important;
-  border: #FFF solid 5px !important;
+/* Estilo específico para os elementos vazios dentro de .jdgm-widget e .jm-mfp-wrap */
+.jdgm-widget a:empty,
+.jm-mfp-wrap a:empty {
+  /* Adicione os estilos desejados para elementos vazios */
+  color: #999; /* Cor do texto, ajuste conforme necessário */
+  border: 1px solid #999; /* Borda, ajuste conforme necessário */
+  padding: 5px; /* Preenchimento, ajuste conforme necessário */
+  /* Outros estilos... */
 }
+
 /* Estilo para o texto dentro do badge de página anterior */
 .jdgm-prev-badge__text {
   font-size: 12px;
