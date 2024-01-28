@@ -3705,6 +3705,7 @@ h2.inline-richtext {
   color: #1773B0 !important;
   font-size: 28px !important;
   padding: 0 0 0 1px !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
 }
 .jdgm-prev-badge__text {
   font-size: 12px;
