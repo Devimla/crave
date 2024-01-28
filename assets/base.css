@@ -3701,8 +3701,8 @@ h2.inline-richtext {
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
   font-size: 18px !important;
-  border-right: 2px solid #FFF;
-  padding: 0 1px !important; /* Ajuste o preenchimento conforme necessário */
+  border: 3px solid #FFF;
+  padding: 0 2px !important; /* Ajuste o preenchimento conforme necessário */
 }
 .jdgm-widget a:not([href])[role="button"],
 .jm-mfp-wrap a:not([href])[role="button"] {
