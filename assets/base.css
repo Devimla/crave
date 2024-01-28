@@ -3695,7 +3695,7 @@ h2.inline-richtext {
   border: #FFF solid 5px;
 }
 .jdgm-paginate__page {
-  text-align: center;
+  text-align: center !important;
 }
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
