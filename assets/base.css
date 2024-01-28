@@ -3712,6 +3712,7 @@ h2.inline-richtext {
 .jdgm-widget a:empty,
 .jm-mfp-wrap a:empty {
   /* Adicione os estilos desejados para elementos vazios */
+  color: #333!important; /* Cor do texto, ajuste conforme necessário */
   padding: 5px!important; /* Preenchimento, ajuste conforme necessário */
   /* Outros estilos... */
 }
