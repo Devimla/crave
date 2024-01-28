@@ -3697,7 +3697,7 @@ h2.inline-richtext {
 .jdgm-paginate__page {
   display: flex !important;
   justify-content: center !important;
-  align-items: center !important;
+  align-items: center;
 }
 
 .jdgm-paginate__page.jdgm-curt {
