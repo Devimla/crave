@@ -3706,7 +3706,7 @@ h2.inline-richtext {
 }
 .jdgm-widget a:not([href])[role="button"],
 .jm-mfp-wrap a:not([href])[role="button"] {
-  border: #FFF solid 5px;
+  border: #FFF solid 5px !important;
 }
 
 /* Estilo para o texto dentro do badge de página anterior */
