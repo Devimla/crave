@@ -3704,6 +3704,10 @@ h2.inline-richtext {
   border-right: 2px solid #FFF;
   padding: 0 1px !important; /* Ajuste o preenchimento conforme necessário */
 }
+.jdgm-widget a:not([href])[role="button"],
+.jm-mfp-wrap a:not([href])[role="button"] {
+  border: #FFF solid 5px;
+}
 
 /* Estilo para o texto dentro do badge de página anterior */
 .jdgm-prev-badge__text {
