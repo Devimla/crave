@@ -3692,7 +3692,7 @@ h2.inline-richtext {
   background-color: #FFF;
   border-radius: 5px;
   margin: 2px !important;  
-  border: #FFF solid 1px;
+  border: #FFF solid 5px;
 }
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
