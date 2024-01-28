@@ -55,6 +55,13 @@
             "banner_id": "4480fef7-c156-4379-ae9f-ae29c7151cc1"
           }
         },
+        "essential_trust_badges_app_block_Xfbwmp": {
+          "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-block\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
+          "settings": {
+            "banner_display": "all",
+            "banner_id": "adacfc5e-efdd-4234-be60-582808b311c8"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -71,6 +78,7 @@
         "buy_buttons",
         "fast_bundle_all_bundles_ktaHw3",
         "essential_trust_badges_app_block_PXKGHL",
+        "essential_trust_badges_app_block_Xfbwmp",
         "description"
       ],
       "custom_css": [
