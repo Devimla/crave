@@ -185,18 +185,6 @@
         "settings": {
         }
       },
-      "4677439793077996495": {
-        "type": "shopify:\/\/apps\/pixee-multi-facebook-pixels\/blocks\/facebook-pixel\/61bbb1d9-d4be-4d08-879a-ee3ccb59f558",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "3758703918006478555": {
-        "type": "shopify:\/\/apps\/pixee-multi-facebook-pixels\/blocks\/consent-banner\/61bbb1d9-d4be-4d08-879a-ee3ccb59f558",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "2118589882331710876": {
         "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-embed\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
         "disabled": false,

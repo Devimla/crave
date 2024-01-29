@@ -29,6 +29,9 @@
         "paragraph_HmjNHG",
         "email_form_3Aw47L"
       ],
+      "custom_css": [
+        ".content-container:after {background: rgb(23,115,176); background: linear-gradient(181deg, rgba(23,115,176,1) 51%, rgba(255,241,89,1) 94%);}"
+      ],
       "settings": {
         "color_scheme": "",
         "full_width": true,
