@@ -217,6 +217,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "6012664788653924950": {
+        "type": "shopify:\/\/apps\/buy-me-sticky-buy-button\/blocks\/app-embed\/da5cef02-d610-4c52-adf7-383273d1f67b",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
