@@ -102,6 +102,12 @@
       <span class="price-item price-item--sale price-item--last">
         {{ money_price }}
       </span>
+      {% block product_price %}
+  <p class="price">
+    {{ product.compare_at_price | minus: product.price | percent }}
+  </p>
+{% endblock %}
+
     </div>
     <small class="unit-price caption{% if product.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">
       <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
