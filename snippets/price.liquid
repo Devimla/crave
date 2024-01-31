@@ -118,10 +118,12 @@
       </span>
     </small>
   </div>
-  {%- if show_badges -%}
-    <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
-      {{ 'product.compare_at_price | minus: product.price | percent' | t | }}
-    </span>
+{%- if show_badges -%}
+  <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
+    {{ product.compare_at_price | minus: product.price | percent }}
+  </span>
+{%- endif -%}
+
 
     <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
       {{ 'products.product.sold_out' | t }}
