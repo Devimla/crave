@@ -123,7 +123,7 @@
       {{ 'products.product.on_sale' | t }}
     </span>
   <p class="price">
-    {{ (products.compare_at_price | minus: products.price) | percentage }}
+    {{ product.compare_at_price | minus: product.price | percentage }}
   </p>
     <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
       {{ 'products.product.sold_out' | t }}
