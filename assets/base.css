@@ -1249,7 +1249,7 @@ button.shopify-payment-button__button--unbranded {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  border: 10px solid #333333;
+  border: 0;
   padding: 0 3rem;
   cursor: pointer;
   font: inherit;
