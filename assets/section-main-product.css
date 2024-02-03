@@ -196,7 +196,7 @@ fieldset.product-form__input .form__label {
 
 .product-form__input input[type='radio'] + label {
   border: 1px solid #1773B0;
-  background-color: #1773B0;
+  background-color: rgb(var(--color-background));
   color: rgba(var(--color-foreground));
   border-radius: var(--variant-pills-radius);
   display: inline-block;
