@@ -116,8 +116,9 @@ product-recommendations.is-accordion + .accordion {
 }
 
 .complementary-products__container .quick-add__submit {
-  padding: 2.0rem 0;
+  padding: 2.0rem 0px 0px 0px;
   min-height: inherit;
+  background-color: #1773B0;
 }
 
 .complementary-products__container .quick-add__submit .icon-plus {
