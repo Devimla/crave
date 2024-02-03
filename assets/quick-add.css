@@ -225,6 +225,7 @@ quick-add-modal .product-form__buttons {
   box-sizing: border-box;
 }
 
+
 quick-add-modal .product-media-container.constrain-height {
   --viewport-offset: calc((var(--modal-height-offset) + var(--modal-padding) + var(--popup-border-width)) * 2);
 }
