@@ -3755,8 +3755,8 @@ h2.inline-richtext {
     border-top-right-radius: 5px;
 }
 .balao {
-  background-color: #333333;
-  color: #fff;
+  background-color: #fff159;
+  color: #1773B0;
   padding: 5px;
   border-radius: 5px;
   position: relative;
@@ -3774,9 +3774,8 @@ h2.inline-richtext {
 .balao p {
   margin: 0px;
 }
-
 .cupom {
-  background-color: #fff159;
+  background-color: #333333;
   color: #fff;
   padding: 5px;
   border-radius: 5px;
