@@ -1026,6 +1026,7 @@ a.product__text {
 
 .thumbnail-list {
   flex-wrap: wrap;
+  border-top: solid .1rem rgba(var(--color-foreground),.08);
   grid-gap: 1rem;
 }
 
@@ -1075,7 +1076,6 @@ a.product__text {
 
   .thumbnail-slider {
     display: flex;
-    border-top: solid .1rem rgba(var(--color-foreground),.08);
     align-items: center;
   }
 
