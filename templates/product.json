@@ -79,15 +79,6 @@
             "image_ratio": "square",
             "enable_quick_add": false
           }
-        },
-        "collapsible_tab_myYLi8": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "NUESTRA GARANTIA",
-            "icon": "check_mark",
-            "content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -102,8 +93,7 @@
         "essential_trust_badges_app_block_PXKGHL",
         "essential_trust_badges_app_block_Xfbwmp",
         "description",
-        "complementary_BKyaAU",
-        "collapsible_tab_myYLi8"
+        "complementary_BKyaAU"
       ],
       "custom_css": [
 
