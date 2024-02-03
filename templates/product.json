@@ -66,6 +66,19 @@
           "type": "description",
           "settings": {
           }
+        },
+        "complementary_BKyaAU": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "icon": "none",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
         }
       },
       "block_order": [
@@ -79,7 +92,8 @@
         "fast_bundle_all_bundles_ktaHw3",
         "essential_trust_badges_app_block_PXKGHL",
         "essential_trust_badges_app_block_Xfbwmp",
-        "description"
+        "description",
+        "complementary_BKyaAU"
       ],
       "custom_css": [
 
