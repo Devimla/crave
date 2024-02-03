@@ -343,7 +343,9 @@ a.product__text {
   word-break: break-word;
   margin-bottom: 0.2rem;
 }
-
+.product__title h1 {
+  font-size: 22px; /* Ajuste o valor conforme necessário */
+}
 .product__title > * {
   margin: 0;
   font-size: 22px;
