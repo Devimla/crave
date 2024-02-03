@@ -218,9 +218,9 @@ quick-add-modal .product-form__buttons {
 }
 
 .quick-add__submit {
-  padding: 0.8rem;
+  padding: 10px;
   min-width: 100%;
-  background-color: red; /* Substitua "red" pela cor desejada */
+  background-color: #333; /* Substitua "red" pela cor desejada */
   height: 20px !important;
   box-sizing: border-box;
 }
