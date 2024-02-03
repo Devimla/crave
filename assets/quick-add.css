@@ -220,9 +220,14 @@ quick-add-modal .product-form__buttons {
 .quick-add__submit {
   padding: 0.8rem;
   min-width: 100%;
-  background-color: #1773B0; /* Substitua "red" pela cor desejada */
+
   height: 20px !important;
   box-sizing: border-box;
+}
+#quick-add-template--16272637591719__main7740586000551-submit {
+  background-color: #1773B0; /* Substitua "red" pela cor desejada */
+  padding: 15px 20px; /* Ajuste os valores de padding conforme necessário */
+  /* Adicione outros estilos conforme necessário */
 }
 
 
