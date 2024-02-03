@@ -116,13 +116,13 @@ product-recommendations.is-accordion + .accordion {
 }
 
 .complementary-products__container .quick-add__submit {
-  padding: 0.9rem;
+  padding: 0.6rem;
   min-height: inherit;
   background-color: #1773B0 !important;
 }
 
 .complementary-products__container .quick-add__submit .icon-plus {
-  width: 0.2rem;
+  width: 1.2rem;
 }
 
 .complementary-products__container .icon-wrap {
