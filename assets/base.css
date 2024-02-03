@@ -2978,6 +2978,7 @@ details-disclosure > details {
 .badge {
   border-top-left-radius: 5px !important;
   border-bottom-right-radius: 5px;
+  border-top: green solid 1px;
   display: inline-block;
   font-size: 1.4rem;
   letter-spacing: 0.1rem;
