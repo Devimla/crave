@@ -1381,7 +1381,6 @@ button.shopify-payment-button__button--unbranded {
 .button--full-width {
   display: flex;
   width: 100%;
-  border: 8px solid #333333;
 }
 
 .button.loading {
