@@ -3,11 +3,14 @@
   grid-row-start: 4;
   margin: 0;
   z-index: 1;
+  display: flex;
+  justify-content: center;
 }
 
 .card--card .quick-add {
   margin: 0;
 }
+
 
 .quick-add-modal {
   box-sizing: border-box;
