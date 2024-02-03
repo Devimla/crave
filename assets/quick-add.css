@@ -221,7 +221,7 @@ quick-add-modal .product-form__buttons {
   padding: 30px;
   min-width: 100%;
   background-color: #333; /* Substitua "red" pela cor desejada */
-  height: 20px !important;
+
   box-sizing: border-box;
 }
 
