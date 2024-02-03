@@ -218,16 +218,17 @@ quick-add-modal .product-form__buttons {
 }
 
 .quick-add__submit {
-  padding: 2px;
+  padding: 0.8rem;
   min-width: 100%;
   background-color: #333; /* Substitua "red" pela cor desejada */
-
+  height: 20px !important;
   box-sizing: border-box;
 }
 
 quick-add-modal .product-media-container.constrain-height {
   --viewport-offset: calc((var(--modal-height-offset) + var(--modal-padding) + var(--popup-border-width)) * 2);
 }
+
 @media screen and (min-width: 750px) {
   quick-add-modal .product-media-container.constrain-height {
     --constrained-min-height: 400px;
