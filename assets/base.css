@@ -1260,6 +1260,7 @@ button.shopify-payment-button__button--unbranded {
   -webkit-appearance: none;
   appearance: none;
   text-transform: uppercase;
+  background-color: #333;
 }
 .button:before,
 .shopify-challenge__button:before,
