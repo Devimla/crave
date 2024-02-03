@@ -70,13 +70,13 @@
         "complementary_BKyaAU": {
           "type": "complementary",
           "settings": {
-            "block_heading": "Combina bien con",
+            "block_heading": "Combina bien con:",
             "make_collapsible_row": false,
             "icon": "none",
             "product_list_limit": 9,
             "products_per_page": 3,
             "pagination_style": "counter",
-            "image_ratio": "square",
+            "image_ratio": "portrait",
             "enable_quick_add": true
           }
         }
