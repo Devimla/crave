@@ -116,12 +116,12 @@ product-recommendations.is-accordion + .accordion {
 }
 
 .complementary-products__container .quick-add__submit {
-  padding: 1.9rem 0;
+  padding: 2.0rem 0;
   min-height: inherit;
 }
 
 .complementary-products__container .quick-add__submit .icon-plus {
-  width: 0.2rem;
+  width: 1.2rem;
 }
 
 .complementary-products__container .icon-wrap {
