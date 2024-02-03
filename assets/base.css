@@ -2979,10 +2979,10 @@ details-disclosure > details {
   border-top-left-radius: 5px !important;
   border-bottom-right-radius: 5px;
   display: inline-block;
-  font-size: 1.9rem;
+
   letter-spacing: 0.1rem;
   line-height: 1;
-  padding: 0.5rem 1.3rem 0.6rem 1.3rem;
+  padding: 5px;
   text-align: center;
   background-color: green;
   color: #fff;
