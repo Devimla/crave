@@ -29,7 +29,7 @@
 
 
 .price--on-sale .price-item--regular {
-  color: #Ebebeb !important;
+  color: #333 !important;
   font-size: 12px !important;
   /* Outros estilos conforme necessário */
 }
