@@ -219,10 +219,11 @@ quick-add-modal .product-form__buttons {
 
 .quick-add__submit {
   padding: 0.4rem !important;
-  min-width: 80%;
+  min-width: 80% !important;
   font-size: 10px !important;
   box-sizing: border-box;
 }
+
 quick-add-modal .product-media-container.constrain-height {
   --viewport-offset: calc((var(--modal-height-offset) + var(--modal-padding) + var(--popup-border-width)) * 2);
 }
