@@ -3840,7 +3840,6 @@ h2.inline-richtext {
 .jdgm-carousel__arrows {
   padding-bottom: 15px;
 }
-.jdgm-widget.jdgm-all-reviews-text.jdgm-all-reviews-text--style-branded:nth-of-type(1) {
+.page-width .jdgm-widget.jdgm-all-reviews-text.jdgm-all-reviews-text--style-branded {
   background-color: #1773b0;
-  color: #1773b0;
 }
