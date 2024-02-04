@@ -37,7 +37,6 @@
 
 .collection-hero__title {
   margin-top: 1.0rem 0;
-  text-transform: capitalize;
 }
 
 .collection-hero__title + .collection-hero__description {
