@@ -36,7 +36,6 @@
 .global-settings-popup, .header__submenu.global-settings-popup {
   border-radius: 10px;
     border-color: 2px #1773B0 solid !important;
-    border-width: ;
     box-shadow: none;
     z-index: -1;
 }
