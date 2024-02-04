@@ -19,5 +19,5 @@
   align-items: center;
   display: flex;
   padding: 0.5rem;
-  border: solid .5rem rgba(var(--color-foreground),.08);
+  border: solid 0.1rem rgba(255, 241, 89, 0.08); /* Cor da borda com 8% de transparência */
 }
