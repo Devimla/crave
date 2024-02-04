@@ -3619,14 +3619,10 @@ h2.inline-richtext {
   display: inline-block !important;
 }
 .jdgm-carousel-item__product-image {
-  display: inline !important;
-  height: 150% !important;
   width: auto;
   margin: 0 auto;
 }
-.jdgm-carousel-wrapper .jdgm-carousel-item__review {
-  height: calc(60% - 4em) !important;
-}
+
 .jdgm-carousel-wrapper {
   background-color: #fff; /* Use background-color em vez de background */
   border-radius: 5px;
