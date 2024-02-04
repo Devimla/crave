@@ -63,7 +63,7 @@
       ],
       "custom_css": [
         ".footer-block.footer-block--menu {box-shadow: none;}",
-        ".footer {background-color: #fff159;}"
+        ".footer {color: #fff; background-color: #1773B0;}"
       ],
       "settings": {
         "color_scheme": "accent-2",
@@ -79,17 +79,10 @@
         "padding_top": 8,
         "padding_bottom": 0
       }
-    },
-    "17070238112c360935": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "newsletter_rkJW96",
-    "footer",
-    "17070238112c360935"
+    "footer"
   ]
 }
