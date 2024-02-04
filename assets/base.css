@@ -3805,5 +3805,5 @@ h2.inline-richtext {
 }
 .jdgm-carousel-item__reviewer-name-wrapper {
   border-top: solid .1rem rgba(var(--color-foreground),.08);
-  padding-top: 2px;
+  padding-top: 4px;
 }
