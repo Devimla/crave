@@ -3797,7 +3797,7 @@ h2.inline-richtext {
   color: #1773B0;
   font-weight: bold;
 }
-.jdgm-widget.jdgm-widget {
+.jdgm-widget .jdgm-all-reviews-text .jdgm-all-reviews-text--style-branded {
   background-color: #FFF;
 }
 .jdgm-carousel-wrapper {
