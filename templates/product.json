@@ -96,7 +96,8 @@
         "complementary_BKyaAU"
       ],
       "custom_css": [
-
+        "@media screen and (min-width: 990px) {.product--medium:not(.product--no-media) .product__media-wrapper, .product--small:not(.product--no-media) .product__info-wrapper {max-width: 55%; padding-top: 20px; width: calc(55% - var(--grid-desktop-horizontal-spacing) \/ 2); }}",
+        ".complementary-products__container {border-top: solid 0.1rem rgba(var(--color-foreground), 0.08); padding-top: 10px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -110,8 +111,8 @@
         "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": true,
-        "padding_top": 16,
-        "padding_bottom": 4
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "collapsible_content_7ULDFy": {
