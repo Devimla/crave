@@ -3801,7 +3801,8 @@ h2.inline-richtext {
 .jdgm-carousel-wrapper {
   background-color: #FFF;
   width: 100% !important;
-  border-radius: 10px !important;
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
 }
 
 .jdgm-carousel-item__reviewer-name-wrapper {
