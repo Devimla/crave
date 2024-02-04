@@ -82,16 +82,6 @@
     },
     "17070238112c360935": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_verified_badge_FfAUCG": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_verified_badge_FfAUCG"
-      ],
       "settings": {
         "include_margins": true
       }
