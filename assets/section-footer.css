@@ -333,7 +333,6 @@
 
   .footer-block:only-child li {
     display: inline;
-    color:#FFF !important;
   }
 
   .footer-block__details-content > li:not(:last-child) {
@@ -343,7 +342,7 @@
 
 .footer-block__details-content .list-menu__item--link,
 .copyright__content a {
-  color: #333;
+  color: #FFF;
 }
 
 .footer-block__details-content .list-menu__item--active {
