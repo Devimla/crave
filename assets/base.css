@@ -3791,11 +3791,13 @@ h2.inline-richtext {
   color: currentColor;
   display: block;
 }
+
 .jdgm-carousel-title {
   font-size: 17px !important;
   color: #1773B0;
   font-weight: bold;
 }
+
 .jdgm-carousel-wrapper {
   background-color: #FFF;
   width: 100% !important;
