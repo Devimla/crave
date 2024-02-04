@@ -419,6 +419,7 @@
 
 .footer-block__brand-info {
   text-align: left;
+  background: #1773B0;
 }
 
 .footer-block:only-child .footer-block__brand-info {
