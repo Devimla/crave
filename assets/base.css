@@ -3799,6 +3799,8 @@ h2.inline-richtext {
 }
 #shopify-block-judge_me_reviews_all_reviews_text_MKgXTD .jdgm-all-reviews-text {
   background-color: #fff; /* Substitua "sua_cor_aqui" pela cor desejada */
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
 }
 
 .jdgm-carousel-wrapper {
