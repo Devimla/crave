@@ -3725,13 +3725,10 @@ h2.inline-richtext {
   color: #666;
 }
 
-
 .jdgm-rev__body p {
   color: #222;
 }
-.jdgm-carousel-item__review-body {
-  color: #333 !important;
-}
+
 .jdgm-quest, .jdgm-rev {
     margin: 0 0 2px 0 !important;
     padding-top: 8px !important;
