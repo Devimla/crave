@@ -3619,10 +3619,14 @@ h2.inline-richtext {
   display: inline-block !important;
 }
 .jdgm-carousel-item__product-image {
+  display: inline !important;
+  height: 150% !important;
   width: auto;
   margin: 0 auto;
 }
-
+.jdgm-carousel-wrapper .jdgm-carousel-item__review {
+  height: calc(60% - 4em) !important;
+}
 .jdgm-carousel-wrapper {
   background-color: #fff; /* Use background-color em vez de background */
   border-radius: 5px;
@@ -3756,19 +3760,7 @@ h2.inline-richtext {
   border-top: 1px transparent rgba(51,153,153,0.1) !important;
   border-color: var(--jdgm-secondary-color) !important;
 }
-.balao {
-  background-color: #fff159;
-  color: #1773B0;
-  padding: 5px;
-  border-radius: 5px;
-  position: relative;
-  white-space: nowrap;
-  overflow: hidden;
-  font-size: 0.9em; /* Ajuste o tamanho do texto relativo ao balão */
-  line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
-  display: inline-block;
-  text-transform: uppercase;
-}
+
 .balao p {
   margin: 0px;
 }
