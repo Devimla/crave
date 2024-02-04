@@ -3843,5 +3843,6 @@ h2.inline-richtext {
 #shopify-section-template--16272637591719__1707061729b65243a6 .jdgm-all-reviews-text--style-branded {
   background: #1773b0 !important;
 }
-
-
+.jdgm-all-reviews-text--style-branded .jdgm-all-reviews-rating:before {
+  color: #fff159  !important;
+}
