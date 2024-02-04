@@ -3804,6 +3804,7 @@ h2.inline-richtext {
   width: 100% !important;
   border-radius: 10px !important;
 }
+
 .jdgm-carousel-item__reviewer-name-wrapper {
   border-top: solid .2rem rgba(var(--color-foreground),.08);
   padding-top: 4px;
