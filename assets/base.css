@@ -3796,6 +3796,7 @@ h2.inline-richtext {
   font-size: 17px !important;
   color: #1773B0;
   font-weight: bold;
+  border-bottom: solid .2rem rgba(var(--color-foreground),.08);
 }
 
 .jdgm-carousel-wrapper {
@@ -3804,6 +3805,6 @@ h2.inline-richtext {
   border-radius: 10px !important;
 }
 .jdgm-carousel-item__reviewer-name-wrapper {
-  border-top: solid .1rem rgba(var(--color-foreground),.08);
+  border-top: solid .2rem rgba(var(--color-foreground),.08);
   padding-top: 4px;
 }
