@@ -333,7 +333,7 @@
 
   .footer-block:only-child li {
     display: inline;
-    color:#FFF;
+    color:#FFF !important;
   }
 
   .footer-block__details-content > li:not(:last-child) {
