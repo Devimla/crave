@@ -3610,12 +3610,6 @@ h2.inline-richtext {
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 }
-.jdgm-carousel-title {
-  font-size: 17px !important;
-  color: #1773B0;
-  font-weight: bold;
-}
-
 
 .jdgm-rev__author, .jdgm-rev__icon:before {
   font-size: 16px;
@@ -3796,4 +3790,13 @@ h2.inline-richtext {
   text-decoration: none;
   color: currentColor;
   display: block;
+}
+.jdgm-carousel-title {
+  font-size: 17px !important;
+  color: #1773B0;
+  font-weight: bold;
+}
+.jdgm-carousel-wrapper {
+  background-color: #FFF;
+  width: 95% !important;
 }
