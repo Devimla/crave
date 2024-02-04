@@ -3578,7 +3578,7 @@ h2.inline-richtext {
 .img-brock img {
   display: block;
   width: 100%;
-  padding: 2px;
+  margin: 2px !important;
   height: auto;
 }
 
