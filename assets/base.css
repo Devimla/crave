@@ -3841,3 +3841,9 @@ h2.inline-richtext {
 .rbr-standard-bundle__title {
   text-align: center !important;
 }
+.mix {
+  text-align: center;
+  text-decoration: none;
+  color: currentColor;
+  display: block;
+}
