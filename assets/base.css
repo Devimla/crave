@@ -3801,7 +3801,8 @@ h2.inline-richtext {
   background-color: #fff; /* Substitua "sua_cor_aqui" pela cor desejada */
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  padding-top: 10px !important;
+  padding-top: 5px !important;
+  border-bottom: 5px solid #FFF;
 }
 
 .jdgm-carousel-wrapper {
