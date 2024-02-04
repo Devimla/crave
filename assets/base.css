@@ -3813,6 +3813,9 @@ h2.inline-richtext {
 .jdgm-all-reviews-text--style-branded .jdgm-all-reviews-text__text {
   padding: 5px !important;
 }
+.jdgm-all-reviews-text--style-branded .jdgm-all-reviews-rating__score {
+  margin-right: 10px !important;
+}
 .jdgm-carousel-item__reviewer-name-wrapper {
   border-top: solid .2rem rgba(var(--color-foreground),.08);
   padding-top: 4px;
