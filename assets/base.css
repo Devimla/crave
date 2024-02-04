@@ -3840,6 +3840,7 @@ h2.inline-richtext {
 .jdgm-carousel__arrows {
   padding-bottom: 15px;
 }
-.page-width .jdgm-widget.jdgm-all-reviews-text.jdgm-all-reviews-text--style-branded {
-  background-color: #1773b0;
+.page-width #shopify-block-judge_me_reviews_all_reviews_text_CCbAE7 .jdgm-widget.jdgm-all-reviews-text.jdgm-all-reviews-text--style-branded {
+  background-color: #1773b0 !important;
 }
+
