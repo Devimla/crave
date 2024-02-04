@@ -55,18 +55,11 @@
             "heading": "<strong>Política<\/strong>",
             "menu": "footer-1"
           }
-        },
-        "brand_information_dM4bHE": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
         }
       },
       "block_order": [
         "link_list_zFwt4V",
-        "link_list_LVmEyD",
-        "brand_information_dM4bHE"
+        "link_list_LVmEyD"
       ],
       "custom_css": [
         ".footer-block.footer-block--menu {box-shadow: none;}",
