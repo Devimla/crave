@@ -3816,9 +3816,12 @@ h2.inline-richtext {
   border-bottom-right-radius: 10px;
   border-bottom: 5px solid #FFF;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  width: 90%;
 }
 
 .jdgm-carousel-wrapper {
+  width: 100% !important;
   background-color: #FFF;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
