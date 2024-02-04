@@ -3835,3 +3835,6 @@ h2.inline-richtext {
   border-top: solid .2rem rgba(var(--color-foreground),.08);
   padding-top: 4px;
 }
+.jdgm-carousel__arrows {
+  padding-bottom: 10px;
+}
