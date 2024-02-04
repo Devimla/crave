@@ -3797,7 +3797,9 @@ h2.inline-richtext {
   color: #1773B0;
   font-weight: bold;
 }
-
+.jdgm-widget.jdgm-widget {
+  background-color: #FFF;
+}
 .jdgm-carousel-wrapper {
   background-color: #FFF;
   width: 100% !important;
