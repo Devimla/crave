@@ -3796,9 +3796,10 @@ h2.inline-richtext {
   font-size: 17px !important;
   color: #1773B0;
   font-weight: bold;
+}
+.jdgm-carousel-title-and-link {
   border-bottom: solid .2rem rgba(var(--color-foreground),.08);
 }
-
 .jdgm-carousel-wrapper {
   background-color: #FFF;
   width: 100% !important;
