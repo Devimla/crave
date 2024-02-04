@@ -3610,7 +3610,48 @@ h2.inline-richtext {
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 }
-
+.jdgm-carousel-title {
+  font-size: 17px !important;
+  color: #1773B0;
+  font-weight: bold;
+}
+.jdgm-carousel-item__product {
+  display: inline-block !important;
+}
+.jdgm-carousel-item__product-image {
+  display: inline !important;
+  height: 150% !important;
+  width: auto;
+  margin: 0 auto;
+}
+.jdgm-carousel-wrapper .jdgm-carousel-item__review {
+  height: calc(60% - 4em) !important;
+}
+.jdgm-carousel-wrapper {
+  background-color: #fff; /* Use background-color em vez de background */
+  border-radius: 5px;
+  border: 5px solid #fff !important;
+  margin-bottom: 10px !important;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
+}
+.jdgm-carousel__left-arrow {
+  border-color: #1773B0!important;
+}
+.jdgm-carousel__right-arrow {
+  border-color: #1773B0!important;
+}
+.jdgm-carousel-item__reviewer-name {
+  color: #333;
+  font-size: 16px !important;
+  font-weight: bold; 
+}
+.jdgm-carousel-item__timestamp {
+  color: #D30404;
+}
+.jdgm-carousel-title-and-link {
+  margin-bottom: 24px;
+  border-bottom: 2px solid rgba(103, 114, 121, 0.5); /* 2px é a largura da borda, você pode ajustar conforme necessário */
+}
 .jdgm-rev__author, .jdgm-rev__icon:before {
   font-size: 16px;
   }
