@@ -3807,7 +3807,7 @@ h2.inline-richtext {
   background-color: #FFF;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 10px !important;
 }
 
 .jdgm-carousel-item__reviewer-name-wrapper {
