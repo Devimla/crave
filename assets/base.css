@@ -3859,5 +3859,5 @@ h2.inline-richtext {
 }
 .tm_tracking_content > .tm_tracking_form_div > .tm_tracking_form_in > .tm_tracking_line_center > .tm_tracking_word {
   padding: 0 !important; /* Removi os zeros redundantes, mas se quiser manter, tudo bem */
-  font-size: 24px;
+  font-size: 26px !important;
 }
