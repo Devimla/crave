@@ -3865,12 +3865,6 @@ h2.inline-richtext {
   border-radius: 20px !important;
 }
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>SVG Corrigido</title>
-  <style>
     .tm_tracking_content > .tm_tracking_form_div > .tm_tracking_title::before {
       content: '';
       display: inline-block;
