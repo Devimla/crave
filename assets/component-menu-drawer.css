@@ -258,9 +258,7 @@ details[open].menu-opening > .menu-drawer__submenu {
   justify-content: flex-start;
   margin-left: -1.25rem
 }
-.menu-drawer .list-social .icon {
-  color: 
-}
+
 .menu-drawer .list-social:empty {
   display: none;
 }
