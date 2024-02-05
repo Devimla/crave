@@ -3864,3 +3864,11 @@ h2.inline-richtext {
 .tm_tracking_content > .tm_tracking_form_div > .tm_tracking_form_in > .tm_tracking_form_number > .tm_tracking_form > .tm_tracking_parent > .tm_tracking_input {
   border-radius: 20px !important;
 }
+.tm_tracking_content > .tm_tracking_form_div > .tm_tracking_title::before {
+  content: ''; /* Remova a URL, pois você está usando o SVG diretamente no código */
+  display: inline-block;
+  width: 24px; /* Ajuste a largura conforme necessário */
+  height: 23px; /* Ajuste a altura conforme necessário */
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" class="announcesvg" viewBox="0 0 24 23" role="presentation"><g stroke-width="2" fill="none" fill-rule="evenodd"><path d="M17 1c-2.1 0-3.9 1.1-5 2.7C10.9 2.1 9.1 1 7 1 3.7 1 1 3.7 1 7c0 6 11 15 11 15s11-9 11-15c0-3.3-2.7-6-6-6z" stroke="%23fff159" stroke-linecap="square"></path><path d="M16 5c1.65 0 3 1.35 3 3" stroke="%23fff159" stroke-linecap="round"></path></g></svg>') center/contain no-repeat; /* Substitua pelo código real do seu SVG */
+  margin-right: 10px; /* Ajuste a margem conforme necessário */
+}
