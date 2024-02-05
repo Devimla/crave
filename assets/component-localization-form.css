@@ -150,9 +150,9 @@ noscript .localization-selector.link {
 }
 
 .disclosure__list-wrapper {
-  border-width: var(--popup-border-width);
+  border-width: 1px;
   border-style: solid;
-  border-color: 1px rgba(var(--color-foreground));
+  border-color: rgba(var(--color-foreground));
   overflow: hidden;
   position: absolute;
   bottom: 100%;
