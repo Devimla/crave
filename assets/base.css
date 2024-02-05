@@ -3870,6 +3870,7 @@ h2.inline-richtext {
   display: inline-block;
   width: 23px;
   height: 24px;
-  background: url('data:image/svg+xml;utf8,<svg class="announcesvg" viewBox="0 0 23 24" role="presentation"><g stroke-width="2" fill="none" fill-rule="evenodd"><path d="M6.5 3.25l12 6" stroke="%23fff159"></path><path stroke="%23fff159" d="M23 7l-10 5L1 6M13 12v11"></path><path stroke="%23fff159" stroke-linecap="square" d="M23 7v10l-10 6-12-6V6l10-5z"></path></g></svg>') center/contain no-repeat;
+  background: url('../sections/svg-entrega.liquid') center/contain no-repeat;
   margin-right: 10px;
 }
+
