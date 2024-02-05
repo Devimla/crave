@@ -152,7 +152,7 @@ noscript .localization-selector.link {
 .disclosure__list-wrapper {
   border-width: var(--popup-border-width);
   border-style: solid;
-  border-color: rgba(var(--color-foreground), var(--popup-border-opacity));
+  border-color: rgba(var(--color-foreground));
   overflow: hidden;
   position: absolute;
   bottom: 100%;
