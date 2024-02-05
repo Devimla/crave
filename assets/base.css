@@ -3870,7 +3870,7 @@ h2.inline-richtext {
   display: inline-block;
   width: 23px;
   height: 24px;
-  background: url('../snippets/svg-entrega.liquid') center/contain no-repeat;
+  background: url('../snippets/svg-entrega.svg') center/contain no-repeat;
   margin-right: 10px;
 }
 
