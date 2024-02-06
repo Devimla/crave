@@ -3650,7 +3650,6 @@ h2.inline-richtext {
     background-color: #fff;
     border-radius: 5px;
     margin: 2px!important;
-    border: #FFF solid 5px;
     padding: 4px 8px; /* Ajuste conforme necessário */
     box-shadow: 0 4px 8px #0000001a;
     display: flex;
