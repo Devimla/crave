@@ -3667,7 +3667,7 @@ h2.inline-richtext {
 }
 .jdgm-widget a:not([href])[role="button"],
 .jm-mfp-wrap a:not([href])[role="button"] {
-  border: #FFF solid 5px !important;
+  border: #FFF solid 3px !important;
 }
 /* Estilo específico para os elementos vazios dentro de .jdgm-widget e .jm-mfp-wrap */
 .jdgm-widget a:empty,
