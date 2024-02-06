@@ -3871,5 +3871,6 @@ h2.inline-richtext {
   height: 50px;
   background: url('https://github.com/Devimla/svg-entrega/raw/main/truck-speed-svgrepo-com.svg') center/contain no-repeat;
   margin-right: 10px;
+  vertical-align: middle;
 }
 
