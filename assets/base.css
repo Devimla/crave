@@ -3652,16 +3652,16 @@ h2.inline-richtext {
     border-radius: 5px;
     margin: 2px !important;
     padding: 4px 8px; /* Ajuste conforme necessário */
+    box-shadow: 0 4px 8px #0000001a;
     display: inline-block !important;
     justify-content: center;
     align-items: center;
     text-align: center;
     width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
-
 .jdgm-paginate {
   background: #FFF;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   border-radius: 5px;
   padding-top: 5px !important;
 }
