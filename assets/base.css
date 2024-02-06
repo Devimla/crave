@@ -3650,7 +3650,7 @@ h2.inline-richtext {
     color: #222!important;
     background-color: #fff;
     border-radius: 5px;
-    margin: 2px!important;
+    margin-bottom: 2px!important;
     padding: 4px 8px; /* Ajuste conforme necessário */
     box-shadow: 0 4px 8px #0000001a;
     display: inline-block !important;
@@ -3664,7 +3664,6 @@ h2.inline-richtext {
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
   font-size: 20px !important;
-  margin-bottom: 5px;
 }
 .jdgm-widget a:not([href])[role="button"],
 .jm-mfp-wrap a:not([href])[role="button"] {
