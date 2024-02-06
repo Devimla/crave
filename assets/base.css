@@ -3869,6 +3869,7 @@ h2.inline-richtext {
   display: inline-block;
   width: 23px;
   height: 24px;
-  background: url('https://github.com/Devimla/svg-entrega/truck-speed-svgrepo-com.svg') center/contain no-repeat;
+  background: url('https://github.com/Devimla/svg-entrega/raw/main/truck-speed-svgrepo-com.svg') center/contain no-repeat;
   margin-right: 10px;
 }
+
