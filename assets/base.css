@@ -3659,6 +3659,12 @@ h2.inline-richtext {
     text-align: center;
     width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
+
+.jdgm-rev {
+    border-top: 1px solid rgba(51,153,153,0.1);
+    border-color: transparent !important;
+}
+
 .jdgm-paginate {
   padding-bottom: 5px;
   padding-top: 5px !important;
