@@ -3661,6 +3661,9 @@ h2.inline-richtext {
 }
 .jdgm-paginate {
   background: #FFF;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  padding-top: 0 !important;
 }
 /* Estilo específico para a página atual (jdgm-curt) */
 .jdgm-paginate__page.jdgm-curt {
