@@ -3656,7 +3656,6 @@ h2.inline-richtext {
     display: inline-block !important;
     justify-content: center;
     align-items: center;
-    margin: 2px;
     text-align: center;
     width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
