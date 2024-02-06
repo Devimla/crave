@@ -3660,8 +3660,6 @@ h2.inline-richtext {
     width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
 
-
-
 /* Estilo específico para a página atual (jdgm-curt) */
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
