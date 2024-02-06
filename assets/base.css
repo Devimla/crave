@@ -3658,6 +3658,7 @@ h2.inline-richtext {
     text-align: center;
     width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
+
 .jdgm-paginate {
   background: #FFF;
   padding-bottom: 10px;
