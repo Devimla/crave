@@ -3660,9 +3660,7 @@ h2.inline-richtext {
     width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
 .jdgm-paginate {
-  background: #FFF;
   padding-bottom: 5px;
-  border-radius: 5px;
   padding-top: 5px !important;
 }
 /* Estilo específico para a página atual (jdgm-curt) */
