@@ -3665,6 +3665,7 @@ h2.inline-richtext {
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
   font-size: 20px !important;
+  margin-bottom: 5px;
 }
 .jdgm-widget a:not([href])[role="button"],
 .jm-mfp-wrap a:not([href])[role="button"] {
