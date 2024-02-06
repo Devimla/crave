@@ -3664,7 +3664,7 @@ h2.inline-richtext {
 /* Estilo específico para a página atual (jdgm-curt) */
 .jdgm-paginate__page.jdgm-curt {
   color: #1773B0 !important;
-  font-size: 22px !important;
+  font-size: 20px !important;
 }
 .jdgm-widget a:not([href])[role="button"],
 .jm-mfp-wrap a:not([href])[role="button"] {
