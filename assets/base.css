@@ -3651,14 +3651,16 @@ h2.inline-richtext {
     border-radius: 5px;
     margin: 2px!important;
     border: #FFF solid 5px;
-    padding: 4px 8px; /* Altere conforme necessário */
+    padding: 4px 8px; /* Ajuste conforme necessário */
     box-shadow: 0 4px 8px #0000001a;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    min-width: 24px; /* Defina um valor mínimo de largura */
+    min-width: 30px; /* Aumente o valor mínimo de largura */
+    width: auto; /* Permita que a largura cresça conforme necessário */
 }
+
 
 
 /* Estilo específico para a página atual (jdgm-curt) */
