@@ -3646,19 +3646,20 @@ h2.inline-richtext {
 }
 /* Estilo para os elementos de paginação */
 .jdgm-paginate__page {
-  color: #222 !important;
-  background-color: #FFF;
-  border-radius: 5px;
-  margin: 2px !important;  
-  border: #FFF solid 5px;
-  padding: 0px 0px !important;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  width: 24px; /* Defina a largura desejada */
+    color: #222!important;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 2px!important;
+    border: #FFF solid 5px;
+    padding: 4px 8px; /* Altere conforme necessário */
+    box-shadow: 0 4px 8px #0000001a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-width: 24px; /* Defina um valor mínimo de largura */
 }
+
 
 /* Estilo específico para a página atual (jdgm-curt) */
 .jdgm-paginate__page.jdgm-curt {
