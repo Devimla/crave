@@ -3674,8 +3674,6 @@ h2.inline-richtext {
 .jm-mfp-wrap a:empty {
   /* Adicione os estilos desejados para elementos vazios */
   color: #333!important; /* Cor do texto, ajuste conforme necessário */
-  padding: 2px!important; /* Preenchimento, ajuste conforme necessário */
-  /* Outros estilos... */
 }
 
 /* Estilo para o texto dentro do badge de página anterior */
