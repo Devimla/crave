@@ -3658,7 +3658,7 @@ h2.inline-richtext {
     align-items: center;
     text-align: center;
     min-width: 30px !important; /* Aumente o valor mínimo de largura */
-    width: auto; /* Permita que a largura cresça conforme necessário */
+    width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
 
 
