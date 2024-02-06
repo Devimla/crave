@@ -3631,6 +3631,7 @@ h2.inline-richtext {
   display: inline-block;
   margin-right: 5px;
   margin-left: 5px;
+  vertical-align: middle; /* Adicionando o alinhamento vertical */
 }
 .jdgm-rev__icon:empty {
   border-radius: 10px;
