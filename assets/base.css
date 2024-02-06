@@ -3660,10 +3660,16 @@ h2.inline-richtext {
     width: auto !important; /* Permita que a largura cresça conforme necessário */
 }
 
-.jdgm-rev {
-    border-top: 1px transparent !important;
-    border-color: transparent !important;
+.jdgm-row-media, 
+.jdgm-row-search, 
+.jdgm-subtab, 
+.jdgm-row-actions, 
+.jdgm-quest, 
+.jdgm-rev, 
+.jdgm-paginate {
+    border: none !important; /* ou border: 0; */
 }
+
 
 .jdgm-paginate {
   padding-bottom: 5px;
