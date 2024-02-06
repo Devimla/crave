@@ -3653,7 +3653,7 @@ h2.inline-richtext {
     margin: 2px!important;
     padding: 4px 8px; /* Ajuste conforme necessário */
     box-shadow: 0 4px 8px #0000001a;
-    display: inline-block;
+    display: inline-block !important;
     justify-content: center;
     align-items: center;
     margin: 2px;
