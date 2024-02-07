@@ -3904,12 +3904,13 @@ h2.inline-richtext {
 .section-template--16272637362343__featured_collection_awDJYD-padding h2.title.inline-richtext.h1::before {
   content: "";
   display: inline-block;
-  width: 24px;
-  height: 24px;
+  width: 34px;
+  height: 34px;
   background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/shoes-weight-loss-svgrepo-com.svg');
   background-size: cover;
   background-repeat: no-repeat;
   margin-right: 10px;
+  vertical-align: middle;
 }
 
 
