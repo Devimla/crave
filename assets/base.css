@@ -3893,4 +3893,13 @@ h2.inline-richtext {
   margin-right: 15px;
   vertical-align: middle;
 }
+.section-template--16272637362343__featured_collection_QPqzC4-padding h2.title.inline-richtext.h1::before {
+  content:'';
+  background: url('https://www.dropbox.com/scl/fi/e33f5s7s88xohfz2nwzi8/home-svgrepo-com-1.svg?raw=1');
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
 
