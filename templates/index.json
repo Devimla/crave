@@ -103,7 +103,8 @@
         ".title-wrapper-with-link {margin-bottom: 5px;}",
         ".card__inner {width: 80%;}",
         ".grid__item {padding: 0px;}",
-        ".card__heading:last-child {margin-bottom: 0; font-size: 14px;}"
+        ".card__heading:last-child {margin-bottom: 0; font-size: 14px;}",
+        ".card:not(.ratio) {align-items: center;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
