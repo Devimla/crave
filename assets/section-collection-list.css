@@ -10,6 +10,7 @@
   color: #1773b0 !important;
   position: relative; /* Adicione esta linha */
 }
+
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
@@ -21,6 +22,7 @@
   top: 100%; /* Posiciona o risco abaixo do texto */
   left: 0; /* Alinha o risco à esquerda do texto */
 }
+
 
 h2.title {
   position: relative;
