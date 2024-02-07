@@ -636,7 +636,7 @@ details > * {
 
 h3 .icon-arrow,
 .h3 .icon-arrow {
-  width: calc(var(--font-heading-scale) * 1rem);
+  width: calc(var(--font-heading-scale) * 1.1rem);
 }
 
 /* arrow animation */
