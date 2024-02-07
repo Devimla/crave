@@ -18,6 +18,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        ".isolate {background: #fff;}"
+      ],
       "settings": {
         "title": "<strong>Venta Caliente<\/strong>",
         "heading_size": "h2",
