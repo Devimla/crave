@@ -16,7 +16,7 @@
   display: block; /* Torna o pseudo-elemento um bloco separado */
   width: 10px; /* Define a largura da bolinha */
   height: 10px; /* Define a altura da bolinha */
-  background-color: #007bff; /* Cor da bolinha */
+  background-color: #1773b0; /* Cor da bolinha */
   border-radius: 50%; /* Torna a bolinha redonda */
   position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
   top: 50%; /* Posiciona a bolinha no meio verticalmente */
