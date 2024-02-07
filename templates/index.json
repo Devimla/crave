@@ -188,7 +188,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "ropas-y-accesorios",
+        "collection": "los-mas-vendidos",
         "products_to_show": 10,
         "columns_desktop": 5,
         "full_width": false,
