@@ -806,7 +806,7 @@ summary::-webkit-details-marker {
   justify-content: space-between;
   align-items: flex-end;
   gap: 1rem;
-  margin-left: 20px;
+  margin-left: 25px;
   margin-bottom: 3rem;
   flex-wrap: wrap;
 }
