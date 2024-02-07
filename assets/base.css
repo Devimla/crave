@@ -3899,10 +3899,11 @@ h2.inline-richtext {
 }
 
 .section-template--16272637362343__featured_collection_QPqzC4-padding h2.title.inline-richtext.h1::before {
-  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/home-mobile-ui-svgrepo-com.svg');
+  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/casa.svg');
   display: inline-block;
   vertical-align: middle;
   width: 32px;
+  margin-right: 10px;
   height: 32px;
 }
 
