@@ -96,7 +96,7 @@
     min-height: 20rem;
   }
 }
-.section-template--16272637362343__featured_collection_QPqzC4-padding::before {
+.section-template--16272637362343__featured_collection_QPqzC4-padding h2.title.inline-richtext.h1::before {
   content: url('https://www.dropbox.com/scl/fi/e33f5s7s88xohfz2nwzi8/home-svgrepo-com-1.svg?raw=1');
   display: inline-block;
   width: 24px;
