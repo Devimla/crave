@@ -102,12 +102,13 @@
         ".full-unstyled-link {text-align: center;}",
         ".title-wrapper-with-link {margin-bottom: 2px;}",
         ".card__inner {width: 80%;}",
-        ".grid__item {padding: 0px;}"
+        ".grid__item {padding: 0px;}",
+        ".card__heading:last-child{margin-bottom: 0; font-size: 14px;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
         "heading_size": "h0",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
