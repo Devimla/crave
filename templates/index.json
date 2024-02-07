@@ -102,7 +102,7 @@
         ".full-unstyled-link {text-align: center;}",
         ".title-wrapper-with-link {margin-bottom: 2px;}",
         ".card__inner {width: 80%;}",
-        ".grid__item {padding: 2px;}"
+        ".grid__item {padding: 0px;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
