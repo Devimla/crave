@@ -3901,12 +3901,16 @@ h2.inline-richtext {
   height: 24px;
 }
 
+.section-template--16272637362343__featured_collection_awDJYD-padding h2.title.inline-richtext.h1 {
+  display: inline-flex;
+  align-items: center; /* Alinha verticalmente o conteúdo */
+}
+
 .section-template--16272637362343__featured_collection_awDJYD-padding h2.title.inline-richtext.h1::before {
-  content: "";
-  display: inline-block;
-  width: 34px;
-  height: 34px;
-  background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/shoes-weight-loss-svgrepo-com.svg');
+  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/shoes-weight-loss-svgrepo-com.svg');
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
 }
 
 
