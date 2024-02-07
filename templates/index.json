@@ -180,7 +180,7 @@
       "type": "featured-collection",
       "custom_css": [
         ".slider-buttons {display: none;}",
-        ".isolate {background: #fff; padding-bottom: 10px; padding-top: 10px; border-radius: 10px;}"
+        ".isolate {background: #fff;}"
       ],
       "settings": {
         "title": "Ropa y accesorios",
