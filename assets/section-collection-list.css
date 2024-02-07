@@ -8,20 +8,22 @@
   font-size: 28px;
   font-weight: bold;
   color: #1773b0 !important;
-  position: relative; /* Adicione esta linha */
+  position: relative;
 }
 
 .collection-list-title::before {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 100%; /* Define a largura do risco como 100% para estender por toda a largura do texto */
-  height: 2px; /* Define a altura do risco */
-  background-color: #007bff; /* Cor do risco */
-  border-radius: 50px;
-  position: absolute; /* Posiciona o risco em relação ao elemento pai */
-  top: 100%; /* Posiciona o risco abaixo do texto */
-  left: 0; /* Alinha o risco à esquerda do texto */
+  width: 10px; /* Define a largura da bolinha */
+  height: 10px; /* Define a altura da bolinha */
+  background-color: #007bff; /* Cor da bolinha */
+  border-radius: 50%; /* Torna a bolinha redonda */
+  position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
+  top: 50%; /* Posiciona a bolinha no meio verticalmente */
+  left: -15px; /* Alinha a bolinha à esquerda do texto */
+  transform: translateY(-50%); /* Ajusta a posição verticalmente */
 }
+
 
 
 h2.title {
