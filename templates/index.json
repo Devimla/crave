@@ -154,7 +154,7 @@
         "button_UgzAUa"
       ],
       "custom_css": [
-        ".image-with-text__media {border-bottom-left-radius: 0px !important; border-bottom-right-radius: 0px !important;}",
+        ".image-with-text__media-item {border-bottom-left-radius: 0px !important; border-bottom-right-radius: 0px !important;}",
         ".image-with-text__text-item {border-top-left-radius: 0px; border-top-right-radius: 0px;}"
       ],
       "settings": {
