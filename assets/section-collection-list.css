@@ -19,7 +19,6 @@
   position: absolute; /* Posiciona o risco em relação ao elemento pai */
   top: 100%; /* Posiciona o risco abaixo do texto */
   left: 0; /* Alinha o risco à esquerda do texto */
-  content: ''; /* Remove a bolinha */
 }
 
 h2.title {
