@@ -206,6 +206,9 @@
     },
     "featured_collection_QPqzC4": {
       "type": "featured-collection",
+      "custom_css": [
+        ".slider-buttons {display: none;}"
+      ],
       "settings": {
         "title": "Casa y Jardin",
         "heading_size": "h1",
