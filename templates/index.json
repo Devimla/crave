@@ -96,7 +96,7 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
-        ".collection-list-title:after {display: none;}",
+        ".full-unstyled-link {color: #FFF;}",
         ".slider-buttons {display: none;}",
         ".grid__item {background: transparent;}",
         ".full-unstyled-link {text-align: center;}",
@@ -106,7 +106,7 @@
         ".card__heading:last-child {margin-bottom: 0; font-size: 14px;}",
         ".card:not(.ratio) {align-items: center;}",
         ".card .card__inner .card__media {border-radius: 10%;}",
-        ".color-background-1 {background: #1773B0; padding-top: 10px;}",
+        ".color-background-1 {background: #1773b0; padding-top: 10px;}",
         ".color-background-2 {background: transparent;}"
       ],
       "settings": {
