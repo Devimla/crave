@@ -212,7 +212,8 @@
       "type": "featured-collection",
       "custom_css": [
         ".slider-buttons {display: none;}",
-        ".isolate {background: #fff;}"
+        ".isolate {background: #fff;}",
+        ".title.inline-richtext.h1::before {display: inline-block; width: 24px; height: 24px; margin-right: 10px;}"
       ],
       "settings": {
         "title": "Casa y Jardin",
