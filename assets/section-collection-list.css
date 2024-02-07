@@ -6,7 +6,7 @@
 .collection-list-title {
   margin: 0;
   font-size: 28px;
-  color: #FFF;
+  color: #FFF !important; 
   font-weight: bold;
 }
 .collection-list-title::after {
