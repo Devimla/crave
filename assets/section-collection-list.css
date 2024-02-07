@@ -6,7 +6,7 @@
 .collection-list-title {
   margin: 0;
   font-size: 28px;
-  color: #fff159 !important; 
+  color: #1773b0 !important; 
 }
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
