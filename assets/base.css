@@ -3896,10 +3896,8 @@ h2.inline-richtext {
 .section-template--16272637362343__featured_collection_QPqzC4-padding h2.title.inline-richtext.h1::before {
   content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/home-svgrepo-com%20(1).svg');
   display: inline-block;
-  width: 24px;
-  background-size: 1% 1%;
-  height: 24px;
-  margin-right: 10px;
+  margin-right: 15px;
+  vertical-align: middle;
 }
 
 
