@@ -100,7 +100,8 @@
         ".slider-buttons {display: none;}",
         ".grid__item {background: transparent;}",
         ".full-unstyled-link {text-align: center;}",
-        ".title-wrapper-with-link {margin-bottom: 2px;}"
+        ".title-wrapper-with-link {margin-bottom: 2px;}",
+        ".card__inner {width: 80%;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
