@@ -104,7 +104,8 @@
         ".card__inner {width: 80%;}",
         ".grid__item {padding: 0px;}",
         ".card__heading:last-child {margin-bottom: 0; font-size: 14px;}",
-        ".card:not(.ratio) {align-items: center;}"
+        ".card:not(.ratio) {align-items: center;}",
+        ".card .card__inner .card__media {border-radius: 50%;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
