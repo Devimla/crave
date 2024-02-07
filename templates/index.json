@@ -19,7 +19,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".isolate {background: #fff; padding-bottom: 10px; padding-top: 10px; border-radius: 5px;}"
+        ".isolate {background: #fff; padding-bottom: 10px; padding-top: 10px; border-radius: 10px;}"
       ],
       "settings": {
         "title": "<strong>Venta Caliente<\/strong>",
