@@ -19,7 +19,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".isolate {background: #fff; padding-bottom: 10px; padding-top: 10px;}"
+        ".isolate {background: #fff; padding-bottom: 10px; padding-top: 10px; border-radius: 10px;}"
       ],
       "settings": {
         "title": "<strong>Venta Caliente<\/strong>",
@@ -96,7 +96,7 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
-        ".full-unstyled-link {color: #FFF;}",
+        ".full-unstyled-link {color: #fff;}",
         ".slider-buttons {display: none;}",
         ".grid__item {background: transparent;}",
         ".full-unstyled-link {text-align: center;}",
