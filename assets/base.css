@@ -3041,6 +3041,7 @@ details-disclosure > details {
 }
 h2.inline-richtext {
   color: #1773b0; /* cor do texto, pode ser alterada */
+  padding-left: 20px;
   font-size: 22px; /* tamanho da fonte, pode ser alterado */
 }
 

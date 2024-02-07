@@ -69,7 +69,6 @@
 
 .collection__title.title-wrapper {
   margin-bottom: 2.5rem;
-  margin-left: 10px !important;
 }
 
 .collection__title .title:not(:only-child) {
