@@ -122,72 +122,49 @@
         "padding_bottom": 0
       }
     },
-    "featured_product_EDDYLf": {
-      "type": "featured-product",
+    "image_with_text_FT73q9": {
+      "type": "image-with-text",
       "blocks": {
-        "text_8GaN8j": {
-          "type": "text",
+        "heading_QBggYe": {
+          "type": "heading",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_xrhmGR": {
-          "type": "title",
-          "settings": {
+            "heading": "ColicWize",
             "heading_size": "h1"
           }
         },
-        "price_3G6Rf3": {
-          "type": "price",
+        "text_37mb8P": {
+          "type": "text",
           "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
           }
         },
-        "variant_picker_rbU8Nd": {
-          "type": "variant_picker",
+        "button_UgzAUa": {
+          "type": "button",
           "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_CBACJT": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_LmKFR3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_Jz3EMR": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_8GaN8j",
-        "title_xrhmGR",
-        "price_3G6Rf3",
-        "variant_picker_rbU8Nd",
-        "quantity_selector_CBACJT",
-        "buy_buttons_LmKFR3",
-        "share_Jz3EMR"
+        "heading_QBggYe",
+        "text_37mb8P",
+        "button_UgzAUa"
       ],
       "settings": {
-        "product": "copia-de-colicwize-masaje-que-elimina-los-colicos-menstruales-en-menos-de-15-minutos-4567",
+        "image": "shopify:\/\/shop_images\/S9b4b0c0fd28d4ec18b805b44765e5f7ag_a7a9915e-ed4b-4944-871c-d1d8c7de4eb5.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": true,
-        "enable_video_looping": false,
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -220,7 +197,7 @@
     "image_banner_VYCPUp",
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
-    "featured_product_EDDYLf",
+    "image_with_text_FT73q9",
     "17046572019621ab73"
   ]
 }
