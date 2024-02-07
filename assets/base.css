@@ -164,6 +164,10 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 .isolate {
   position: relative;
   z-index: 0;
+  background: #FFF !important;
+  border-radius: 10px;
+  padding-bottom: 10px
+  padding-top: 10px; 
 }
 
 .section + .section {
