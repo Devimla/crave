@@ -3729,12 +3729,10 @@ h2.inline-richtext {
   border-top: 1px transparent rgba(51,153,153,0.1) !important;
   border-color: var(--jdgm-secondary-color) !important;
 }
-
 .jdgm-gallery__thumbnail-wrapper:before {
     border: 1px solid #7b7b7b;
     text-align: center;
 }
-
 .balao {
   background-color: #fff159;
   color: #333;
