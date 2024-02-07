@@ -11,7 +11,7 @@
   position: relative; /* Adicione esta linha */
 }
 
-.collection-list-title::after {
+.collection-list-title::before {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
   width: 100%; /* Define a largura do risco como 100% para estender por toda a largura do texto */
