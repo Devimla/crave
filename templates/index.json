@@ -157,6 +157,7 @@
         ".image-with-text__media-item {border-bottom-left-radius: 0px !important; border-bottom-right-radius: 0px !important;}",
         ".image-with-text__text-item {border-top-left-radius: 0px !important; border-top-right-radius: 0px !important ;}",
         ".image-with-text .grid__item {border-radius: 10px;}",
+        ".grid--1-col .grid__item {max-width: 95%; width: 95%;}",
         ".image-with-text__grid {display: flex; justify-content: center; align-items: center; flex-direction: column;}"
       ],
       "settings": {
