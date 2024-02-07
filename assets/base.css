@@ -3598,6 +3598,8 @@ h2.inline-richtext {
 }
 .jdgm-gallery-title {
   font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
   text-align: center;
   color: #333;
 }
