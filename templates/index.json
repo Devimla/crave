@@ -122,6 +122,76 @@
         "padding_bottom": 0
       }
     },
+    "featured_product_EDDYLf": {
+      "type": "featured-product",
+      "blocks": {
+        "text_8GaN8j": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_xrhmGR": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_3G6Rf3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_rbU8Nd": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_CBACJT": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_LmKFR3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_Jz3EMR": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_8GaN8j",
+        "title_xrhmGR",
+        "price_3G6Rf3",
+        "variant_picker_rbU8Nd",
+        "quantity_selector_CBACJT",
+        "buy_buttons_LmKFR3",
+        "share_Jz3EMR"
+      ],
+      "settings": {
+        "product": "copia-de-colicwize-masaje-que-elimina-los-colicos-menstruales-en-menos-de-15-minutos-4567",
+        "color_scheme": "",
+        "secondary_background": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "17046572019621ab73": {
       "type": "apps",
       "blocks": {
@@ -150,6 +220,7 @@
     "image_banner_VYCPUp",
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
+    "featured_product_EDDYLf",
     "17046572019621ab73"
   ]
 }
