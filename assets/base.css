@@ -806,6 +806,7 @@ summary::-webkit-details-marker {
   justify-content: space-between;
   align-items: flex-end;
   gap: 1rem;
+  padding-left: 20px;
   margin-bottom: 3rem;
   flex-wrap: wrap;
 }
@@ -3041,7 +3042,6 @@ details-disclosure > details {
 }
 h2.inline-richtext {
   color: #1773b0; /* cor do texto, pode ser alterada */
-  padding-left: 20px;
   font-size: 22px; /* tamanho da fonte, pode ser alterado */
 }
 
