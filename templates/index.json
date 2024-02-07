@@ -99,7 +99,8 @@
         ".collection-list-title:after {display: none;}",
         ".slider-buttons {display: none;}",
         ".grid__item {background: transparent;}",
-        ".full-unstyled-link {text-align: center;}"
+        ".full-unstyled-link {text-align: center;}",
+        ".title-wrapper-with-link {margin-bottom: 0px;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
