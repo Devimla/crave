@@ -211,7 +211,8 @@
     "featured_collection_QPqzC4": {
       "type": "featured-collection",
       "custom_css": [
-        ".slider-buttons {display: none;}"
+        ".slider-buttons {display: none;}",
+        ".isolate {background: #fff;}"
       ],
       "settings": {
         "title": "Casa y Jardin",
