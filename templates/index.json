@@ -155,7 +155,8 @@
       ],
       "custom_css": [
         ".image-with-text__media-item {border-bottom-left-radius: 0px !important; border-bottom-right-radius: 0px !important;}",
-        ".image-with-text__text-item {border-top-left-radius: 0px; border-top-right-radius: 0px;}"
+        ".image-with-text__text-item {border-top-left-radius: 0px !important; border-top-right-radius: 0px !important ;}",
+        ".image-with-text .grid__item {border-radius: 10px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/S9b4b0c0fd28d4ec18b805b44765e5f7ag_a7a9915e-ed4b-4944-871c-d1d8c7de4eb5.webp",
