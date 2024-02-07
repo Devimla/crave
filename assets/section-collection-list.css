@@ -7,7 +7,8 @@
   margin: 0;
   font-size: 28px;
   font-weight: bold;
-  color: #1773b0 !important; 
+  color: #1773b0 !important;
+  position: relative; /* Adicione esta linha */
 }
 .collection-list-title::after {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
