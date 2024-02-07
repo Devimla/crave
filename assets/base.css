@@ -3899,8 +3899,7 @@ h2.inline-richtext {
   vertical-align: middle;
 }
 .section-template--16272637362343__featured_collection_awDJYD-padding h2.title.inline-richtext.h1::before {
-  content: '';
-  background: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/fashion-svgrepo-com.svg') no-repeat;
+  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/fashion-svgrepo-com.svg');
   display: inline-block;
   vertical-align: middle;
 }
