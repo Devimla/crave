@@ -100,13 +100,13 @@
         ".slider-buttons {display: none;}",
         ".grid__item {background: transparent;}",
         ".full-unstyled-link {text-align: center;}",
-        ".title-wrapper-with-link {margin-bottom: 5px;}",
+        ".title-wrapper-with-link {margin-bottom: 15px;}",
         ".card__inner {width: 80%;}",
         ".grid__item {padding: 0px;}",
         ".card__heading:last-child {margin-bottom: 0; font-size: 14px;}",
         ".card:not(.ratio) {align-items: center;}",
         ".card .card__inner .card__media {border-radius: 50%;}",
-        ".color-background-1 {background: #1773B0; padding-top: 5px;}",
+        ".color-background-1 {background: #1773b0; padding-top: 5px;}",
         ".color-background-2 {background: #fff;}"
       ],
       "settings": {
