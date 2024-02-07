@@ -3715,7 +3715,7 @@ h2.inline-richtext {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   border: 5px solid #fff !important;
-   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
   
 }
 .jdgm-row-media {
@@ -3728,6 +3728,9 @@ h2.inline-richtext {
 .jdgm-row-media .jdgm-row-search .jdgm-subtab .jdgm-row-actions .jdgm-quest .jdgm-rev .jdgm-paginate {
   border-top: 1px transparent rgba(51,153,153,0.1) !important;
   border-color: var(--jdgm-secondary-color) !important;
+}
+.jdgm-gallery__thumbnail-wrapper:before {
+    border: 1px solid #7b7b7b;
 }
 .balao {
   background-color: #fff159;
