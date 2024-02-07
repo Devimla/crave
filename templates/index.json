@@ -107,7 +107,7 @@
         ".card:not(.ratio) {align-items: center;}",
         ".card .card__inner .card__media {border-radius: 50%;}",
         ".color-background-1 {background: #1773b0; padding-top: 5px;}",
-        ".color-background-2 {background: #fff;}"
+        ".color-background-2 {background: transparent;}"
       ],
       "settings": {
         "title": "Lista de Recogida",
