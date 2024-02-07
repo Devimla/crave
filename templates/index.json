@@ -115,11 +115,58 @@
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "",
-        "show_view_all": false,
+        "show_view_all": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "image_with_text_FT73q9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QBggYe": {
+          "type": "heading",
+          "settings": {
+            "heading": "ColicWize",
+            "heading_size": "h1"
+          }
+        },
+        "text_37mb8P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UgzAUa": {
+          "type": "button",
+          "settings": {
+            "button_label": "COMPRAR",
+            "button_link": "shopify:\/\/products\/copia-de-colicwize-masaje-que-elimina-los-colicos-menstruales-en-menos-de-15-minutos-4567",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QBggYe",
+        "text_37mb8P",
+        "button_UgzAUa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/S9b4b0c0fd28d4ec18b805b44765e5f7ag_a7a9915e-ed4b-4944-871c-d1d8c7de4eb5.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "17046572019621ab73": {
@@ -150,6 +197,7 @@
     "image_banner_VYCPUp",
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
+    "image_with_text_FT73q9",
     "17046572019621ab73"
   ]
 }
