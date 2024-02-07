@@ -112,7 +112,7 @@
       "settings": {
         "title": "Lista de Recogida",
         "heading_size": "h0",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
