@@ -192,11 +192,19 @@
             "product": "multifunction-wireless-charger-pad-stand-speaker-tf-rgb-night-light-15w-fast-charging-station-for-iphone-samsung-xiaomi-huawei",
             "second_image": true
           }
+        },
+        "product_6DzLzp": {
+          "type": "product",
+          "settings": {
+            "product": "fone-bluetooth-earphones-sports-sleeping-headband-elastic-wireless-headphones-music-eye-mask-wireless-bluetooth-headset-headband",
+            "second_image": false
+          }
         }
       },
       "block_order": [
         "product_kwp3aJ",
-        "product_8j4aa4"
+        "product_8j4aa4",
+        "product_6DzLzp"
       ],
       "settings": {
         "heading": "Te recomendamos",
@@ -206,7 +214,7 @@
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
         "padding_top": 12,
-        "padding_bottom": 36
+        "padding_bottom": 12
       }
     },
     "featured_collection_awDJYD": {
