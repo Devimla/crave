@@ -217,6 +217,39 @@
         "padding_bottom": 12
       }
     },
+    "collage_q6qmXa": {
+      "type": "collage",
+      "blocks": {
+        "product_XJ8it7": {
+          "type": "product",
+          "settings": {
+            "product": "dancing-cactus-repeat-talking-toy-electronic-plush-toys-can-sing-record-lighten-usb-early-education-funny-gift-interactive-bled",
+            "second_image": false
+          }
+        },
+        "product_bPD6gg": {
+          "type": "product",
+          "settings": {
+            "product": "nti-wrinkle-eye-cream-wrinkle-removing-dark-circles-lightening-fine-lines-moisturizing-whitening-skin-care-eye-bag-stick-2023",
+            "second_image": true
+          }
+        }
+      },
+      "block_order": [
+        "product_XJ8it7",
+        "product_bPD6gg"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection_awDJYD": {
       "type": "featured-collection",
       "custom_css": [
@@ -311,6 +344,7 @@
     "37ddd023-944b-4229-bbaf-f92d7122596b",
     "image_with_text_FT73q9",
     "collage_q3fEFq",
+    "collage_q6qmXa",
     "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
     "17046572019621ab73"
