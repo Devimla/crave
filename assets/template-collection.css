@@ -10,7 +10,12 @@
     margin-bottom: 1.5rem;
   }
 }
-
+.botoom-cima {
+  display: inline-flex;
+}
+.botoom-baixo {
+  display: inline-flex;
+}
 .collection .loading-overlay {
   position: absolute;
   z-index: 1;
@@ -122,7 +127,4 @@
   width: 32px;
   height: 32px;
   margin-right: 15px;
-}
-.botoom-cima {
-  display: inline-flex;
 }
