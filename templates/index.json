@@ -262,6 +262,44 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "collage_AByt63": {
+      "type": "collage",
+      "blocks": {
+        "image_bKk3dV": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "product_pB4AMh": {
+          "type": "product",
+          "settings": {
+            "product": "ems-neck-massager-mini-cervical-back-muscle-pain-relief-patch-massageador-stimulator-mat-portable-leg-body-health-care-tool",
+            "second_image": true
+          }
+        },
+        "collection_gNKkzd": {
+          "type": "collection",
+          "settings": {
+            "collection": "salud-y-belleza"
+          }
+        }
+      },
+      "block_order": [
+        "image_bKk3dV",
+        "product_pB4AMh",
+        "collection_gNKkzd"
+      ],
+      "settings": {
+        "heading": "Te recomendamos",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
     }
   },
   "order": [
@@ -271,6 +309,7 @@
     "image_with_text_FT73q9",
     "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
-    "17046572019621ab73"
+    "17046572019621ab73",
+    "collage_AByt63"
   ]
 }
