@@ -208,7 +208,7 @@
       ],
       "settings": {
         "heading": "Te recomendamos",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "none",
