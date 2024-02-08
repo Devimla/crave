@@ -176,6 +176,80 @@
         "padding_bottom": 20
       }
     },
+    "collage_q3fEFq": {
+      "type": "collage",
+      "blocks": {
+        "product_kwp3aJ": {
+          "type": "product",
+          "settings": {
+            "product": "electric-ems-foot-massager-pad-relief-pain-relax-feet-acupoints-massage-mat-shock-muscle-stimulation-improve-blood-circulation",
+            "second_image": true
+          }
+        },
+        "product_8j4aa4": {
+          "type": "product",
+          "settings": {
+            "product": "multifunction-wireless-charger-pad-stand-speaker-tf-rgb-night-light-15w-fast-charging-station-for-iphone-samsung-xiaomi-huawei",
+            "second_image": true
+          }
+        },
+        "product_6DzLzp": {
+          "type": "product",
+          "settings": {
+            "product": "fone-bluetooth-earphones-sports-sleeping-headband-elastic-wireless-headphones-music-eye-mask-wireless-bluetooth-headset-headband",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "product_kwp3aJ",
+        "product_8j4aa4",
+        "product_6DzLzp"
+      ],
+      "settings": {
+        "heading": "Te recomendamos",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "collage_q6qmXa": {
+      "type": "collage",
+      "blocks": {
+        "product_XJ8it7": {
+          "type": "product",
+          "settings": {
+            "product": "dancing-cactus-repeat-talking-toy-electronic-plush-toys-can-sing-record-lighten-usb-early-education-funny-gift-interactive-bled",
+            "second_image": false
+          }
+        },
+        "product_bPD6gg": {
+          "type": "product",
+          "settings": {
+            "product": "nti-wrinkle-eye-cream-wrinkle-removing-dark-circles-lightening-fine-lines-moisturizing-whitening-skin-care-eye-bag-stick-2023",
+            "second_image": true
+          }
+        }
+      },
+      "block_order": [
+        "product_XJ8it7",
+        "product_bPD6gg"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection_awDJYD": {
       "type": "featured-collection",
       "custom_css": [
@@ -269,6 +343,8 @@
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
     "image_with_text_FT73q9",
+    "collage_q3fEFq",
+    "collage_q6qmXa",
     "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
     "17046572019621ab73"
