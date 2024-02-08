@@ -263,34 +263,37 @@
         "include_margins": true
       }
     },
-    "collage_AByt63": {
+    "collage_q3fEFq": {
       "type": "collage",
       "blocks": {
-        "image_bKk3dV": {
-          "type": "image",
+        "product_kwp3aJ": {
+          "type": "product",
           "settings": {
+            "product": "electric-ems-foot-massager-pad-relief-pain-relax-feet-acupoints-massage-mat-shock-muscle-stimulation-improve-blood-circulation",
+            "second_image": true
           }
         },
-        "collection_gNKkzd": {
-          "type": "collection",
+        "product_8j4aa4": {
+          "type": "product",
           "settings": {
-            "collection": "salud-y-belleza"
+            "product": "multifunction-wireless-charger-pad-stand-speaker-tf-rgb-night-light-15w-fast-charging-station-for-iphone-samsung-xiaomi-huawei",
+            "second_image": true
           }
         }
       },
       "block_order": [
-        "image_bKk3dV",
-        "collection_gNKkzd"
+        "product_kwp3aJ",
+        "product_8j4aa4"
       ],
       "settings": {
-        "heading": "Te recomendamos",
+        "heading": "Multimedia collage",
         "heading_size": "h1",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -302,6 +305,6 @@
     "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
     "17046572019621ab73",
-    "collage_AByt63"
+    "collage_q3fEFq"
   ]
 }
