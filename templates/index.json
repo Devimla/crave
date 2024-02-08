@@ -255,7 +255,8 @@
       "type": "featured-collection",
       "custom_css": [
         ".slider-buttons {display: none;}",
-        ".isolate {background: #fff;}"
+        ".isolate {background: #fff;}",
+        ".botoom-baixo {display: none;}"
       ],
       "settings": {
         "title": "Ropa y accesorios",
