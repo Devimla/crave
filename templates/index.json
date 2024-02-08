@@ -20,7 +20,7 @@
       "type": "featured-collection",
       "custom_css": [
         ".isolate {background: #fff; padding-bottom: 10px; padding-top: 10px;}",
-        ".botom-cima {display: none;}"
+        ".botoom-cima {display: none;}"
       ],
       "settings": {
         "title": "<strong>Venta Caliente<\/strong>",
