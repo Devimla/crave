@@ -3893,31 +3893,6 @@ h2.inline-richtext {
   margin-right: 15px;
   vertical-align: middle;
 }
-.section-template--16272637362343__featured_collection_QPqzC4-padding h2.title.inline-richtext.h1 {
-  display: inline-flex;
-  align-items: center; /* Alinha verticalmente o conteúdo */
-}
-
-.section-template--16272637362343__featured_collection_QPqzC4-padding h2.title.inline-richtext.h1::before {
-  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/casa.svg');
-  display: inline-block;
-  vertical-align: middle;
-  width: 26px;
-  height: 26px;
-  margin-right: 15px;
-}
-
-.section-template--16272637362343__featured_collection_awDJYD-padding h2.title.inline-richtext.h1 {
-  display: inline-flex;
-  align-items: center; /* Alinha verticalmente o conteúdo */
-}
-
-.section-template--16272637362343__featured_collection_awDJYD-padding h2.title.inline-richtext.h1::before {
-  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/shoes-weight-loss-svgrepo-com.svg');
-  width: 32px;
-  height: 32px;
-  margin-right: 15px;
-}
 
 
 
