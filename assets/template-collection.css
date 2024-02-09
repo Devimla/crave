@@ -130,3 +130,6 @@
   height: 32px;
   margin-right: 15px;
 }
+.shopify-section-template--16272637362343__featured_collection .section+.section {
+  margin-top: 0 !important; 
+}
