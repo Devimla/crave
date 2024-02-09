@@ -10,7 +10,7 @@
   color: #fff159 !important;
   position: relative;
 }
-
+/*
 .collection-list-title::before {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
@@ -23,6 +23,7 @@
   left: -15px; /* Alinha a bolinha à esquerda do texto */
   transform: translateY(-50%); /* Ajusta a posição verticalmente */
 }
+*/
 
 
 
