@@ -84,3 +84,6 @@ h2.title {
 .collection-list-view-all {
   margin-top: 2rem;
 }
+.shopify-section-template--16272637362343__featured_collection {
+  margin-top: 0 !important; 
+}
