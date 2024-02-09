@@ -105,7 +105,7 @@ h2.title {
 }
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .grid__item {
   padding: 0px;
-  width: calc(47% - var(--grid-mobile-horizontal-spacing) - 5rem);
+  width: calc(40% - var(--grid-mobile-horizontal-spacing) - 5rem);
 }
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .card__heading:last-child {
   margin-bottom: 0;
