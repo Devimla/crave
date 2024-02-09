@@ -289,7 +289,8 @@
       "type": "featured-collection",
       "custom_css": [
         ".slider-buttons {display: none;}",
-        ".isolate {background: #fff;}"
+        ".isolate {background: #fff;}",
+        ".jdgm-prev-badge__text {display: none;}"
       ],
       "settings": {
         "title": "Casa y Jardin",
