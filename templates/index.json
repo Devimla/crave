@@ -265,7 +265,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "todos-los-productos",
+        "collection": "ropas-y-accesorios",
         "products_to_show": 6,
         "columns_desktop": 5,
         "full_width": false,
