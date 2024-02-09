@@ -290,6 +290,7 @@
       "custom_css": [
         ".slider-buttons {display: none;}",
         ".isolate {background: #fff;}",
+        ".botoom-baixo {display: none;}",
         ".jdgm-prev-badge__text {display: none;}"
       ],
       "settings": {
