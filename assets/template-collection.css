@@ -74,6 +74,8 @@
 
 .collection__title.title-wrapper {
   margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .collection__title .title:not(:only-child) {
