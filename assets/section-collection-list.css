@@ -128,7 +128,3 @@ h2.title {
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .color-background-2 {
   background: transparent;
 }
-/* Anula o estilo que adiciona margem entre seções */
-#shopify-section-template--16272637362343__collage_q3fEFq + .section {
-  margin-top: 0 !important;
-}
