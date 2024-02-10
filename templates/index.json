@@ -196,7 +196,8 @@
         "product_6DzLzp"
       ],
       "custom_css": [
-        ".collage {background: #fff; padding: 10px; border-radius: 10px;}"
+        ".collage {background: #fff; padding: 10px; border-radius: 10px;}",
+        ".collage-wrapper-title {margin-top: 0; margin-bottom: 10px; color: #1773B0;}"
       ],
       "settings": {
         "heading": "Te recomendamos",
