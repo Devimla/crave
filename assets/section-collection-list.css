@@ -81,7 +81,12 @@ h2.title {
     max-width: 100%;
   }
 }
-
+.mix {
+  text-align: center;
+  text-decoration: none;
+  color: #1773B0;
+  display: block;
+}
 .collection-list-view-all {
   margin-top: 2rem;
 }
@@ -118,7 +123,6 @@ h2.title {
   border-radius: 10%;
 }
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .color-background-1 {
-  background: ;
   padding-top: 10px;
 }
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .color-background-2 {
