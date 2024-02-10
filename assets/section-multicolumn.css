@@ -216,8 +216,5 @@
     display: list-item;
   }
 }
-/* Anula o estilo que adiciona margem entre seções */
-#shopify-section-template--16272637362343__collage_q3fEFq + .section {
-  margin-top: 0 !important;
-}
+
 
