@@ -195,6 +195,9 @@
         "product_8j4aa4",
         "product_6DzLzp"
       ],
+      "custom_css": [
+        ".collage--mobile {background: #FFF; padding: 10px;}"
+      ],
       "settings": {
         "heading": "Te recomendamos",
         "heading_size": "h2",
