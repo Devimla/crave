@@ -21,8 +21,6 @@
 
 .pagination__list > li:not(:last-child) {
   margin-right: 1rem;
-  background-color: #fff;
-  border-radius: 5px;
 }
 
 .pagination__item {
@@ -32,7 +30,9 @@
   align-items: center;
   position: relative;
   height: 4.4rem;
+  background-color: #fff;
   width: 100%;
+  border-radius: 5px;
   padding: 0;
   text-decoration: none;
 }
