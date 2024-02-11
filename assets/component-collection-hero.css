@@ -40,6 +40,7 @@
 .collection-hero__title {
   margin-top: 1.0rem 0;
   position: relative;
+  font-weight: bold;
   display: inline-block; /* Adiciona um bloco em linha */
 }
 .collection-hero__title::before {
