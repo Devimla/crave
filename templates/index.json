@@ -231,7 +231,7 @@
           "type": "product",
           "settings": {
             "product": "explora-la-libertad-de-la-limpieza-aspiradora-inalambrica-con-luz-uv-bateria-incorporada-poderosa-succion-de-10kpa-para-limpiar-almohadas-ropa-sofas-y-alfombras-manten-tu-espacio-impecable",
-            "second_image": false
+            "second_image": true
           }
         }
       },
