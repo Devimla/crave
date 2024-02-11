@@ -226,11 +226,19 @@
             "product": "nti-wrinkle-eye-cream-wrinkle-removing-dark-circles-lightening-fine-lines-moisturizing-whitening-skin-care-eye-bag-stick-2023",
             "second_image": true
           }
+        },
+        "product_cFg7jk": {
+          "type": "product",
+          "settings": {
+            "product": "explora-la-libertad-de-la-limpieza-aspiradora-inalambrica-con-luz-uv-bateria-incorporada-poderosa-succion-de-10kpa-para-limpiar-almohadas-ropa-sofas-y-alfombras-manten-tu-espacio-impecable",
+            "second_image": false
+          }
         }
       },
       "block_order": [
         "product_XJ8it7",
-        "product_bPD6gg"
+        "product_bPD6gg",
+        "product_cFg7jk"
       ],
       "custom_css": [
         ".collage {background: #fff; padding: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;}",
