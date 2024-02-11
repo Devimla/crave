@@ -20,7 +20,7 @@
 }
 
 .pagination__list > li:not(:last-child) {
-  margin-right: 10px;
+  margin-right: 5px;
 }
 
 .pagination__item {
