@@ -49,7 +49,7 @@
   border-radius: 50%; /* Transforma o elemento em um círculo */
   background-color: currentColor; /* Cor do círculo */
   margin-right: 5px; /* Espaçamento entre o círculo e o texto */
-  position: absolute; /* Posicionamento absoluto em relação ao texto */
+  position: relative; /* Posicionamento absoluto em relação ao texto */
   top: 50%; /* Alinha o círculo verticalmente ao meio do texto */
   vertical-align: middle; /* Alinha verticalmente com o texto */
   transform: translateY(-50%); /* Ajusta o posicionamento vertical */
