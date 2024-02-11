@@ -21,6 +21,7 @@
 
 .collection-hero__text-wrapper {
   flex-basis: 100%;
+  text-align: center;
   padding-left: 10px;
 }
 
