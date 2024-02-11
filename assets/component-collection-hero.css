@@ -38,7 +38,19 @@
 .collection-hero__title {
   margin-top: 1.0rem 0;
 }
-
+.collection-hero__title::before {
+  content: ""; /* Adiciona o conteúdo do pseudo-elemento */
+  display: inline-block; /* Permite que o elemento tenha dimensões */
+  width: 10px; /* Largura do círculo */
+  height: 10px; /* Altura do círculo */
+  border-radius: 50%; /* Transforma o elemento em um círculo */
+  background-color: black; /* Cor do círculo */
+  margin-right: 5px; /* Espaçamento entre o círculo e o texto */
+  position: absolute; /* Posicionamento absoluto em relação ao texto */
+  top: 50%; /* Alinha o círculo verticalmente ao meio do texto */
+  transform: translateY(-50%); /* Ajusta o posicionamento vertical */
+  left: -15px; /* Posicionamento horizontal ao lado esquerdo do texto */
+}
 .collection-hero__title + .collection-hero__description {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
