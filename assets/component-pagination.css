@@ -24,13 +24,15 @@
 }
 
 .pagination__item {
-  color: rgb(var(--color-foreground));
+  color: #1773B0;
   display: inline-flex;
   justify-content: center;
   align-items: center;
   position: relative;
   height: 4.4rem;
+  background-color: #fff;
   width: 100%;
+  border-radius: 5px;
   padding: 0;
   text-decoration: none;
 }
