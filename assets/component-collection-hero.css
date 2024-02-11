@@ -54,7 +54,6 @@
   top: 50%; /* Alinha o círculo verticalmente ao meio do texto */
   vertical-align: middle; /* Alinha verticalmente com o texto */
   transform: translateY(-50%); /* Ajusta o posicionamento vertical */
-  left: -15px; /* Posicionamento horizontal ao lado esquerdo do texto */
 }
 
 .collection-hero__title + .collection-hero__description {
