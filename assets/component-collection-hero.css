@@ -43,17 +43,18 @@
   display: inline-block; /* Adiciona um bloco em linha */
 }
 .collection-hero__title::before {
-  content: ""; /* Adiciona o conteúdo do pseudo-elemento */
-  display: inline-block; /* Permite que o elemento tenha dimensões */
-  width: 10px; /* Largura do círculo */
-  height: 10px; /* Altura do círculo */
-  border-radius: 50%; /* Transforma o elemento em um círculo */
-  background-color: currentColor; /* Cor do círculo */
-  margin-right: 5px; /* Espaçamento entre o círculo e o texto */
-  position: relative; /* Posicionamento absoluto em relação ao texto */
-  top: 50%; /* Alinha o círculo verticalmente ao meio do texto */
-  vertical-align: middle; /* Alinha verticalmente com o texto */
-  transform: translateY(-50%); /* Ajusta o posicionamento vertical */
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+  margin-right: 5px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  vertical-align: middle;
+  left: -7px; /* Ajusta a posição horizontal para centralizar */
 }
 
 .collection-hero__title + .collection-hero__description {
