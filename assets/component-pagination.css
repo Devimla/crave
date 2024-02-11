@@ -85,5 +85,5 @@ a.pagination__item:hover::after {
 }
 .pagination__item--current {
   font-weight: bold;
-  border: 5px solid red !important;
+  border: 5px solid #fff !important;
 }
