@@ -31,7 +31,7 @@
   position: relative;
   height: 4.4rem;
   background-color: #fff;
-  width: 100%;
+  width: auto !important;
   border-radius: 5px;
   padding: 0;
   text-decoration: none;
