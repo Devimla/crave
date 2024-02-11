@@ -86,6 +86,7 @@
 
 .collection-hero--with-image .collection-hero__text-wrapper {
   padding: 5rem 0 4rem;
+  text-align: center;
 }
 
 .collection-hero__image-container {
