@@ -37,6 +37,7 @@
 
 .collection-hero__title {
   margin-top: 1.0rem 0;
+  position: relative;
 }
 .collection-hero__title::before {
   content: ""; /* Adiciona o conteúdo do pseudo-elemento */
@@ -51,6 +52,7 @@
   transform: translateY(-50%); /* Ajusta o posicionamento vertical */
   left: -15px; /* Posicionamento horizontal ao lado esquerdo do texto */
 }
+
 .collection-hero__title + .collection-hero__description {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
