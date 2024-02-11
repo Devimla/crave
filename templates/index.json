@@ -96,7 +96,8 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
-        ".card__information {padding: 0;}"
+        ".card__information {padding: 0;}",
+        ".grid__item {border-radius: 5px; box-shadow: none;}"
       ],
       "settings": {
         "title": "Colecciones",
