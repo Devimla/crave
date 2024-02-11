@@ -418,7 +418,7 @@
 /* Aplica apenas a dispositivos com uma largura de tela de 750px ou mais */
 @media (min-width: 750px) {
   #shopify-section-template--16272637362343__image_with_text_FT73q9 .grid--1-col .grid__item {
-    max-width: 70%;
-    width: 70%;
+    max-width: 50% !important;
+    width: 50% !important;
   }
 }
