@@ -209,3 +209,8 @@
     max-width: 50% !important;
 }
 }
+@media screen and (min-width: 750px) {
+.section-template--16272637362343__collage_q6qmXa-padding {
+    max-width: 50% !important;
+}
+}
