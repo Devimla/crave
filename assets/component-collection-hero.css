@@ -44,7 +44,7 @@
   width: 10px; /* Largura do círculo */
   height: 10px; /* Altura do círculo */
   border-radius: 50%; /* Transforma o elemento em um círculo */
-  background-color: black; /* Cor do círculo */
+  background-color: currentColor; /* Cor do círculo */
   margin-right: 5px; /* Espaçamento entre o círculo e o texto */
   position: absolute; /* Posicionamento absoluto em relação ao texto */
   top: 50%; /* Alinha o círculo verticalmente ao meio do texto */
