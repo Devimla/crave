@@ -58,7 +58,7 @@ a.pagination__item:hover::after {
   bottom: 8px;
   left: 50%;
   font-weight: bold;
-  transform: translateX(+50%);
+  transform: translateX(50%);
   background-color: currentColor;
 }
 
@@ -85,4 +85,5 @@ a.pagination__item:hover::after {
 }
 .pagination__item--current {
   font-weight: bold;
+  border: 5px solid #FFF;
 }
