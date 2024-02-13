@@ -34,6 +34,7 @@
 .mega-menu[open] .mega-menu__content {
   opacity: 1;
   transform: translateY(0);
+  border: solid .1rem rgba(var(--color-foreground),.08);
   background: #fff !important;
 }
 
