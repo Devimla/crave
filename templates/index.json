@@ -46,7 +46,8 @@
       ],
       "custom_css": [
         ".gradient {background: transparent;}",
-        ".button {background: #1773b0; opacity: 0.6; border: 1px solid #fff;}"
+        ".button {background: #1773b0; opacity: 0.6; border: 1px solid #fff;}",
+        ".slider-buttons {height: 25px; background: #FFF;}"
       ],
       "settings": {
         "layout": "full_bleed",
