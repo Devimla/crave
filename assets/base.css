@@ -166,14 +166,6 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   z-index: 0;
 
 }
-#shopify-section-template--16272637362343__featured_collection .isolate {
-  background: #fff;
-  padding-bottom: 10px;
-  padding-top: 10px;
-}
-#shopify-section-template--16272637362343__featured_collection .botoom-cima {
-  display: none;
-}
 
 .section + .section {
   margin-top: var(--spacing-sections-mobile);

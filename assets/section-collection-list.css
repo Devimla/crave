@@ -128,3 +128,11 @@ h2.title {
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .color-background-2 {
   background: transparent;
 }
+#shopify-section-template--16272637362343__featured_collection .isolate {
+  background: #fff;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#shopify-section-template--16272637362343__featured_collection .botoom-cima {
+  display: none;
+}
