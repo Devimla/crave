@@ -3743,13 +3743,12 @@ h2.inline-richtext {
   padding: 5px;
   border-radius: 5px;
   position: relative;
-  white-space: nowrap;
-  overflow: hidden;
-  font-size: 0.9em; /* Ajuste o tamanho do texto relativo ao balão */
-  line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
-  display: inline-block;
   text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Alinha o texto horizontalmente */
 }
+
 .balao p {
   margin: 0px;
 }
@@ -3759,13 +3758,11 @@ h2.inline-richtext {
   padding: 5px;
   border-radius: 5px;
   position: relative;
-  white-space: nowrap;
-  width: 100%;
-  overflow: hidden;
-  font-size: 0.4em; /* Ajuste o tamanho do texto relativo ao balão */
-  line-height: 1.4em; /* Ajuste a altura da linha conforme necessário */
-  display: inline-block;
   text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Alinha o texto horizontalmente */
+  width: 100%;
 }
 @media only screen and (min-width: 768px) {
   .cupom {
