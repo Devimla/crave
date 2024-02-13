@@ -10,7 +10,7 @@
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Botoon",
+            "button_label": "Ver colección",
             "link": "shopify:\/\/products\/car-vacuum-cleaner-95000pa-strong-suction-handheld-wireless-vacuum-cleaner-blower-2-in-1-portable-vacuum-cleaner-for-car-home",
             "button_style_secondary": true,
             "box_align": "middle-center",
@@ -47,7 +47,7 @@
       "custom_css": [
         ".gradient {background: transparent;}",
         ".button {background: #1773b0; opacity: 0.6; border: 1px solid #fff;}",
-        ".slider-buttons {height: 25px; background: #FFF;}"
+        ".slider-buttons {height: 25px; background: #fff;}"
       ],
       "settings": {
         "layout": "full_bleed",
