@@ -346,6 +346,61 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "slideshow_PpCBre": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_d8cEtr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Moda_Infantil_Conoce_nuestra_coleccion_para_Ninos.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Ver colección",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_RzzF9a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20240213_125739_0000.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_d8cEtr",
+        "slide_RzzF9a"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -357,6 +412,7 @@
     "collage_q6qmXa",
     "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
-    "17046572019621ab73"
+    "17046572019621ab73",
+    "slideshow_PpCBre"
   ]
 }
