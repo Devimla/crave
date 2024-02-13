@@ -3746,7 +3746,7 @@ h2.inline-richtext {
   text-transform: uppercase;
   display: flex;
   align-items: center;
-  justify-content: center; /* Alinha o texto horizontalmente */
+
 }
 
 .balao p {
