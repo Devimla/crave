@@ -396,7 +396,7 @@
         ".button {background: #1773b0; opacity: 1; border: 1px solid #fff;}"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "counter",
         "auto_rotate": true,
