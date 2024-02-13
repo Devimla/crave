@@ -3743,6 +3743,7 @@ h2.inline-richtext {
   padding: 5px;
   border-radius: 5px;
   position: relative;
+  font-size: 18px;
   text-transform: uppercase;
   display: flex;
   align-items: center;
@@ -3758,6 +3759,7 @@ h2.inline-richtext {
   padding: 5px;
   border-radius: 5px;
   position: relative;
+  font-size: 18px;
   text-transform: uppercase;
   display: flex;
   align-items: center;
