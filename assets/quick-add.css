@@ -35,7 +35,7 @@
 }
 .global-settings-popup, .header__submenu.global-settings-popup {
   border-radius: 10px;
-  border: solid .1rem rgba(var(--color-foreground),.08);
+  border: 1px solid #ebebeb;
   box-shadow: none;
   z-index: -1;
 }
