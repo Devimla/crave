@@ -3758,7 +3758,7 @@ h2.inline-richtext {
   background-color: #333333;
   color: #fff;
   padding: 5px;
-  border-radius: 5px;
+  border-radius: 10px;
   position: relative;
   font-size: 12px;
   text-transform: uppercase;
