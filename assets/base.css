@@ -3738,9 +3738,7 @@ h2.inline-richtext {
     text-align: center;
 }
 .balao {
-  background-color: #1773B0;
-  opacity: 0.8;
-  color: #FFFFFF;
+  color: #333;
   padding: 5px;
   border-radius: 5px;
   position: relative;
