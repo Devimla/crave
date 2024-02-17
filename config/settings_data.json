@@ -2,7 +2,7 @@
   "current": {
     "logo": "{{ shop.brand.logo }}",
     "logo_width": 240,
-    "favicon": "shopify:\/\/shop_images\/icon_branco.png",
+    "favicon": "shopify:\/\/shop_images\/icon_transparent.png",
     "type_header_font": "sans-serif",
     "heading_scale": 120,
     "type_body_font": "archivo_n4",
