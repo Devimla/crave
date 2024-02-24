@@ -50,9 +50,10 @@
         ".slider-buttons {height: 25px; background: #1773b0; color: #fff !important;}",
         ".slider-button {color: #fff !important;}",
         ".slider-counter__link--active.slider-counter__link--dots .dot {background-color: #fff;}",
-        ".slider-counter__link--dots .dot {border: 0.1rem solid #FFF;}",
+        ".slider-counter__link--dots .dot {border: 0.1rem solid #fff;}",
         ".slideshow__autoplay path {fill: #fff;}",
-        ".slideshow__autoplay:hover path {fill: #fff;}"
+        ".slideshow__autoplay:hover path {fill: #fff;}",
+        ".slideshow__controls {border: transparent;}"
       ],
       "settings": {
         "layout": "full_bleed",
