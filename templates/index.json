@@ -50,7 +50,8 @@
         ".slider-buttons {height: 25px; background: #1773b0; color: #fff !important;}",
         ".slider-button {color: #fff !important;}",
         ".slider-counter__link--active.slider-counter__link--dots .dot {background-color: #fff;}",
-        ".slider-counter__link--dots .dot {border: 0.1rem solid #FFF;}"
+        ".slideshow__autoplay path {fill: #FFF;}",
+        ".slideshow__autoplay:hover path {fill: #FFF;}"
       ],
       "settings": {
         "layout": "full_bleed",
