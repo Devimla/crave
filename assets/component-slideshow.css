@@ -143,6 +143,7 @@ slideshow-component:not(.page-width) .slider-buttons {
 .slideshow__autoplay {
   position: absolute;
   right: 0;
+  color: #FFF !important;
   border-left: none;
   display: flex;
   justify-content: center;
