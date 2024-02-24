@@ -348,7 +348,7 @@ a.product__text {
 .product__title > * {
   margin: 0;
   font-weight: bold;
-    font-size: calc(var(--font-heading-scale) * 3rem);
+    font-size: calc(var(--font-heading-scale) * 2rem);
   color: #000;
 }
 
