@@ -63,7 +63,8 @@
       ],
       "custom_css": [
         ".footer-block.footer-block--menu {box-shadow: none;}",
-        ".footer {color: #fff; background-color: #1773b0;}"
+        ".footer {color: #fff; background-color: #1773b0;}",
+        ".footer-block__heading.inline-richtext strong {color: #FFF;}"
       ],
       "settings": {
         "color_scheme": "accent-2",
