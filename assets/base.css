@@ -3855,9 +3855,7 @@ h2.inline-richtext {
   background: #FFF !important;
   border-radius: 10px;
 }
-.footer-block__heading.inline-richtext strong {
-  color: #fff159; /* ou qualquer outra cor desejada */
-}
+
 .tm_track_copy_right {
   display: none !important;
 }
