@@ -10,13 +10,13 @@
             "text_style": "uppercase"
           }
         },
-        "2bc4116f-43c6-4760-b8b8-824c23fce413": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "title": {
+          "type": "title",
           "settings": {
           }
         },
-        "title": {
-          "type": "title",
+        "2bc4116f-43c6-4760-b8b8-824c23fce413": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
@@ -41,11 +41,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "fast_bundle_all_bundles_ktaHw3": {
-          "type": "shopify:\/\/apps\/fast-bundle\/blocks\/all_bundles\/9e87fbe2-9041-4c23-acf5-322413994cef",
-          "settings": {
           }
         },
         "essential_trust_badges_app_block_PXKGHL": {
@@ -83,13 +78,12 @@
       },
       "block_order": [
         "vendor",
-        "2bc4116f-43c6-4760-b8b8-824c23fce413",
         "title",
+        "2bc4116f-43c6-4760-b8b8-824c23fce413",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "fast_bundle_all_bundles_ktaHw3",
         "essential_trust_badges_app_block_PXKGHL",
         "essential_trust_badges_app_block_Xfbwmp",
         "description",
