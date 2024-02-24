@@ -348,7 +348,6 @@ a.product__text {
 .product__title > * {
   margin: 0;
   font-weight: bold;
-  font-size: 22px;
 }
 
 .product__title > a {
