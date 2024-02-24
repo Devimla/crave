@@ -48,8 +48,7 @@
         ".gradient {background: transparent;}",
         ".button {background: #1773b0; opacity: 0.6; border: 1px solid #fff;}",
         ".slider-buttons {height: 25px; background: #1773b0; color: #fff !important;}",
-        ".slider-button {color: #fff !important;}",
-        ".slider-counter__link--active.slider-counter__link--dots .dot {background-color: #FFF;}"
+        ".slider-button {color: #fff !important;}"
       ],
       "settings": {
         "layout": "full_bleed",
