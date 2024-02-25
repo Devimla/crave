@@ -1308,7 +1308,12 @@ button.shopify-payment-button__button--unbranded {
   font-weight: bold;
   text-transform: uppercase;
 }
-
+@media (max-width: 360px) and (max-height: 640px) {
+  .icon-block-container-adacfc5e-efdd-4234-be60-582808b311c8 {
+      grid-template-columns: repeat(auto-fit, minmax(36px, 56px));
+      column-gap: 4px !important;
+  }
+}
 
 .button:not([disabled]):hover::after,
 .shopify-challenge__button:hover::after,
