@@ -262,6 +262,12 @@
             "heading_size": "h1"
           }
         },
+        "judge_me_reviews_preview_badge_homepage_mz7EPd": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge_homepage\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "copia-de-colicwize-masaje-que-elimina-los-colicos-menstruales-en-menos-de-15-minutos-4567"
+          }
+        },
         "price_mmmNzx": {
           "type": "price",
           "settings": {
@@ -295,6 +301,7 @@
       "block_order": [
         "text_AmTYGd",
         "title_4FW8px",
+        "judge_me_reviews_preview_badge_homepage_mz7EPd",
         "price_mmmNzx",
         "variant_picker_akd7Pd",
         "quantity_selector_GBXHKT",
