@@ -2982,7 +2982,7 @@ details-disclosure > details {
 }
 
 .badge {
-  border-radius: 5px;
+  border-radius: 20px;
   display: inline-block;
   font-size: 1.4rem;
   letter-spacing: 0.1rem;
