@@ -178,58 +178,142 @@
         "show_text_below": true
       }
     },
-    "image_with_text_FT73q9": {
-      "type": "image-with-text",
+    "featured_collection_awDJYD": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".slider-buttons {display: none;}",
+        ".isolate {background: #fff;}",
+        ".botoom-baixo {display: none;}",
+        ".jdgm-prev-badge__text {display: none;}"
+      ],
+      "settings": {
+        "title": "Ropa y accesorios",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ropas-y-accesorios",
+        "products_to_show": 15,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 4,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_QPqzC4": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".slider-buttons {display: none;}",
+        ".isolate {background: #fff;}",
+        ".botoom-baixo {display: none;}",
+        ".jdgm-prev-badge__text {display: none;}"
+      ],
+      "settings": {
+        "title": "Casa y Jardin",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "casa-y-jardin",
+        "products_to_show": 15,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 4,
+        "padding_bottom": 0
+      }
+    },
+    "featured_product_Veix9q": {
+      "type": "featured-product",
       "blocks": {
-        "heading_QBggYe": {
-          "type": "heading",
+        "text_AmTYGd": {
+          "type": "text",
           "settings": {
-            "heading": "ColicWize",
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_4FW8px": {
+          "type": "title",
+          "settings": {
             "heading_size": "h1"
           }
         },
-        "text_37mb8P": {
-          "type": "text",
+        "price_mmmNzx": {
+          "type": "price",
           "settings": {
-            "text": "<p>Disfruta de un Alivio Natural para Combatir los Cólicos. Descubre la diferencia con ColicWize, el masajeador portátil que ofrece una alternativa suave y natural a los medicamentos. Su tecnología innovadora brinda alivio instantáneo, evitando los posibles efectos adversos del uso excesivo de medicamentos.<\/p>",
-            "text_style": "body"
           }
         },
-        "button_UgzAUa": {
-          "type": "button",
+        "variant_picker_akd7Pd": {
+          "type": "variant_picker",
           "settings": {
-            "button_label": "VER MÁS",
-            "button_link": "shopify:\/\/products\/copia-de-colicwize-masaje-que-elimina-los-colicos-menstruales-en-menos-de-15-minutos-4567",
-            "button_style_secondary": false
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_GBXHKT": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_kfpfx4": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_TweCJL": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "heading_QBggYe",
-        "text_37mb8P",
-        "button_UgzAUa"
-      ],
-      "custom_css": [
-        ".image-with-text__media-item {border-bottom-left-radius: 0px !important; border-bottom-right-radius: 0px !important;}",
-        ".image-with-text__text-item {border-top-left-radius: 0px !important; border-top-right-radius: 0px !important ;}",
-        ".image-with-text .grid__item {border-radius: 10px;}",
-        ".grid--1-col .grid__item {max-width: 95%; width: 95%;}",
-        ".image-with-text__grid {display: flex; justify-content: center; align-items: center; flex-direction: column;}"
+        "text_AmTYGd",
+        "title_4FW8px",
+        "price_mmmNzx",
+        "variant_picker_akd7Pd",
+        "quantity_selector_GBXHKT",
+        "buy_buttons_kfpfx4",
+        "share_TweCJL"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/S9b4b0c0fd28d4ec18b805b44765e5f7ag_a7a9915e-ed4b-4944-871c-d1d8c7de4eb5.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "product": "copia-de-colicwize-masaje-que-elimina-los-colicos-menstruales-en-menos-de-15-minutos-4567",
         "color_scheme": "",
-        "image_behavior": "zoom-in",
-        "mobile_content_alignment": "left",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "collage_q3fEFq": {
@@ -322,74 +406,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_awDJYD": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".slider-buttons {display: none;}",
-        ".isolate {background: #fff;}",
-        ".botoom-baixo {display: none;}",
-        ".jdgm-prev-badge__text {display: none;}"
-      ],
-      "settings": {
-        "title": "Ropa y accesorios",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "ropas-y-accesorios",
-        "products_to_show": 15,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 4,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_QPqzC4": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".slider-buttons {display: none;}",
-        ".isolate {background: #fff;}",
-        ".botoom-baixo {display: none;}",
-        ".jdgm-prev-badge__text {display: none;}"
-      ],
-      "settings": {
-        "title": "Casa y Jardin",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "casa-y-jardin",
-        "products_to_show": 15,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 4,
-        "padding_bottom": 0
-      }
-    },
     "17046572019621ab73": {
       "type": "apps",
       "blocks": {
@@ -419,11 +435,11 @@
     "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
     "image_banner_VYCPUp",
-    "image_with_text_FT73q9",
-    "collage_q3fEFq",
-    "collage_q6qmXa",
     "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
+    "featured_product_Veix9q",
+    "collage_q3fEFq",
+    "collage_q6qmXa",
     "17046572019621ab73"
   ]
 }
