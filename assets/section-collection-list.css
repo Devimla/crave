@@ -137,14 +137,14 @@ h2.title {
 #shopify-section-template--16272637362343__featured_collection .botoom-cima {
   display: none;
 }
-<style data-shopify="">.section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-padding {
+#section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-padding {
   padding-top: 0px;
   padding-bottom: 0px;
 }
 
-@media screen and (min-width: 990px) .grid--5-col-desktop .grid__item {
-  .section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-padding {
+@media screen and (min-width: 990px) {
+  .grid--5-col-desktop .grid__item .section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-padding {
       width: calc(20% - var(--grid-desktop-horizontal-spacing) * 4 / 5);
-      max-width: calc(20% - var(--grid-desktop-horizontal-spacing) * 6 / 1);
+      max-width: calc(20% - var(--grid-desktop-horizontal-spacing) * 5 / 1);
     }
-}
+  }
