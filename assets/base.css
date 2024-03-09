@@ -3,6 +3,8 @@
   --alpha-button-border: 1;
   --alpha-link: 0.85;
   --alpha-badge-border: 0.1;
+  --cor-primaria: #1773B0; /* Defina sua cor primária aqui */
+  --cor-secundaria: #f6c125; /* Defina sua cor secundária aqui */
 }
 
 .product-card-wrapper .card,
@@ -715,7 +717,7 @@ summary::-webkit-details-marker {
 *:focus-visible {
   outline: .1rem solid #444;
   outline-offset: .3rem;
-  box-shadow: 0 0 0 0.2rem #1773b0;
+  box-shadow: 0 0 0 0.2rem var(--cor-primaria);
   border-radius: 5px;
 }
 
@@ -1301,7 +1303,7 @@ button.shopify-payment-button__button--unbranded {
 }
 
 #ProductSubmitButton-template--16272637591719__main {
-  background-color: #1773B0; /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
+  background-color: var(--cor-primaria); /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
   /* Outras propriedades de estilo, se necessário */
 }
 .shopify-payment-button__more-options {
@@ -1654,7 +1656,7 @@ details[open] > .share-button__fallback {
 .localization-form__select:after {
   pointer-events: none;
   content: '';
-  border: 1px #1773B0 solid; /* Substitua 2px pelo valor desejado */
+  border: 1px var(--cor-primaria) solid; /* Substitua 2px pelo valor desejado */
   position: absolute;
   top: var(--inputs-border-width);
   right: var(--inputs-border-width);
@@ -1814,7 +1816,7 @@ details[open] > .share-button__fallback {
   align-items: center;
   background-color: transparent;
   border: 0;
-  color: #1773B0;
+  color: var(--cor-primaria);
   cursor: pointer;
   display: flex;
   height: 4.4rem;
@@ -2826,7 +2828,7 @@ details[open] > .header__submenu {
   margin-left: -1.2rem;
   grid-area: navigation;
   display: none;
-  color:  #1773B0;
+  color:  var(--cor-primaria);
 }
 
 .header--top-center .header__inline-menu,
@@ -2874,7 +2876,7 @@ details[open] > .header__submenu {
 .header__menu-item:hover span {
   text-decoration: underline;
   text-underline-offset: 0.3rem;
-  color:  #1773B0;
+  color:  var(--cor-primaria);
 }
 
 details[open] > .header__menu-item {
@@ -3044,7 +3046,7 @@ details-disclosure > details {
 }
 h2.inline-richtext {
   font-size: 18px; /* tamanho da fonte, pode ser alterado */
-  color: #1773B0;
+  color: var(--cor-primaria);
 }
 
 .content-container--full-width:after {
@@ -3643,7 +3645,7 @@ h2.inline-richtext {
 .jdgm-rev__icon:empty {
   border-radius: 10px;
   background-color: #f7f7f7;
-  border: 1px solid #1773B0; /* Corrigido a ordem para largura, estilo, cor */
+  border: 1px solid var(--cor-primaria); /* Corrigido a ordem para largura, estilo, cor */
 }
 
 .jdgm-gallery-wrapper, .jdgm-medals-wrapper {
@@ -3684,7 +3686,7 @@ h2.inline-richtext {
 }
 /* Estilo específico para a página atual (jdgm-curt) */
 .jdgm-paginate__page.jdgm-curt {
-  color: #1773B0 !important;
+  color: var(--cor-primaria) !important;
   font-size: 20px !important;
 }
 .jdgm-widget a:not([href])[role="button"],
@@ -3775,7 +3777,7 @@ h2.inline-richtext {
   margin: 3px;
 }
 #ProductSubmitButton-quickadd-template--16272637591719__main {
-  background-color: #1773B0; /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
+  background-color: var(--cor-primaria); /* Substitua #ff0000 pela cor desejada em formato hexadecimal ou por um nome de cor */
 }
 @media screen and (max-width: 749px) {
   .footer__blocks-wrapper {
@@ -3821,7 +3823,7 @@ h2.inline-richtext {
 
 .jdgm-carousel-title {
   font-size: 17px !important;
-  color: #1773B0;
+  color: var(--cor-primaria);
   font-weight: bold;
 }
 #shopify-block-judge_me_reviews_all_reviews_text_MKgXTD .jdgm-all-reviews-text {
