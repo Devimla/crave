@@ -10,7 +10,9 @@
   color: var(--cor-primaria) !important;
   position: relative;
 }
+
 /*
+bolinha em coleções
 .collection-list-title::before {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
