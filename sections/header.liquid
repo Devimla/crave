@@ -4,8 +4,9 @@ document.addEventListener("DOMContentLoaded", function() {
   var currentIndex = 0;
   
   function showAnnouncement(index) {
-    announcements.forEach(function(announcement, i) {
-      if (i === index) {
+    var messageClass = "message" + (index + 1);
+    announcements.forEach(function(announcement) {
+      if (announcement.classList.contains(messageClass)) {
         announcement.classList.add("animate");
       } else {
         announcement.classList.remove("animate");
@@ -22,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Start showing announcements
   nextAnnouncement();
 });
+
 </script>
 
 <style>
