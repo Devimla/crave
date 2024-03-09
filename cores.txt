@@ -13,24 +13,4 @@ text-transform: uppercase;
 
 border-top: solid .1rem rgba(var(--color-foreground),.08); - linha super fina foooter
 
-#shopify-section-template--16272637362343__image_with_text_FT73q9 .grid--1-col .grid__item {
-  max-width: 70%;
-  width: 70%;
-}
-
-
-.badge {
-  border-top-left-radius: 5px !important;
-  border-bottom-right-radius: 5px;
-  border-top: green solid 3px;
-  display: inline-block;
-  font-size: 1.4rem;
-  letter-spacing: 0.1rem;
-  line-height: 1;
-  padding: 5px;
-  text-align: center;
-  background-color: green;
-  color: #fff;
-  word-break: break-word;
-}
 
