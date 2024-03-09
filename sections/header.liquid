@@ -1,17 +1,26 @@
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const announcementContents = document.querySelectorAll(".barra-de-anuncio__content");
-  let currentContentIndex = 0;
-
-  function showNextAnnouncement() {
-    announcementContents[currentContentIndex].classList.remove("active");
-    currentContentIndex = (currentContentIndex + 1) % announcementContents.length;
-    announcementContents[currentContentIndex].classList.add("active");
-
-    setTimeout(showNextAnnouncement, 3000); // Change delay as needed
+  var announcements = document.querySelectorAll(".barra-de-anuncio__content");
+  var currentIndex = 0;
+  
+  function showAnnouncement(index) {
+    announcements.forEach(function(announcement, i) {
+      if (i === index) {
+        announcement.classList.add("animate");
+      } else {
+        announcement.classList.remove("animate");
+      }
+    });
   }
-
-  showNextAnnouncement();
+  
+  function nextAnnouncement() {
+    showAnnouncement(currentIndex);
+    currentIndex = (currentIndex + 1) % announcements.length;
+    setTimeout(nextAnnouncement, 5000);
+  }
+  
+  // Start showing announcements
+  nextAnnouncement();
 });
 </script>
 
