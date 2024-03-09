@@ -18,28 +18,30 @@
 .barra-de-anuncio__inner {
   display: inline-flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: flex-start; /* Mudança aqui para começar da esquerda */
   width: 100%;
-  margin: 2px 0px 0px 0px; 
+  margin: 2px 0px 0px 0px;
+  white-space: nowrap; /* Impede que os textos quebrem a linha */
   animation: slide-text 10s infinite; /* Configuração da animação */
 }
 
 .barra-de-anuncio__content {
-  margin: 0px 0px 0px; 
-  display: none; /* Esconde todos os textos por padrão */
-}
-
-.barra-de-anuncio__content--left {
-  display: block; /* Exibe apenas o primeiro texto por padrão */
+  margin: 0px 0px 0px;
+  display: inline-block; /* Alteração aqui para exibir os textos em linha */
+  opacity: 0; /* Começa com opacidade 0 para a animação de fade */
+  animation: fade-in 1s forwards; /* Adiciona animação de fade */
 }
 
 /* Animação de slide */
 @keyframes slide-text {
-  0% { transform: translateX(0); } /* Começa da posição original */
-  25% { transform: translateX(-100%); } /* Move para a esquerda */
-  50% { transform: translateX(-200%); } /* Move ainda mais para a esquerda */
-  75% { transform: translateX(-300%); } /* Move ainda mais para a esquerda */
-  100% { transform: translateX(0); } /* Retorna à posição original */
+  0% { transform: translateX(100%); } /* Começa da direita */
+  100% { transform: translateX(-100%); } /* Termina na esquerda */
+}
+
+/* Animação de fade */
+@keyframes fade-in {
+  0% { opacity: 0; } /* Começa com opacidade 0 */
+  100% { opacity: 1; } /* Termina com opacidade 1 */
 }
 
 @media only screen and (max-width: 999px) {
@@ -47,6 +49,7 @@
     display: none!important;
   }
 }
+
 </style>
 
 <div class="barra-de-anuncio">
