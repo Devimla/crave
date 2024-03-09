@@ -4,9 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
   var currentIndex = 0;
   
   function showAnnouncement(index) {
-    var messageClass = "message" + (index + 1);
-    announcements.forEach(function(announcement) {
-      if (announcement.classList.contains(messageClass)) {
+    announcements.forEach(function(announcement, i) {
+      if (i === index) {
         announcement.classList.add("animate");
       } else {
         announcement.classList.remove("animate");
@@ -24,7 +23,6 @@ document.addEventListener("DOMContentLoaded", function() {
   nextAnnouncement();
 });
 </script>
-
 
 <style>
 .barra-de-anuncio {
