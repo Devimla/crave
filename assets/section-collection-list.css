@@ -7,7 +7,7 @@
   margin: 0;
   font-size: 28px;
   font-weight: bold;
-  color: #1773B0 !important;
+  color: var(--cor-primaria) !important;
   position: relative;
 }
 /*
@@ -84,14 +84,14 @@ h2.title {
 .mix {
   text-align: center;
   text-decoration: none;
-  color: #1773B0;
+  color: var(--cor-primaria);
   display: block;
 }
 .collection-list-view-all {
   margin-top: 2rem;
 }
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .full-unstyled-link {
-  color: #1773B0;
+  color: var(--cor-primaria);
 }
 #shopify-section-template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b .slider-buttons {
   display: none;

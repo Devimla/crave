@@ -24,7 +24,7 @@
 }
 
 .pagination__item {
-  color: #1773B0;
+  color: var(--cor-primaria);
   display: inline-flex;
   justify-content: center;
   align-items: center;
