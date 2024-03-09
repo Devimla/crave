@@ -147,8 +147,7 @@
       ],
       "custom_css": [
         ".card__information {padding: 0;}",
-        ".grid__item {border-radius: 10px; box-shadow: none;}",
-        ".slider-component {white-space: nowrap;}"
+        ".grid__item {border-radius: 10px; box-shadow: none;}"
       ],
       "settings": {
         "title": "Colecciones",
