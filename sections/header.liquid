@@ -14,14 +14,16 @@ document.addEventListener("DOMContentLoaded", function() {
   }
   
   function nextAnnouncement() {
-    currentIndex = (currentIndex + 1) % announcements.length;
     showAnnouncement(currentIndex);
+    currentIndex = (currentIndex + 1) % announcements.length;
+    setTimeout(nextAnnouncement, 5000);
   }
   
-  // Change announcement every 3 seconds
-  setInterval(nextAnnouncement, 500);
+  // Start showing announcements
+  nextAnnouncement();
 });
 </script>
+
 
 <style>
 .barra-de-anuncio {
