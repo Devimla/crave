@@ -3,8 +3,8 @@
   --alpha-button-border: 1;
   --alpha-link: 0.85;
   --alpha-badge-border: 0.1;
-  --cor-primaria: #1773B0; /* Defina sua cor primária aqui */
-  --cor-secundaria: #f6c125; /* Defina sua cor secundária aqui */
+  --cor-primaria: #1773B0; /* Defina sua cor primária */
+  --cor-secundaria: #f6c125; /* Defina sua cor secundária */
 }
 
 .product-card-wrapper .card,
