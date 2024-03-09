@@ -6,9 +6,101 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "collapsible_content_HTztLR": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_NK4yAq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Entrega",
+            "icon": "truck",
+            "row_content": "<h4>¿Qué pasa si no estoy en casa?<\/h4><p>Si no estás en casa, se realizará una nueva entrega al día siguiente o el socio de entrega se pondrá en contacto contigo para programar una nueva fecha de entrega, según el país y el método de entrega que elijas. También es posible que tengas que ir a tu oficina de correos local para recoger tu paquete en caso de que no se lo puedan entregar.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Vw6aCn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuál es el estado de mi pedido?",
+            "icon": "map_pin",
+            "row_content": "<p>Una vez que haya realizado su pedido, le enviaremos un correo electrónico de confirmación para que pueda seguir el estado de su pedido.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_enbAeW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo modificar mi pedido?",
+            "icon": "box",
+            "row_content": "<p>Sólo podemos cambiar los pedidos que aún no han sido procesados para su envío. Una vez que su pedido se encuentre en el estado \"preparando el envío\", \"enviando\" o \"entregando\", no podremos aceptar ninguna modificación de su pedido.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GyE94U": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Aceptan devoluciones?",
+            "icon": "question_mark",
+            "row_content": "<p>Sí, aceptamos devoluciones con las siguientes condiciones:<\/p><ul><li>El artículo debe haber sido vendido en nuestra tienda online.<\/li><li>El artículo no debe haber sido usado de ninguna manera.<\/li><li>La solicitud de devolución o cambio se realiza dentro de los 14 días siguientes a la entrega.<\/li><\/ul><p>Para solicitar una devolución, <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Entrar en contacto\"><strong>haz clic aquí<\/strong><\/a> y ponte en contacto con nosotros.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GgJ8La": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Las devoluciones son gratuitas?",
+            "icon": "price_tag",
+            "row_content": "<p>Para devolver un artículo, póngase en contacto con el servicio de atención al cliente para obtener una dirección de devolución. Después de recibir la dirección, coloque el artículo de forma segura en su embalaje original e incluya su prueba de compra.<\/p><p>El envío de la devolución es gratuito en algunos casos. Si devuelve un artículo y el motivo de la devolución no es resultado de un error de <strong>latienda-mix.com<\/strong>, el coste del envío de devolución se deducirá de su reembolso.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pfNqVi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo cambiar un artículo?",
+            "icon": "return",
+            "row_content": "<p>Aceptamos cambios y siguen las mismas condiciones que las devoluciones. Para solicitar un cambio, indique que desea cambiar su artículo por otro al preparar su devolución con nuestro servicio de asistencia, haciendo <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Entrar en contacto\">clic aquí<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BWtYJp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Es seguro el pago?",
+            "icon": "lock",
+            "row_content": "<p>Aceptamos los siguientes 2 métodos de pago principales:<\/p><p><strong>PayPal <\/strong><\/p><p>La Tienda  Mix<strong> <\/strong>utiliza principalmente PayPal para procesar pagos seguros. A través de PayPal, aceptamos MasterCard, VISA, American Express, Discover.<\/p><p><strong>Pago seguro con tarjeta de crédito a través de Stripe.<\/strong><\/p><p>También podemos aceptar el pago con tarjeta de crédito utilizando Visa, Master card, American expres, Discover y ApplePay.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_NK4yAq",
+        "collapsible_row_Vw6aCn",
+        "collapsible_row_enbAeW",
+        "collapsible_row_GyE94U",
+        "collapsible_row_GgJ8La",
+        "collapsible_row_pfNqVi",
+        "collapsible_row_BWtYJp"
+      ],
+      "settings": {
+        "caption": "La Tienda Mix",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collapsible_content_HTztLR"
   ]
 }
