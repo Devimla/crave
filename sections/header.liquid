@@ -4,41 +4,49 @@
   color: #fff;
   height: 31px;
   fill: #fff159;
+  overflow: hidden; /* Para esconder o texto que estiver fora da barra */
 }
 
-  .container {
-    max-width: 1480px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0;
-    font-weight: bold;
-  }
+.container {
+  max-width: 1480px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  font-weight: bold;
+}
 
-  .barra-de-anuncio__inner {
-    display: inline-flex;
-    align-items: center;
-    justify-content: space-around;
-    width: 100%;
-    margin: 2px 0px 0px 0px; 
-  }
+.barra-de-anuncio__inner {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  margin: 2px 0px 0px 0px; 
+  animation: slide-text 10s infinite; /* Configuração da animação */
+}
 
-  .barra-de-anuncio__content {
-    margin: 0px 0px 0px; 
-    display: block !important;
-  }
+.barra-de-anuncio__content {
+  margin: 0px 0px 0px; 
+  display: none; /* Esconde todos os textos por padrão */
+}
 
-  .announcesvg {
-    width: 22px;
-    vertical-align: middle;
-    display: inline-block;
-    margin-right: 10px;
-  }
+.barra-de-anuncio__content--left {
+  display: block; /* Exibe apenas o primeiro texto por padrão */
+}
 
-  @media only screen and (max-width: 999px) {
-    .mobhide {
-      display: none!important;
-    }
+/* Animação de slide */
+@keyframes slide-text {
+  0% { transform: translateX(0); } /* Começa da posição original */
+  25% { transform: translateX(-100%); } /* Move para a esquerda */
+  50% { transform: translateX(-200%); } /* Move ainda mais para a esquerda */
+  75% { transform: translateX(-300%); } /* Move ainda mais para a esquerda */
+  100% { transform: translateX(0); } /* Retorna à posição original */
+}
+
+@media only screen and (max-width: 999px) {
+  .mobhide {
+    display: none!important;
   }
+}
 </style>
 
 <div class="barra-de-anuncio">
