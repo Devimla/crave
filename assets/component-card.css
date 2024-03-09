@@ -203,7 +203,7 @@ input[type="email" i] {
 }
 
 .card__heading {
-  margin-top: 0;
+  margin-top: 5px;
   margin-bottom: 0;
 }
 
