@@ -24,38 +24,57 @@ document.addEventListener("DOMContentLoaded", function() {
   fill: #fff159;
 }
 
-.container {
-  max-width: 1480px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0;
-  font-weight: bold;
-}
-
-.barra-de-anuncio__inner {
-  display: inline-flex;
-  align-items: center;
-  justify-content: space-around;
-  width: 100%;
-  margin: 2px 0px 0px 0px;
-}
-
 .barra-de-anuncio__content {
-  margin: 0px 0px 0px;
-  display: block;
-  opacity: 0; /* Initial opacity for hidden content */
-  transition: opacity 0.5s ease-in-out; /* Smooth transition effect */
+  display: none;
 }
 
-.barra-de-anuncio__content.active {
-  opacity: 1; /* Display the active content */
+.animate {
+  display: block !important;
+  animation: fadeIn 1s ease-in-out forwards;
 }
 
-@media only screen and (max-width: 999px) {
-  .mobhide {
-    display: none!important;
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
   }
 }
+
+  .container {
+    max-width: 1480px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    font-weight: bold;
+  }
+
+  .barra-de-anuncio__inner {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    margin: 2px 0px 0px 0px; 
+  }
+
+  .barra-de-anuncio__content {
+    margin: 0px 0px 0px; 
+    display: block !important;
+  }
+
+  .announcesvg {
+    width: 22px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  @media only screen and (max-width: 999px) {
+    .mobhide {
+      display: none!important;
+    }
+  }
 </style>
 
 <div class="barra-de-anuncio">
