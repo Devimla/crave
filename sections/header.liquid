@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   var announcements = document.querySelectorAll(".barra-de-anuncio__content");
   var currentIndex = 0;
-  
+
   function showAnnouncement(index) {
     announcements.forEach(function(announcement, i) {
       if (i === index) {
@@ -12,17 +12,18 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     });
   }
-  
+
   function nextAnnouncement() {
     showAnnouncement(currentIndex);
     currentIndex = (currentIndex + 1) % announcements.length;
     setTimeout(nextAnnouncement, 5000);
   }
-  
+
   // Start showing announcements
   nextAnnouncement();
 });
 </script>
+
 
 <style>
 .barra-de-anuncio {
