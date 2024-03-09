@@ -5,7 +5,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".menu-drawer .list-social .icon {color: #1773B0;}"
+        ".menu-drawer .list-social .icon {color: var(--cor-primaria);}"
       ],
       "settings": {
         "logo_position": "top-left",
