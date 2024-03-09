@@ -348,13 +348,13 @@
 
 .footer-block__details-content .list-menu__item--active {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: #fff159;
+  color: var(--cor-secundaria);
 }
 
 @media screen and (min-width: 750px) {
   .footer-block__details-content .list-menu__item--link:hover,
   .copyright__content a:hover {
-    color: #fff159;
+    color: var(--cor-secundaria);
     text-decoration: underline;
     text-underline-offset: 0.3rem;
   }
