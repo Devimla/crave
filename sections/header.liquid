@@ -1,9 +1,54 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var announcements = document.querySelectorAll(".barra-de-anuncio__content");
+  var currentIndex = 0;
+  
+  function showAnnouncement(index) {
+    announcements.forEach(function(announcement, i) {
+      if (i === index) {
+        announcement.classList.add("animate");
+      } else {
+        announcement.classList.remove("animate");
+      }
+    });
+  }
+  
+  function nextAnnouncement() {
+    currentIndex = (currentIndex + 1) % announcements.length;
+    showAnnouncement(currentIndex);
+  }
+  
+  // Show the first announcement immediately
+  showAnnouncement(currentIndex);
+  
+  // Change announcement every 5 seconds
+  setInterval(nextAnnouncement, 5000);
+});
+</script>
 <style>
 .barra-de-anuncio {
   background: #1773B0;
   color: #fff;
   height: 31px;
   fill: #fff159;
+}
+
+.barra-de-anuncio__content {
+  display: none;
+}
+
+.animate {
+  display: block !important;
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
   .container {
@@ -43,7 +88,7 @@
 
 <div class="barra-de-anuncio">
   <div class="container">
-    <div class="barra-de-anuncio__inner">
+    <div class="barra-de-anuncio__inner" id="announcementContainer">
       <p class="barra-de-anuncio__content barra-de-anuncio__content--left">
         <svg class="announcesvg" viewBox="0 0 23 24" role="presentation">
           <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -75,6 +120,7 @@
     </div>
   </div>
 </div>
+
 
 
 
