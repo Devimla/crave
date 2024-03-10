@@ -184,7 +184,7 @@
         ".slider-buttons {display: none;}",
         ".isolate {background: #fff;}",
         ".botoom-baixo {display: none;}",
-        ".jdgm-prev-badge__text {display: ; width: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}",
+        ".jdgm-prev-badge__text {display: ; width: 10px !important; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}",
         ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
       ],
       "settings": {
