@@ -13,4 +13,31 @@ text-transform: uppercase;
 
 border-top: solid .1rem rgba(var(--color-foreground),.08); - linha super fina foooter
 
+.box-shadow-custom {
+  box-shadow: -4px 0 8px rgba(0, 0, 0, 0.1), 4px 0 8px rgba(0, 0, 0, 0.1), 0 -4px 8px rgba(0, 0, 0, 0);
+}
 
+
+.shadow {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* sombra total */
+}
+
+.top-shadow {
+  box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1); /* sombra apenas na parte inferior */
+}
+
+.left-right-shadow {
+  box-shadow: -4px 0 8px rgba(0, 0, 0, 0.1), 4px 0 8px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.1); /* sombra nas laterais e na parte inferior */
+}
+
+.left-shadow {
+  box-shadow: -4px 0 8px rgba(0, 0, 0, 0.1); /* sombra apenas na lateral esquerda e na parte inferior */
+}
+
+.right-shadow {
+  box-shadow: 4px 0 8px rgba(0, 0, 0, 0.1); /* sombra apenas na lateral direita e na parte inferior */
+}
+
+.box-shadow-custom {
+  box-shadow: -4px 0 8px rgba(0, 0, 0, 0.1), 4px 0 8px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
