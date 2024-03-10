@@ -185,7 +185,6 @@
         ".isolate {background: #fff;}",
         ".botoom-baixo {display: none;}",
         ".jdgm-prev-badge__text {display: ;}",
-        ".jdgm-prev-badge {transform: scale(0.7);}",
         ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
       ],
       "settings": {
