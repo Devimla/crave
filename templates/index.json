@@ -184,7 +184,7 @@
         ".slider-buttons {display: none;}",
         ".isolate {background: #fff;}",
         ".botoom-baixo {display: none;}",
-        ".jdgm-prev-badge__text {display: ; font-size: 10px;}",
+        ".jdgm-prev-badge__text {display: ; width: 10px; \/* Defina o tamanho máximo do elemento *\/ white-space: nowrap; \/* Impede que o texto quebre em várias linhas *\/ overflow: hidden; \/* Oculta o texto que ultrapassa o tamanho definido *\/ text-overflow: ellipsis; \/* Adiciona reticências (...) ao texto cortado *\/}",
         ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
       ],
       "settings": {
