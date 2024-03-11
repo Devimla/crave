@@ -165,14 +165,14 @@
     "image_banner_VYCPUp": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Moda_Infantil_Conoce_nuestra_coleccion_para_Ninos.webp",
+        "image": "shopify:\/\/shop_images\/Dia_Das_20240310_215311_0000.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "zoom-in",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
