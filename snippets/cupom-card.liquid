@@ -15,7 +15,19 @@
 .balao p {
   margin: 0px;
 }
-
+.balao::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/desconto.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -1; /* Para garantir que o pseudo-elemento fique atrás do texto */
+}
 </style>
 <div class="balao">
   <p>Los cupones pueden ser aplicados en la página de pago</p>
