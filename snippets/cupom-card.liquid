@@ -10,23 +10,23 @@
   display: flex;
   border-radius: 10px;
   align-items: center;
-  overflow: hidden; /* para ocultar partes do SVG que ficarem fora do balão */
-}
-
-.balao::before {
-  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/desconto.svg');
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: -1;
-  pointer-events: none; /* para permitir que o mouse ignore o SVG e interaja com o texto */
 }
 
 .balao p {
   margin: 0px;
-  position: relative;
-  z-index: 1;
+}
+.balao p::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/desconto.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
 }
 </style>
 <div class="balao">
