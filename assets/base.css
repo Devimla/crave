@@ -3745,22 +3745,20 @@ h2.inline-richtext {
     text-align: center;
 }
 
-.cupom {
-  background-color: #333333;
-  color: #fff;
+.balao {
+  color: #333;
   padding: 5px;
-  border-radius: 10px;
   position: relative;
+  text-align: center;
   font-size: 12px;
   text-transform: uppercase;
   display: flex;
   align-items: center;
-  justify-content: center; /* Alinha o texto horizontalmente */
-  width: 100%;
+
 }
 
-.cupom p {
-  margin: 3px;
+.balao p {
+  margin: 0px;
 }
 
 #ProductSubmitButton-quickadd-template--16272637591719__main {
