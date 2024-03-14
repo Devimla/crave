@@ -3716,14 +3716,14 @@ h2.inline-richtext {
     padding-top: 8px !important;
     padding-bottom: 8px !important;
     background-color: #fff; /* Use background-color em vez de background */
-    border-radius: 5px;
+    border-radius: 10px;
     border: 8px solid #fff !important;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
 }
 .jdgm-rev-widg__header {
   background-color: #fff;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
   border: 5px solid #fff !important;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra fraca */
   
@@ -3731,8 +3731,8 @@ h2.inline-richtext {
 .jdgm-row-media {
     border-top: 2px transparent #edf5f5 !important;
     border-color: transparent !important; 
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 .jdgm-row-media .jdgm-row-search .jdgm-subtab .jdgm-row-actions .jdgm-quest .jdgm-rev .jdgm-paginate {
