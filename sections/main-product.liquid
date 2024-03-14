@@ -167,7 +167,8 @@
               </p>
             {%- when 'description' -%}
               {%- if product.description != blank -%}
-              {%- render 'cupom-card' -%}
+                <div class="product__description rte quick-add-hidden" {{ block.shopify_attributes }}>
+                {%- render 'cupom-card' -%}
                   {{ product.description }}
                 </div>
               {%- endif -%}
