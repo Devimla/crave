@@ -3598,7 +3598,7 @@ h2.inline-richtext {
   border-radius: 20px !important;
 }
 .jdgm-histogram__bar, .jdgm-histogram__bar-content {
-  border-radius: 5px !important;
+  border-radius: 10px !important;
 }
 .jdgm-write-rev-link, .jdgm-ask-question-btn, .jdgm-widget input.jdgm-review-search, .jdgm-subtab__name, .jdgm-widget .jdgm-btn.jdgm-btn, .jdgm-chip {
   border-radius: 20px !important;
@@ -3619,8 +3619,8 @@ h2.inline-richtext {
   align-items: center !important;
   background-color: #fff;
   margin-bottom: 5px !important;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .jdgm-rev__author, .jdgm-rev__icon:before {
