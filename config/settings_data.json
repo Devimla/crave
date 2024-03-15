@@ -207,7 +207,7 @@
         "disabled": false,
         "settings": {
           "button_color": "#1773b0",
-          "secondary_color": "#fff159",
+          "secondary_color": "#f5f5f5",
           "ternary_color": "#1773b0",
           "button_icon": "hand_wave",
           "button_text": "no_text",
