@@ -188,6 +188,7 @@ predictive-search[loading] .predictive-search__results-groups-wrapper ~ .predict
 .predictive-search__item .price {
   color: rgba(var(--color-foreground), 0.7);
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .predictive-search__item-vendor + .predictive-search__item-heading,
