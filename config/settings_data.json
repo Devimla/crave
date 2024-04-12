@@ -1,6 +1,6 @@
 {
   "current": {
-    "logo": "{{ shop.brand.logo }}",
+    "logo": "shopify:\/\/shop_images\/1024.png",
     "logo_width": 240,
     "favicon": "shopify:\/\/shop_images\/icon_transparent.png",
     "type_header_font": "sans-serif",
@@ -142,78 +142,10 @@
 
     ],
     "blocks": {
-      "1369284949797581044": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/collection-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "15154131639906026026": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/broken-link-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "1360768219604461044": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/store-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11089864892113081655": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/website-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11104565113590962351": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/article-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14971748854670876780": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/product-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "14060646107696862457": {
         "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
-        }
-      },
-      "2118589882331710876": {
-        "type": "shopify:\/\/apps\/essential-trust-badges\/blocks\/app-embed\/0ff65b25-07e1-408e-950f-f54dd3d1751b",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11667715999621601152": {
-        "type": "shopify:\/\/apps\/tiktok-ads-tiktok-pixels\/blocks\/turbo-tiktok\/0f61e244-e2c9-43da-9523-9762c9f7e6bf",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6012664788653924950": {
-        "type": "shopify:\/\/apps\/buy-me-sticky-buy-button\/blocks\/app-embed\/da5cef02-d610-4c52-adf7-383273d1f67b",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": false,
-        "settings": {
-          "button_color": "#1773b0",
-          "secondary_color": "#f5f5f5",
-          "ternary_color": "#1773b0",
-          "button_icon": "hand_wave",
-          "button_text": "no_text",
-          "button_horizontal_position": "bottom_left",
-          "button_vertical_position": "lowest",
-          "greeting_message": ""
         }
       }
     },
