@@ -250,7 +250,6 @@
       "type": "featured-collection",
       "custom_css": [
         ".slider-buttons {display: none;}",
-        ".isolate {background: #fff;}",
         ".botoom-baixo {display: none;}",
         ".jdgm-prev-badge__text {display: ;}",
         ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}",
