@@ -380,7 +380,7 @@
           "type": "product",
           "settings": {
             "product": "tapete-masajeador-de-pies",
-            "second_image": false
+            "second_image": true
           }
         }
       },
