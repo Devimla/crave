@@ -204,11 +204,11 @@
         "settings": {
           "background": "#0070dc",
           "background_gradient": "",
-          "text": "#1773b0",
+          "text": "#0070dc",
           "button": "#3d081b",
-          "button_label": "#1773b0",
+          "button_label": "#0070dc",
           "secondary_button_label": "#faf9e1",
-          "shadow": "#1773b0"
+          "shadow": "#0070dc"
         }
       },
       "scheme-52372669-a11f-4893-9058-4e8c50771496": {
