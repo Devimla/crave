@@ -53,7 +53,7 @@
           "type": "link_list",
           "settings": {
             "heading": "<strong>Política<\/strong>",
-            "menu": ""
+            "menu": "footer"
           }
         }
       },
