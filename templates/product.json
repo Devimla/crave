@@ -43,12 +43,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "custom_liquid_ngPfnz": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<style>\n  .custom-image {\n    max-width: 100%;\n    height: auto;\n  }\n<\/style>\n\n<img src=\"https:\/\/laiguanashop.com.co\/cdn\/shop\/t\/11\/assets\/474829111282369691-e4e142d9-94f9-408c-81d0-5460e1bd3a77.png?v=5781651231091986821692561058\" alt=\"Imagem 1\" class=\"custom-image\">"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -82,7 +76,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "custom_liquid_ngPfnz",
         "description",
         "complementary_BKyaAU",
         "custom_liquid_tBLUy6"
