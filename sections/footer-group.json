@@ -63,12 +63,12 @@
       ],
       "custom_css": [
         ".footer-block.footer-block--menu {box-shadow: none;}",
-        ".footer {color: #fff; background-color: #0070DC;}",
+        ".footer {color: #fff; background-color: #0070dc;}",
         ".footer-block__heading.inline-richtext strong {color: #fff;}"
       ],
       "settings": {
         "color_scheme": "accent-2",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "¡Regístrate en nuestro boletín y mantente al tanto de nuestras novedades y promociones, además de recibir un cupón de descuento del 15%!",
         "enable_follow_on_shop": false,
         "show_social": true,
