@@ -144,12 +144,12 @@
         ".card__heading:last-child {text-align: center;}"
       ],
       "settings": {
-        "title": "Colecciones",
+        "title": "<strong>Colecciones<\/strong>",
         "heading_size": "h0",
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "",
-        "show_view_all": false,
+        "show_view_all": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
