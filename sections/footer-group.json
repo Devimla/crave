@@ -46,7 +46,7 @@
           "type": "link_list",
           "settings": {
             "heading": "<strong>Servicio<\/strong>",
-            "menu": "footer"
+            "menu": "main-menu"
           }
         },
         "link_list_LVmEyD": {
