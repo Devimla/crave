@@ -174,7 +174,7 @@
           "text": "#333333",
           "button": "#0070dc",
           "button_label": "#faf9e1",
-          "secondary_button_label": "#0070dc",
+          "secondary_button_label": "#333333",
           "shadow": "#3d081b"
         }
       },
