@@ -140,7 +140,7 @@
       ],
       "custom_css": [
         ".card__information {padding: 0;}",
-        ".grid__item {border-radius: 10px; box-shadow: none;}"
+        ".grid__item {border-radius: 10px; box-shadow: none; background: transparent;}"
       ],
       "settings": {
         "title": "Colecciones",
