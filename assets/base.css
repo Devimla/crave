@@ -2533,7 +2533,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   }
 }
 .header__heading-logo-wrapper {
-  width: 75%;
+  width: 70%;
   display: inline-block;
   transition: width 0.3s cubic-bezier(0.52, 0, 0.61, 0.99);
 }
