@@ -6,7 +6,6 @@
         "slide_d8cEtr": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20240313_181839_0000.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -24,7 +23,6 @@
         "slide_RzzF9a": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/off_20240213_104832_0000.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -69,7 +67,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
+        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}",
+        ".div._rsi-buy-now-button {display: none;}"
       ],
       "settings": {
         "title": "<strong>Venta Caliente<\/strong>",
@@ -165,7 +164,6 @@
     "image_banner_VYCPUp": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Dia_Das_20240310_215311_0000.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
