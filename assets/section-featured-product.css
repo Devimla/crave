@@ -65,7 +65,7 @@
   }
 
   .featured-product:not(.product--no-media) > .product__info-wrapper {
-    padding: 0 7rem;
+    padding: 0 3rem;
     margin-left: 5px;
   }
 
