@@ -3854,7 +3854,23 @@ h2.inline-richtext {
   margin-right: 15px;
   vertical-align: middle;
 }
-
-
-
+ #shopify-section-template--22545684693304__featured_collection_Yc7pPJ .slider-buttons {
+  display: none;} 
+  #shopify-section-template--22545684693304__featured_collection_Yc7pPJ .botoom-baixo {display: none;} 
+  #shopify-section-template--22545684693304__featured_collection_Yc7pPJ .jdgm-prev-badge__text {display: ;} 
+  #shopify-section-template--22545684693304__featured_collection_Yc7pPJ .badge {
+    border-top: green solid 2px; 
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 0; 
+    border-bottom-right-radius: 0; 
+    border-bottom-left-radius: 0;
+  } 
+  #shopify-section-template--22545684693304__featured_collection_Yc7pPJ ._rsi-buy-now-button {
+    display: none !important;
+  } 
+@media screen and (min-width: 1250px) {
+  #shopify-section-template--22545684693304__featured_collection_Yc7pPJ .quick-add {
+    padding-bottom: 5px;
+  }
+  } 
 
