@@ -53,7 +53,7 @@
           "type": "link_list",
           "settings": {
             "heading": "<strong>Política<\/strong>",
-            "menu": "footer-1"
+            "menu": ""
           }
         }
       },
@@ -63,8 +63,8 @@
       ],
       "custom_css": [
         ".footer-block.footer-block--menu {box-shadow: none;}",
-        ".footer {color: #fff; background-color: #1773b0;}",
-        ".footer-block__heading.inline-richtext strong {color: #FFF;}"
+        ".footer {color: #fff; background-color: #0070DC;}",
+        ".footer-block__heading.inline-richtext strong {color: #fff;}"
       ],
       "settings": {
         "color_scheme": "accent-2",
@@ -75,7 +75,7 @@
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
-        "show_policy": false,
+        "show_policy": true,
         "margin_top": 0,
         "padding_top": 8,
         "padding_bottom": 0
