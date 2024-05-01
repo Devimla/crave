@@ -117,12 +117,6 @@
             "collection": "casa-y-jardin"
           }
         },
-        "a261d76c-a749-43ca-b830-1a0e58318307": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "automoviles-y-motocicletas"
-          }
-        },
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
@@ -135,7 +129,6 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-3",
         "aa8850ec-50f3-4e96-b060-d2d8c822c917",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1",
-        "a261d76c-a749-43ca-b830-1a0e58318307",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
