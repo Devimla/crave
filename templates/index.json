@@ -395,7 +395,7 @@
         ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
       ],
       "settings": {
-        "heading": "Te recomendamos",
+        "heading": "Salud",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
