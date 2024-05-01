@@ -411,21 +411,21 @@
         "product_XJ8it7": {
           "type": "product",
           "settings": {
-            "product": "dancing-cactus-repeat-talking-toy-electronic-plush-toys-can-sing-record-lighten-usb-early-education-funny-gift-interactive-bled",
-            "second_image": false
+            "product": "radio-parlante-usb-lampara-rgb-15w-sing-e-jqs1220",
+            "second_image": true
           }
         },
         "product_bPD6gg": {
           "type": "product",
           "settings": {
-            "product": "nti-wrinkle-eye-cream-wrinkle-removing-dark-circles-lightening-fine-lines-moisturizing-whitening-skin-care-eye-bag-stick-2023",
+            "product": "audifonos-auriculares-conduccion-osea-s9-bluetooth-deportes",
             "second_image": true
           }
         },
         "product_cFg7jk": {
           "type": "product",
           "settings": {
-            "product": "explora-la-libertad-de-la-limpieza-aspiradora-inalambrica-con-luz-uv-bateria-incorporada-poderosa-succion-de-10kpa-para-limpiar-almohadas-ropa-sofas-y-alfombras-manten-tu-espacio-impecable",
+            "product": "combo-plancha-de-cabello-nano-titanium-3-en-1",
             "second_image": true
           }
         }
@@ -441,7 +441,7 @@
         ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Eletronicos",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
