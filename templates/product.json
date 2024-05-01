@@ -64,7 +64,7 @@
         "custom_liquid_tBLUy6": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n  .custom-image {\n    max-width: 100%;\n    height: auto;\n  }\n<\/style>\n\n<img src=\"https:\/\/laiguanashop.com.co\/cdn\/shop\/t\/11\/assets\/474829111282369691-e4e142d9-94f9-408c-81d0-5460e1bd3a77.png?v=5781651231091986821692561058\" alt=\"Imagem 1\" class=\"custom-image\">\n<img src=\"https:\/\/laiguanashop.com.co\/cdn\/shop\/t\/11\/assets\/474829111282369691-7a59faf3-2ae6-40e7-824d-2973c81bd5a8.png?v=158250030231759700331692560894\" alt=\"Imagem 2\" class=\"custom-image\">\n<img src=\"https:\/\/laiguanashop.com.co\/cdn\/shop\/t\/11\/assets\/474829111282369691-fcdd1aae-8b72-408f-b4bc-378df4c1d80b.png?v=153136723182744119041692561496\" alt=\"Imagem 3\" class=\"custom-image\">"
+            "custom_liquid": "<style>\n  .custom-image {\n    max-width: 100%;\n    height: auto;\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/Envio_descricao_1.webp\" alt=\"Imagem 1\" class=\"custom-image\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/Envio_descricao_2.webp\" alt=\"Imagem 2\" class=\"custom-image\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/Envio_descricao_3.webp\" alt=\"Imagem 3\" class=\"custom-image\">"
           }
         }
       },
