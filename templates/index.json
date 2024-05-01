@@ -96,7 +96,7 @@
         "4fe89970-3ef4-42b6-b514-b52d4452b574": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ninos"
+            "collection": "electronicos"
           }
         },
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-3": {
@@ -108,13 +108,13 @@
         "aa8850ec-50f3-4e96-b060-d2d8c822c917": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ropas-y-accesorios"
+            "collection": "ropa-y-accesorios"
           }
         },
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "casa-y-jardin"
+            "collection": "nino-y-mama"
           }
         },
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2": {
@@ -142,7 +142,7 @@
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "",
-        "show_view_all": true,
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
