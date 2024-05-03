@@ -3050,7 +3050,6 @@ details-disclosure > details {
 h2.inline-richtext {
   font-size: 24px; /* tamanho da fonte, pode ser alterado */
   color: var(--preto-letra);
-  font-weight: var(--titulo-grosso);
 }
 
 .content-container--full-width:after {
