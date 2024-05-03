@@ -6,7 +6,6 @@
 .collection-list-title {
   margin: 0;
   font-weight: bold;
-  color: var(--cor-primaria) !important;
   position: relative;
 }
 
