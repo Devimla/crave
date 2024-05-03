@@ -12,7 +12,7 @@
     "spacing_grid_horizontal": 12,
     "spacing_grid_vertical": 12,
     "animations_reveal_on_scroll": false,
-    "animations_hover_elements": "default",
+    "animations_hover_elements": "3d-lift",
     "buttons_border_thickness": 0,
     "buttons_border_opacity": 0,
     "buttons_radius": 6,
