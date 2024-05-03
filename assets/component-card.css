@@ -11,7 +11,7 @@
   text-align: var(--text-alignment);
 }
 input[type="email" i] {
-  color: #333 !important;
+  color: var(--preto-letra) !important;
 }
 
 .card:not(.ratio) {
@@ -161,7 +161,7 @@ input[type="email" i] {
 .card-information .card__information-volume-pricing-note {
   margin-top: 0.6rem;
   line-height: calc(0.5 + 0.4 / var(--font-body-scale));
-  color: #333;
+  color: var(--preto-letra);
 }
 
 @media screen and (min-width: 750px) {

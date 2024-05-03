@@ -3204,7 +3204,7 @@ h2.inline-richtext {
 
 .rte > *:first-child {
   margin-top: 0;
-  color: #333;
+  color: var(--preto-letra);
   font-size: 13px;
 }
 @media only screen and (min-width: 768px) {
@@ -3607,7 +3607,7 @@ h2.inline-richtext {
   font-size: 18px;
   font-weight: bold;
   text-align: center;
-  color: #333;
+  color: var(--preto-letra);
 }
 
 .jdgm-sort-dropdown-wrapper .jdgm-sort-dropdown, .jdgm-sort-dropdown-wrapper .jdgm-sort-dropdown-arrow {
@@ -3698,7 +3698,7 @@ h2.inline-richtext {
 .jdgm-widget a:empty,
 .jm-mfp-wrap a:empty {
   /* Adicione os estilos desejados para elementos vazios */
-  color: #333!important; /* Cor do texto, ajuste conforme necessário */
+  color: var(--preto-letra) !important; /* Cor do texto, ajuste conforme necessário */
 }
 
 /* Estilo para o texto dentro do badge de página anterior */
