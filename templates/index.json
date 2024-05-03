@@ -487,7 +487,8 @@
         "text_a7jxdB"
       ],
       "custom_css": [
-        ".rte > :first-child {font-size: 16px;}"
+        ".rte > :first-child {font-size: 16px;}",
+        ".inline-richtext {font-size: 22px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/fachada_1.png",
