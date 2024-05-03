@@ -135,7 +135,8 @@
         ".card__information {padding: 0;}",
         ".grid__item {border-radius: 10px; box-shadow: none; background: transparent;}",
         ".card__heading:last-child {text-align: center;}",
-        ".slider-buttons {display: none;}"
+        ".slider-buttons {display: none;}",
+        ".color-background-1 {background: #FFF;}"
       ],
       "settings": {
         "title": "<strong>Colecciones<\/strong>",
