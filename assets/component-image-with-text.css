@@ -91,6 +91,12 @@
   position: relative;
   z-index: 1;
 }
+@media screen and (max-width: 550px) {
+.image-with-text__content  {
+  text-align: center;
+  align-items: center;
+}
+}
 
 .image-with-text .grid__item::after {
   content: '';

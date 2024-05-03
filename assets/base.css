@@ -6,6 +6,7 @@
   --cor-primaria: #0070DC; /* Defina sua cor primária */
   --cor-secundaria: #FFC221; /* Defina sua cor secundária */
   --preto-letra: #333333;
+  --titulo-primario: #0070DC;
 }
 
 .product-card-wrapper .card,
