@@ -2625,7 +2625,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
   width: 2rem;
   fill: none;
   vertical-align: middle;
-  color:  #333;
+  color:  var(--preto-letra);
 }
 
 .header__icon,
