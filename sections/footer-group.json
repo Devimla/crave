@@ -30,7 +30,8 @@
         "email_form_3Aw47L"
       ],
       "custom_css": [
-        ".content-container:after {border-bottom: #1773b0 solid 1px;}"
+        ".content-container:after {border-bottom: #1773b0 solid 1px;}",
+        ".h2.inline-richtext {color: #0070DC;}"
       ],
       "settings": {
         "color_scheme": "",
