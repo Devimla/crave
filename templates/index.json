@@ -153,6 +153,7 @@
     },
     "image_banner_VYCPUp": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -168,6 +169,7 @@
     },
     "featured_collection_awDJYD": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".slider-buttons {display: none;}",
         ".botoom-baixo {display: none;}",
@@ -202,6 +204,7 @@
     },
     "featured_collection_QPqzC4": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".slider-buttons {display: none;}",
         ".botoom-baixo {display: none;}",
