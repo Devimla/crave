@@ -487,7 +487,7 @@
         "text_a7jxdB"
       ],
       "custom_css": [
-        ".rte > :first-child {font-size: 16px;}",
+        ".rte > :first-child {font-size: 16px; color: #3b3732;}",
         ".inline-richtext {font-size: 22px;}"
       ],
       "settings": {
