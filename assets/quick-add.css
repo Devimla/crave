@@ -117,9 +117,9 @@
 
 .quick-add-modal__toggle {
   background-color: #fff;
-  border: 1px #333 solid !important;
+  border: 1px var(--preto-letra) solid !important;
   border-radius: 50%;
-  color: #333;
+  color: var(--preto-letra);
   display: flex;
   align-items: center;
   justify-content: center;

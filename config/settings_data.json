@@ -161,7 +161,7 @@
         "settings": {
           "background": "#0070dc",
           "background_gradient": "",
-          "text": "#333333",
+          "text": "#404040",
           "button": "#0070dc",
           "button_label": "#f2efdd",
           "secondary_button_label": "#0070dc",
@@ -172,10 +172,10 @@
         "settings": {
           "background": "#000000",
           "background_gradient": "",
-          "text": "#333333",
+          "text": "#404040",
           "button": "#0070dc",
           "button_label": "#faf9e1",
-          "secondary_button_label": "#333333",
+          "secondary_button_label": "#404040",
           "shadow": "#3d081b"
         }
       },
@@ -216,7 +216,7 @@
         "settings": {
           "background": "{{ shop.brand.colors.primary[1].background }}",
           "background_gradient": "radial-gradient(rgba(0, 123, 255, 1) 7%, rgba(148, 88, 255, 1) 94%)",
-          "text": "#333333",
+          "text": "#404040",
           "button": "#1773b0",
           "button_label": "#f2efdd",
           "secondary_button_label": "#1773b0",
