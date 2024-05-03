@@ -119,7 +119,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "cart_color_scheme": "scheme-52372669-a11f-4893-9058-4e8c50771496",
+    "cart_color_scheme": "background-1",
     "checkout_logo_image": "shopify:\/\/shop_images\/Picsart_23-12-17_02-50-00-551.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
@@ -161,7 +161,7 @@
         "settings": {
           "background": "#0070dc",
           "background_gradient": "",
-          "text": "#404040",
+          "text": "#333333",
           "button": "#0070dc",
           "button_label": "#f2efdd",
           "secondary_button_label": "#0070dc",
@@ -172,10 +172,10 @@
         "settings": {
           "background": "#000000",
           "background_gradient": "",
-          "text": "#404040",
+          "text": "#333333",
           "button": "#0070dc",
           "button_label": "#faf9e1",
-          "secondary_button_label": "#404040",
+          "secondary_button_label": "#333333",
           "shadow": "#3d081b"
         }
       },
@@ -216,7 +216,7 @@
         "settings": {
           "background": "{{ shop.brand.colors.primary[1].background }}",
           "background_gradient": "radial-gradient(rgba(0, 123, 255, 1) 7%, rgba(148, 88, 255, 1) 94%)",
-          "text": "#404040",
+          "text": "#333333",
           "button": "#1773b0",
           "button_label": "#f2efdd",
           "secondary_button_label": "#1773b0",
