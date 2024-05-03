@@ -5,6 +5,7 @@
   --alpha-badge-border: 0.1;
   --cor-primaria: #0070DC; /* Defina sua cor primária */
   --cor-secundaria: #FFC221; /* Defina sua cor secundária */
+  --preto-letra: #333333;
 }
 
 .product-card-wrapper .card,
@@ -3046,7 +3047,7 @@ details-disclosure > details {
 }
 h2.inline-richtext {
   font-size: 18px; /* tamanho da fonte, pode ser alterado */
-  color: var(--cor-primaria);
+  color: var(--preto-letra);
   font-weight: 700;
 }
 
