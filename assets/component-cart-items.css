@@ -212,7 +212,7 @@ cart-remove-button .icon-remove {
 }
 
 .product-option * {
-  display: inline;
+  display: inline-block;
   margin: 0;
 }
 
