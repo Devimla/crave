@@ -212,8 +212,8 @@ cart-remove-button .icon-remove {
 }
 .product-option dt, .product-option dd {
   display: inline-block !important;
-  margin-right: 10px; // Ajuste conforme necessário
-  vertical-align: top; // Útil para alinhamento vertical
+  margin-right: 10px;
+  vertical-align: top;
 }
 .product-option * {
   display: inline-block;
