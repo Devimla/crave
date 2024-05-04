@@ -106,7 +106,7 @@
         ".color-background-1 {background: #fff; padding: 5px;}"
       ],
       "settings": {
-        "title": "<strong>Colecciones<\/strong>",
+        "title": "Colecciones",
         "heading_size": "h0",
         "image_ratio": "square",
         "columns_desktop": 5,
