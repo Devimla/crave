@@ -209,13 +209,11 @@ input[type="email" i] {
 .card__heading:last-child {
   margin-bottom: 0;
   font-size: 16px;
-  font-weight: bold;
 }
 @media screen and (min-width: 750px) {
 .card__heading:last-child {
   margin-bottom: 0;
   font-size: 18px;
-  font-weight: bold;
 }
 }
 .card--horizontal .card__heading,
