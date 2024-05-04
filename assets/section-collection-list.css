@@ -5,7 +5,7 @@
 
 .collection-list-title {
   margin: 0;
-  font-weight: bold;
+  font-weight: var(--titulo-grosso);
   position: relative;
 }
 
