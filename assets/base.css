@@ -622,7 +622,7 @@ details > * {
 .customer a {
   color: rgba(var(--color-link), var(--alpha-link));
   display: inline-block; /* Para permitir o padding e aplicar bordas corretamente */
-  padding: 8px 16px; /* Espaçamento interno ao redor do texto */
+  padding: 4px 8px; /* Espaçamento interno ao redor do texto */
   border: 2px solid transparent; /* Bordas transparentes por padrão */
   border-radius: 10px;
   border-color: #007BFF; /* Cor da borda */
