@@ -82,7 +82,7 @@
       ],
       "custom_css": [
         ".card__information {padding: 0;}",
-        ".grid__item {border-radius: 10px; box-shadow: none; background: transparent;}",
+        ".grid__item {border-radius: 10px; box-shadow: none; background: ;}",
         ".card__heading:last-child {text-align: center;}",
         ".slider-buttons {display: none;}",
         ".color-background-1 {background: ; padding: 5px;}"
