@@ -624,6 +624,7 @@ details > * {
   display: inline-block; /* Para permitir o padding e aplicar bordas corretamente */
   padding: 8px 16px; /* Espaçamento interno ao redor do texto */
   border: 2px solid transparent; /* Bordas transparentes por padrão */
+  border-radius: 10px;
   border-color: #007BFF; /* Cor da borda */
   color: #007BFF; /* Cor do texto */
   text-decoration: none; /* Remover sublinhado do link */
