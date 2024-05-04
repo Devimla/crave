@@ -57,39 +57,6 @@
         "accessibility_info": ""
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}",
-        "._rsi-buy-now-button {display: none !important;}",
-        ".botoom-cima {display: none;}"
-      ],
-      "settings": {
-        "title": "<strong>Venta Caliente<\/strong>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 10,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "accent-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "37ddd023-944b-4229-bbaf-f92d7122596b": {
       "type": "collection-list",
       "blocks": {
@@ -147,6 +114,39 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}",
+        "._rsi-buy-now-button {display: none !important;}",
+        ".botoom-cima {display: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Venta Caliente<\/strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 10,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -526,8 +526,8 @@
   },
   "order": [
     "slideshow_PpCBre",
-    "featured_collection",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
+    "featured_collection",
     "image_banner_VYCPUp",
     "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
