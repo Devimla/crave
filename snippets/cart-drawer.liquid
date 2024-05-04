@@ -114,6 +114,22 @@
 
                   <tbody role="rowgroup">
                     {%- for item in cart.items -%}
+                    <!-- Linha exclusiva para a imagem do produto -->
+                    <tr class="cart-item-image" id="CartDrawer-Item-Image-{{ item.index | plus: 1 }}" role="row">
+      <td colspan="4"> <!-- Ajuste o colspan conforme o número de colunas que você tem -->
+        {% if item.image %}
+          <a href="{{ item.url }}" class="cart-item__link" tabindex="-1" aria-hidden="true">
+            <img
+              class="cart-item__image"
+              src="{{ item.image | image_url: width: 300 }}"
+              alt="{{ item.image.alt | escape }}"
+              loading="lazy"
+              style="display: block; margin: auto; width: 150px; height: auto;"  <!-- Estilo para centralizar e definir o tamanho da imagem -->
+            >
+          </a>
+        {% endif %}
+      </td>
+    </tr>
                       <tr id="CartDrawer-Item-{{ item.index | plus: 1 }}" class="cart-item" role="row">
                         <td class="cart-item__media" role="cell" headers="CartDrawer-ColumnProductImage">
                           {% if item.image %}
