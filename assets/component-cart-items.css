@@ -257,8 +257,6 @@ cart-remove-button .icon-remove {
 
   .cart-item__media {
     grid-row: 1 / 3;
-    order: -1; /* Move o elemento para o início do layout flexível */
-    margin-bottom: 1.5rem; /* Adicione margem inferior opcional para espaçamento */
   }
 
   .cart-item__details {
