@@ -210,11 +210,16 @@ cart-remove-button .icon-remove {
 .product-option + .product-option {
   margin-top: 0.4rem;
 }
-.product-option dt, .product-option dd {
-  display: inline-block !important;
-  margin-right: 10px;
-  vertical-align: top;
+.product-option .option-name,
+.product-option .option-value {
+    display: inline; /* Mantém os elementos na mesma linha */
+    margin-right: 5px; /* Espaço à direita do nome para separá-lo do valor */
 }
+
+.product-option .option-value {
+    font-weight: normal; /* Opcional, ajuste o peso da fonte conforme necessário */
+}
+
 .product-option * {
   display: inline-block;
   margin: 0;
