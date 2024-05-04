@@ -126,7 +126,7 @@
         ".botoom-cima {display: none;}"
       ],
       "settings": {
-        "title": "<strong>Venta Caliente<\/strong>",
+        "title": "Venta Caliente",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
