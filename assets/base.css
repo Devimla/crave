@@ -3801,13 +3801,17 @@ h2.inline-richtext {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin: 0 auto;
 }
-
 .jdgm-carousel-wrapper {
   background-color: #FFF;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   padding: 20px 0 !important; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .jdgm-carousel-wrapper {
+      width: 100%;
+  }
 }
 .jdgm-all-reviews-text--style-branded .jdgm-all-reviews-text__text {
   padding: 5px !important;
