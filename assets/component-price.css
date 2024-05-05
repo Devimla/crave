@@ -39,7 +39,7 @@
 .price__regular .price-item--regular {
   margin-right: 0;
   color: var(--preto-letra);
-  font-size: 24px;
+  font-size: 22px;
   font-family: 'poppins-bold', sans-serif;
 }
 
