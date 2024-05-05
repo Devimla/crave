@@ -3860,15 +3860,20 @@ h2.inline-richtext {
     padding-bottom: 5px;
   }
   }
-  #shopify-section-template--22545684693304__37ddd023-944b-4229-bbaf-f92d7122596b .card .card__inner .card__media {
-    display: inline-block; /* Garante que a borda se ajuste ao redor do conteúdo */
-    border-radius: 50%; /* Torna o elemento redondo */
-    overflow: hidden; /* Garante que a imagem não ultrapasse os limites do elemento redondo */
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra para destacar o elemento */
+#shopify-section-template--22545684693304__37ddd023-944b-4229-bbaf-f92d7122596b .card__media {
+    position: relative; /* Necessário para posicionar o pseudo-elemento */
+    border-radius: 10px; /* Define o raio da borda para torná-la redonda */
+    overflow: hidden; /* Garante que o pseudo-elemento não ultrapasse os limites da borda */
 }
 
-.card__media img {
-    display: block; /* Garante que a imagem se ajuste corretamente */
-    max-width: 100%; /* Garante que a imagem não ultrapasse os limites do elemento */
+#shopify-section-template--22545684693304__37ddd023-944b-4229-bbaf-f92d7122596b .card__media::before {
+    content: ''; /* Adiciona conteúdo ao pseudo-elemento */
+    position: absolute; /* Posiciona o pseudo-elemento */
+    top: -5px; /* Ajusta a posição vertical para cobrir a borda superior */
+    right: -5px; /* Ajusta a posição horizontal para cobrir a borda direita */
+    bottom: -5px; /* Ajusta a posição vertical para cobrir a borda inferior */
+    left: -5px; /* Ajusta a posição horizontal para cobrir a borda esquerda */
+    background: linear-gradient(236deg, rgba(249,30,90,1) 0%, rgba(0,112,220,1) 68%); /* Define o gradiente para o pseudo-elemento */
+    border-radius: 15px; /* Ajusta o raio da borda do pseudo-elemento para garantir que ele cubra a borda do elemento */
+    z-index: -1; /* Garante que o pseudo-elemento fique atrás do conteúdo do elemento */
 }
-
