@@ -67,7 +67,9 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
-        ".card .card__inner .card__media {z-index: 0; border-radius: 50%; box-shadow: inset 0 0 0 5px transparent, 0 0 0 5px rgba(249, 30, 90, 1), 0 0 0 10px rgba(0, 112, 220, 1);}"
+        ".card .card__inner .card__media {border-radius: 50%;}",
+        ".media {bottom: 0; position: absolute; top: 0; border-radius: 50%; z-index: 1; background: linear-gradient( 236deg, rgba(249, 30, 90, 1) 0%, rgba(0, 112, 220, 1) 68% );}",
+        ".media > *:not(.zoom):not(.deferred-media__poster-button),.media model-viewer {display: block; max-width: 100%; padding: 3px; position: absolute; align-items: center; top: 0; border-radius: 50%; left: 0; height: 99.9%; width: 99.9%;}"
       ],
       "settings": {
         "title": "Colecciones",
