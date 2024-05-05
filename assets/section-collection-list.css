@@ -8,8 +8,6 @@
   position: relative;
 }
 
-
-bolinha em coleções
 .collection-list-title::before {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
   display: block; /* Torna o pseudo-elemento um bloco separado */
@@ -23,14 +21,10 @@ bolinha em coleções
   transform: translateY(-50%); /* Ajusta a posição verticalmente */
 }
 
-
-
-
 h2.title {
   position: relative;
   font-size: 20px;
 }
-
 
 @media screen and (max-width: 749px) {
   .collection-list:not(.slider) {
