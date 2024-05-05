@@ -67,7 +67,8 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
-        ".card .card__inner .card__media {border-radius: 50%;}"
+        ".card .card__inner .card__media {border-radius: 50%;}",
+        ".card__media, .card .media {bottom: 0; position: absolute; \/* border: 6px solid black !important; *\/ top: 0; \/* content: \"\"; *\/ \/* top: -5px; *\/ \/* right: -5px; *\/ \/* bottom: -5px; *\/ margin: 9px; left: -5px; border-radius: 50%; z-index: 1; background: linear-gradient(236deg, rgba(249, 30, 90, 1) 0%, rgba(0, 112, 220, 1) 68%);}"
       ],
       "settings": {
         "title": "Colecciones",
