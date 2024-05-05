@@ -108,7 +108,7 @@
         ".botoom-cima {display: none;}"
       ],
       "settings": {
-        "title": "Los más vendidos",
+        "title": "Más vendidos",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
