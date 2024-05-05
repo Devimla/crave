@@ -108,7 +108,7 @@
         ".botoom-cima {display: none;}"
       ],
       "settings": {
-        "title": "Venta Caliente",
+        "title": "Los más vendidos",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
