@@ -64,8 +64,8 @@
 .newsletter-form__button:not(:focus-visible):not(.focused) {
   box-shadow: inherit;
   background-color: var(--cor-secundaria);
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
   border-top: 1px solid var(--cor-primaria); /* Adiciona borda na parte superior */
   border-bottom: 1px solid var(--cor-primaria); /* Adiciona borda na parte inferior */
   border-right: 1px solid var(--cor-primaria); /* Adiciona borda no lado direito */
