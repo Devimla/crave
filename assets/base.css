@@ -3864,4 +3864,5 @@ h2.inline-richtext {
     border: 5px solid transparent; /* Define uma borda sólida transparente para manter o espaço para a borda gradiente */
     border-image: linear-gradient(236deg, rgba(249,30,90,1) 0%, rgba(0,112,220,1) 68%); /* Define o gradiente para a borda */
     border-image-slice: 1; /* Garante que o gradiente seja esticado por toda a borda */
+    border-radius: 50%;
 }
