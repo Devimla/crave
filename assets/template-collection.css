@@ -87,7 +87,7 @@
   bottom: -5px; /* Move a linha para baixo */
   width: 100%; /* Garante que a linha tenha a largura total do elemento pai */
   height: 2px; /* Define a altura da linha */
-  background-color: #000; /* Cor da linha */
+  background-color: #F91E5A; /* Cor da linha */
   border-radius: 5px; /* Bordas curvas */
 }
 
