@@ -36,6 +36,13 @@
 .price--large.price--show-badge .price-item--regular {
   /* Estilos para o preço dentro da div com as classes especificadas */
   font-size: 28px; /* Por exemplo, aumentar o tamanho da fonte */
+  font-weight: 600;
+}
+.price--large.price--show-badge s.price-item--regular {
+  /* Estilos para o elemento <s> dentro da div com as classes especificadas */
+  /* Por exemplo: */
+  text-decoration: line-through; /* Adicionar uma linha através do texto */
+  font-weight: 0;
 }
 
 .price:not(.price--show-badge) .price-item--last:last-of-type {
