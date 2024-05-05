@@ -31,7 +31,7 @@
       ],
       "custom_css": [
         ".content-container:after {border-bottom: #1773b0 solid 1px;}",
-        ".h2.inline-richtext {color: #0070dc;}"
+        ".inline-richtext {color: #0070dc;}"
       ],
       "settings": {
         "color_scheme": "",
