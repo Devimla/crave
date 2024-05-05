@@ -64,7 +64,7 @@ h2.title {
 .mix {
   text-align: center;
   text-decoration: none;
-  color: var(--cor-primaria);
+  color: var(--preto-letra);
   display: block;
 }
 .collection-list-view-all {
