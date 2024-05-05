@@ -67,7 +67,7 @@
         ".footer {color: #fff; background-color: #0070dc;}",
         ".footer-block__heading.inline-richtext strong {color: #fff;}",
         ".inline-richtext {color: #fff !important;}",
-        ".link a {font-size: 1rem;}"
+        " .list-menu__item--link {font-size: 1.0rem !important;}"
       ],
       "settings": {
         "color_scheme": "accent-1",
