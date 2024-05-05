@@ -80,7 +80,7 @@
   position: relative; /* Garante que a linha seja posicionada em relação a este elemento */
 }
 
-.collection__title .title:not(:only-child)::after {
+.collection__title .title:not(:only-child)::before {
   content: ""; /* Adiciona um conteúdo vazio para que o ::after seja renderizado */
   position: absolute; /* Define a posição do ::after em relação ao elemento pai */
   margin-top: 10px;
