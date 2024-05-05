@@ -1,10 +1,7 @@
 
 .price {
-  font-size: 28px;
   letter-spacing: 0;
-  font-weight: 600;
   line-height: calc(0.4 + 0.5 / var(--font-body-scale));
-  font-family: 'poppins-bold', sans-serif;
 }
 
 
@@ -41,6 +38,9 @@
 .price__regular .price-item--regular {
   margin-right: 0;
   color: var(--preto-letra);
+  font-size: 28px;
+  font-weight: 600;
+  font-family: 'poppins-bold', sans-serif;
 }
 
 .price:not(.price--show-badge) .price-item--last:last-of-type {
