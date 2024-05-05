@@ -76,6 +76,20 @@
 .collection__title .title:not(:only-child) {
   margin-bottom: 1rem;
 }
+.collection__title .title:not(:only-child) {
+  position: relative; /* Garante que a linha seja posicionada em relação a este elemento */
+}
+
+.collection__title .title:not(:only-child)::after {
+  content: ""; /* Adiciona um conteúdo vazio para que o ::after seja renderizado */
+  position: absolute; /* Define a posição do ::after em relação ao elemento pai */
+  left: 0; /* Alinha o início da linha com o início do elemento pai */
+  bottom: -5px; /* Move a linha para baixo */
+  width: 100%; /* Garante que a linha tenha a largura total do elemento pai */
+  height: 2px; /* Define a altura da linha */
+  background-color: #000; /* Cor da linha */
+  border-radius: 5px; /* Bordas curvas */
+}
 
 @media screen and (min-width: 990px) {
   .collection__title--desktop-slider .title {
