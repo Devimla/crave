@@ -63,7 +63,7 @@
 }
 .newsletter-form__button:not(:focus-visible):not(.focused) {
   box-shadow: inherit;
-  background-color: var(--cor-secundaria);
+  background-color: var(--cor-rosa);
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
   border-top: 1px solid var(--cor-primaria); /* Adiciona borda na parte superior */
