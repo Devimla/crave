@@ -46,7 +46,7 @@
 .newsletter-form__button {
   width: 4.4rem;
   margin: 0;
-  background-color: var(cor-secundaria);
+  background-color: red;
   right: var(--inputs-border-width);
   top: 0;
   height: 100%;
