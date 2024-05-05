@@ -72,7 +72,7 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "¡Regístrate en nuestro boletín y mantente al tanto de nuestras novedades y promociones, además de recibir un cupón de descuento del 15%!",
         "enable_follow_on_shop": false,
         "show_social": true,
