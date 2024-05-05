@@ -28,30 +28,27 @@
 }
 .price--on-sale .price-item.price-item--sale.price-item--last {
   /* Estilos para o preço da SALE da home */
-  font-size: 20px; /* Por exemplo, alterar o tamanho da fonte */
-  /* Outros estilos conforme necessário */
+  font-size: 20px;
 }
 .price--large.price--on-sale.price--show-badge .price-item.price-item--sale.price-item--last {
   /* Estilos para o preço SALE pagína de produto */
-  font-size: 28px; /* Por exemplo, alterar o tamanho da fonte */
-  /* Outros estilos conforme necessário */
+  font-size: 28px; 
+  font-weight: 600;
 }
 
 .price--on-sale .price-item--regular {
   color: var(--preto-letra) !important;
   font-size: 12px !important;
-  /* Outros estilos conforme necessário */
 }
 
 .price--large.price--show-badge .price-item--regular {
-  /* Estilos para o preço dentro da div com as classes especificadas */
-  font-size: 28px; /* Por exemplo, aumentar o tamanho da fonte */
+  /* Estilos para o preço normal PAGINA de produto */
+  font-size: 28px;
   font-weight: 600;
 }
 .price--large.price--show-badge s.price-item--regular {
-  /* Estilos para o elemento <s> dentro da div com as classes especificadas */
-  /* Por exemplo: */
-  text-decoration: line-through; /* Adicionar uma linha através do texto */
+  /* ESTILO PREÇO ANTIGO */
+  text-decoration: line-through;
   font-weight: 100;
 }
 
