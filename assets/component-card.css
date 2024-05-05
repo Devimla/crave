@@ -194,7 +194,6 @@ input[type="email" i] {
   height: 100%;
   object-fit: cover;
   object-position: center center;
-  border: 5px solid red;
   width: 100%;
 }
 
