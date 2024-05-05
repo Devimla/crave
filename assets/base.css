@@ -3810,7 +3810,7 @@ h2.inline-richtext {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .jdgm-carousel-wrapper {
-      width: 100%;
+      width: 100% !important;
   }
 }
 .jdgm-all-reviews-text--style-branded .jdgm-all-reviews-text__text {
