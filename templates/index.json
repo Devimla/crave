@@ -170,12 +170,12 @@
     },
     "featured_collection_QPqzC4": {
       "type": "featured-collection",
-      "disabled": true,
       "custom_css": [
         ".slider-buttons {display: none;}",
         ".botoom-baixo {display: none;}",
         ".jdgm-prev-badge__text {display: ;}",
-        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
+        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}",
+        "._rsi-buy-now-button {display: none !important;}"
       ],
       "settings": {
         "title": "Artilugio",
