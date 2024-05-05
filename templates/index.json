@@ -67,12 +67,7 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
-        ".card__information {padding: 0;}",
-        ".grid__item {border-radius: 10px; box-shadow: none; background: transparent;}",
-        ".card__heading:last-child {text-align: center;}",
-        ".slider-buttons {display: none;}",
-        ".color-background-1 {background: ; padding: 5px;}",
-        ".icon-wrap {display: none;}"
+        ".card .card__inner .card__media {overflow: hidden; z-index: 0; border-radius: 50%; border: 10px solid red;}"
       ],
       "settings": {
         "title": "Colecciones",
