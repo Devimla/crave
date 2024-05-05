@@ -83,7 +83,7 @@
 .collection__title .title:not(:only-child)::after {
   content: ""; /* Adiciona um conteúdo vazio para que o ::after seja renderizado */
   position: absolute; /* Define a posição do ::after em relação ao elemento pai */
-  margin-top: 5px;
+  margin-top: 10px;
   left: 0; /* Alinha o início da linha com o início do elemento pai */
   bottom: -5px; /* Move a linha para baixo */
   width: 100%; /* Garante que a linha tenha a largura total do elemento pai */
