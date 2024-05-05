@@ -5,11 +5,10 @@
 
 .collection-list-title {
   margin: 0;
-  font-weight: var(--titulo-grosso) !important;
   position: relative;
 }
 
-/*
+
 bolinha em coleções
 .collection-list-title::before {
   content: ""; /* Adiciona o conteúdo pseudo-elemento */
@@ -23,7 +22,7 @@ bolinha em coleções
   left: -15px; /* Alinha a bolinha à esquerda do texto */
   transform: translateY(-50%); /* Ajusta a posição verticalmente */
 }
-*/
+
 
 
 
