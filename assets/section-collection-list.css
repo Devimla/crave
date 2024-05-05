@@ -8,19 +8,6 @@
   position: relative;
 }
 
-.collection-list-title::before {
-  content: ""; /* Adiciona o conteúdo pseudo-elemento */
-  display: block; /* Torna o pseudo-elemento um bloco separado */
-  width: 10px; /* Define a largura da bolinha */
-  height: 10px; /* Define a altura da bolinha */
-  background-color: var(--cor-secundaria); /* Cor da bolinha */
-  border-radius: 50%; /* Torna a bolinha redonda */
-  position: absolute; /* Posiciona a bolinha em relação ao elemento pai */
-  top: 50%; /* Posiciona a bolinha no meio verticalmente */
-  left: -15px; /* Alinha a bolinha à esquerda do texto */
-  transform: translateY(-50%); /* Ajusta a posição verticalmente */
-}
-
 h2.title {
   position: relative;
   font-size: 20px;
