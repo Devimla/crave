@@ -53,7 +53,7 @@
         "link_list_LVmEyD": {
           "type": "link_list",
           "settings": {
-            "heading": "ENLACES RÁPIDOS",
+            "heading": "<strong>ENLACES RÁPIDOS<\/strong>",
             "menu": "footer"
           }
         }
