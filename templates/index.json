@@ -48,6 +48,18 @@
             "collection": "belleza"
           }
         },
+        "featured_collection_Cb8iWC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "salud"
+          }
+        },
+        "featured_collection_x7Cb8y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "artilugio"
+          }
+        },
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
@@ -63,6 +75,8 @@
       },
       "block_order": [
         "featured_collection_GMa7eL",
+        "featured_collection_Cb8iWC",
+        "featured_collection_x7Cb8y",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-1",
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
