@@ -3501,13 +3501,7 @@ h2.inline-richtext {
     mix-blend-mode: overlay;
     background-size: 400% 100%;
     background-position: 90% 0;
-    background-repeat: no-repeat;
-    background-image: linear-gradient(
-      135deg,
-      rgba(255, 255, 255, 0) 45%,
-      rgba(255, 255, 255, 1) 50%,
-      rgba(255, 255, 255, 0) 55%
-    );
+;
   }
 
   .animate--hover-3d-lift .card-wrapper:hover .card--card:before,
