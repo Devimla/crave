@@ -213,12 +213,12 @@
         "._rsi-buy-now-button {display: none !important;}"
       ],
       "settings": {
-        "title": "Salud y Belleza",
+        "title": "Salud",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "salud-y-belleza",
+        "collection": "salud",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
