@@ -3806,8 +3806,6 @@ h2.inline-richtext {
   background-color: #FFF;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
   padding: 20px 0 !important; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
