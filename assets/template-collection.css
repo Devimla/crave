@@ -86,7 +86,7 @@
   left: 0; /* Alinha o início da linha com o início do elemento pai */
   bottom: -10px; /* Move a linha para baixo */
   width: 100%; /* Garante que a linha tenha a largura total do elemento pai */
-  height: 8px; /* Define a altura da linha */
+  height: 6px; /* Define a altura da linha */
   background-color: #F91E5A; /* Cor da linha */
   border-radius: 5px; /* Bordas curvas */
 }
