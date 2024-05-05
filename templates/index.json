@@ -177,12 +177,12 @@
         ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}"
       ],
       "settings": {
-        "title": "Casa y Jardin",
+        "title": "Artilugio",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "casa-y-jardin",
+        "collection": "artilugio",
         "products_to_show": 15,
         "columns_desktop": 5,
         "full_width": false,
