@@ -1,6 +1,6 @@
 
 .price {
-  font-size: 22px;
+  font-size: 20px;
   letter-spacing: 0;
   line-height: calc(0.4 + 0.5 / var(--font-body-scale));
 }
@@ -32,6 +32,7 @@
   font-size: 12px !important;
   /* Outros estilos conforme necessário */
 }
+
 .price--large.price--show-badge .price-item--regular {
   /* Estilos para o preço dentro da div com as classes especificadas */
   font-size: 28px; /* Por exemplo, aumentar o tamanho da fonte */
@@ -45,7 +46,7 @@
 .price__regular .price-item--regular {
   margin-right: 0;
   color: var(--preto-letra);
-  font-size: 22px;
+  font-size: 20px;
   font-family: 'poppins-bold', sans-serif;
 }
 
