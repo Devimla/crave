@@ -24,6 +24,7 @@
   display: inline-block;
   margin: 0 1rem 0 0;
   color: #008000;
+  font-size: 28px;
 }
 
 
@@ -42,7 +43,7 @@
   /* Estilos para o elemento <s> dentro da div com as classes especificadas */
   /* Por exemplo: */
   text-decoration: line-through; /* Adicionar uma linha através do texto */
-  font-weight: 0;
+  font-weight: 100;
 }
 
 .price:not(.price--show-badge) .price-item--last:last-of-type {
