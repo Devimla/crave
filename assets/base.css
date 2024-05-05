@@ -502,7 +502,6 @@ h5:empty,
 h6:empty {
   display: none;
 }
-
 .link,
 .customer a {
   cursor: pointer;
@@ -515,7 +514,6 @@ h6:empty {
   font-size: 1.4rem;
   font-family: inherit;
 }
-
 .link--text {
   color: rgb(var(--color-foreground));
 }
