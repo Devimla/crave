@@ -31,7 +31,7 @@
       ],
       "custom_css": [
         ".content-container:after {border-bottom: #1773b0 solid 1px;}",
-        ".h2.inline-richtext {color: #0070DC;}"
+        ".h2.inline-richtext {color: #0070dc;}"
       ],
       "settings": {
         "color_scheme": "",
@@ -66,7 +66,8 @@
         ".footer-block.footer-block--menu {box-shadow: none;}",
         ".footer {color: #fff; background-color: #0070dc;}",
         ".footer-block__heading.inline-richtext strong {color: #fff;}",
-        ".inline-richtext {color: #fff !important;}"
+        ".inline-richtext {color: #fff !important;}",
+        ".link .customer a {font-size: 1.0rem;}"
       ],
       "settings": {
         "color_scheme": "accent-1",
