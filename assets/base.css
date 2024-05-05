@@ -3414,7 +3414,6 @@ h2.inline-richtext {
   .animate--hover-3d-lift .deferred-media .deferred-media__poster-button {
     transition: transform var(--duration-long) ease, box-shadow var(--duration-long) ease;
     transform-origin: center;
-    border-radius: 50%;
   }
 
   .animate--hover-3d-lift .card-wrapper:hover .card--card,
