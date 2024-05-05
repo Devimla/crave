@@ -137,4 +137,9 @@ h2.title {
   background: ; 
   padding: 5px;}
 #shopify-section-template--22545684693304__37ddd023-944b-4229-bbaf-f92d7122596b .icon-wrap {
-  display: none;} 
+  display: none;}
+  @media screen and (min-width: 1250px) {
+  #shopify-section-template--22545684693304__featured_collection_Yc7pPJ .quick-add {
+    padding-bottom: 5px;
+  }
+}  

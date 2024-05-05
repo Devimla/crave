@@ -3860,18 +3860,5 @@ h2.inline-richtext {
     padding-bottom: 5px;
   }
   }
-  #shopify-section-template--22545684693304__37ddd023-944b-4229-bbaf-f92d7122596b .card--card:after,
-  .card--standard .card__inner:after {
-      content: ''; /* Adiciona conteúdo ao pseudo-elemento */
-      display: block; /* Torna o pseudo-elemento visível */
-      position: absolute; /* Posiciona o pseudo-elemento */
-      top: 0; /* Ajusta a posição vertical */
-      right: 0; /* Ajusta a posição horizontal */
-      bottom: 0; /* Ajusta a posição vertical */
-      left: 0; /* Ajusta a posição horizontal */
-      border: 5px solid transparent; /* Define uma borda sólida transparente para manter o espaço para a borda gradiente */
-      border-image: linear-gradient(236deg, rgba(249,30,90,1) 0%, rgba(0,112,220,1) 68%); /* Define o gradiente para a borda */
-      border-image-slice: 1; /* Garante que o gradiente seja esticado por toda a borda */
-      border-radius: 50%; /* Define o raio da borda para torná-la redonda */
-  }
+
   
