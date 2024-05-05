@@ -32,6 +32,11 @@
   font-size: 12px !important;
   /* Outros estilos conforme necessário */
 }
+.price--large.price--show-badge .price-item--regular {
+  /* Estilos para o preço dentro da div com as classes especificadas */
+  font-size: 28px; /* Por exemplo, aumentar o tamanho da fonte */
+}
+
 .price:not(.price--show-badge) .price-item--last:last-of-type {
   color: #008000 !important;
 }
