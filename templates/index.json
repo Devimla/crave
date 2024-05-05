@@ -67,7 +67,7 @@
         "template--16272637362343__37ddd023-944b-4229-bbaf-f92d7122596b-featured_collection-2"
       ],
       "custom_css": [
-        ".card .card__inner .card__media {overflow: hidden; z-index: 0; border-radius: 50%; border: 10px solid red;}"
+        ".card .card__inner .card__media {overflow: hidden; z-index: 0; border-radius: 50%; border: 5px solid red;}"
       ],
       "settings": {
         "title": "Colecciones",
