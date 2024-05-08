@@ -69,3 +69,17 @@ class CustomerAddresses {
   _handleAddEditButtonClick = ({ currentTarget }) => {
     this._toggleExpanded(currentTarget);
   };
+
+  _handleCancelButtonClick = ({ currentTarget }) => {
+    this._toggleExpanded(currentTarget.closest(selectors.addressContainer).querySelector(`[${attributes.expanded}]`));
+  };
+
+  _handleDeleteButtonClick = ({ currentTarget }) => {
+    // eslint-disable-next-line no-alert
+    if (confirm(currentTarget.getAttribute(attributes.confirmMessage))) {
+      Shopify.postLink(currentTarget.dataset.target, {
+        parameters: { _method: 'delete' },
+      });
+    }
+  };
+}
