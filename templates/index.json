@@ -1,5 +1,37 @@
 {
   "sections": {
+    "carousel_qkqFM8": {
+      "type": "carousel",
+      "blocks": {
+        "image_6LYiye": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hismile_5.png",
+            "imagemb": "shopify:\/\/shop_images\/escola_municipal_626_x_800_px_1.png",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6LYiye"
+      ],
+      "settings": {
+        "controls": true,
+        "indicators": true,
+        "bg_color": "bg-custom-gradient",
+        "backdrop": true,
+        "container": true,
+        "autoplay": true,
+        "interval": 20,
+        "autoplay_progress_bar": true,
+        "autoplay_progress_bar_color": "bg-custom-gradient",
+        "transition_effect": "carousel-animate-css carousel-jack",
+        "transition_speed": "animate__normal",
+        "lazyload": false,
+        "margin_top": 0,
+        "margin_bottom": 9
+      }
+    },
     "slideshow_PpCBre": {
       "type": "slideshow",
       "blocks": {
@@ -480,9 +512,29 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "carousel_jBg6LJ": {
+      "type": "carousel",
+      "settings": {
+        "controls": true,
+        "indicators": true,
+        "bg_color": "bg-custom-gradient",
+        "backdrop": true,
+        "container": true,
+        "autoplay": true,
+        "interval": 6,
+        "autoplay_progress_bar": true,
+        "autoplay_progress_bar_color": "bg-custom-gradient",
+        "transition_effect": "carousel-animate-css carousel-jack",
+        "transition_speed": "animate__normal",
+        "lazyload": true,
+        "margin_top": 0,
+        "margin_bottom": 9
+      }
     }
   },
   "order": [
+    "carousel_qkqFM8",
     "slideshow_PpCBre",
     "37ddd023-944b-4229-bbaf-f92d7122596b",
     "featured_collection",
@@ -494,6 +546,7 @@
     "collage_q3fEFq",
     "collage_q6qmXa",
     "17046572019621ab73",
-    "image_with_text_kbfi4Q"
+    "image_with_text_kbfi4Q",
+    "carousel_jBg6LJ"
   ]
 }
