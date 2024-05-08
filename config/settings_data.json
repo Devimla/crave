@@ -132,31 +132,31 @@
           "color_scheme": "background-1"
         }
       },
+      "carousel_VgM9zb": {
+        "type": "carousel",
+        "settings": {
+          "autoplay": true,
+          "autoplay_speed": 5000,
+          "show_controls": true,
+          "show_indicators": true,
+          "transition_effect": "slide",
+          "transition_speed": 300,
+          "full_width": false,
+          "lazy_loading": true,
+          "images": [
+            {
+              "image_desktop": "shopify:\/\/shop_images\/Promocion_1600_x_440_px.png",
+              "image_mobile": "shopify:\/\/shop_images\/Promocion_1dba7701-f144-4c7b-a926-1045a6bf15c8.png",
+              "button_url": "shopify:\/\/collections\/ropa-y-accesorios"
+            }
+          ]
+        }
+      },
       "main-password-footer": {
         "type": "main-password-footer",
         "settings": {
           "color_scheme": "background-1"
         }
-      }
-    },
-    "carousel_VgM9zb": {
-      "type": "carousel",
-      "settings": {
-        "autoplay": true,
-        "autoplay_speed": 5000,
-        "show_controls": true,
-        "show_indicators": true,
-        "transition_effect": "slide",
-        "transition_speed": 300,
-        "full_width": false,
-        "lazy_loading": true,
-        "images": [
-          {
-            "image_desktop": "shopify:\/\/shop_images\/Promocion_1600_x_440_px.png",
-            "image_mobile": "shopify:\/\/shop_images\/Promocion_1dba7701-f144-4c7b-a926-1045a6bf15c8.png",
-            "button_url": "shopify:\/\/collections\/ropa-y-accesorios"
-          }
-        ]
       }
     },    
     "content_for_index": [
