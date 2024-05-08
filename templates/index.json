@@ -140,41 +140,6 @@
         "show_text_below": true
       }
     },
-    "featured_collection_awDJYD": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".slider-buttons {display: none;}",
-        ".botoom-baixo {display: none;}",
-        ".jdgm-prev-badge__text {display: ;}",
-        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}",
-        "._rsi-buy-now-button {display: none !important;}"
-      ],
-      "settings": {
-        "title": "Belleza",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "belleza",
-        "products_to_show": 15,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 4,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection_QPqzC4": {
       "type": "featured-collection",
       "custom_css": [
@@ -198,6 +163,41 @@
         "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "accent-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 4,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_awDJYD": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".slider-buttons {display: none;}",
+        ".botoom-baixo {display: none;}",
+        ".jdgm-prev-badge__text {display: ;}",
+        ".badge {border-top: green solid 2px; border-top-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;}",
+        "._rsi-buy-now-button {display: none !important;}"
+      ],
+      "settings": {
+        "title": "Belleza",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "belleza",
+        "products_to_show": 15,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -487,8 +487,8 @@
     "37ddd023-944b-4229-bbaf-f92d7122596b",
     "featured_collection",
     "image_banner_VYCPUp",
-    "featured_collection_awDJYD",
     "featured_collection_QPqzC4",
+    "featured_collection_awDJYD",
     "featured_collection_Yc7pPJ",
     "featured_product_Veix9q",
     "collage_q3fEFq",
