@@ -144,6 +144,29 @@
             }
           }
         },
+        "block_order": [
+          "image_E3YLwE"
+        ],
+        "custom_css": [
+          ".carousel-inner {border: 10px solid red;}"
+        ],
+        "settings": {
+          "controls": true,
+          "indicators": true,
+          "bg_color": "bg-secondary-gradient",
+          "backdrop": false,
+          "container": false,
+          "autoplay": true,
+          "interval": 8,
+          "autoplay_progress_bar": false,
+          "autoplay_progress_bar_color": "bg-white",
+          "transition_effect": "",
+          "transition_speed": "animate__normal",
+          "lazyload": false,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
+      },
       "main-password-footer": {
         "type": "main-password-footer",
         "settings": {
