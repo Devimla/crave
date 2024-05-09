@@ -258,6 +258,9 @@ slider-component.slider-component-full-width {
 
 .slider-counter {
   display: flex;
+  height: 42px;
+  align-items: center;
+  background: #FFF;
   justify-content: center;
   min-width: 4.4rem;
 }
