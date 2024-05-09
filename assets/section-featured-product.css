@@ -36,10 +36,11 @@
   display: inline-flex;
   float: right;
   align-items: center;
-  color: #404040e5 !important;
   min-height: 4.4rem;
 }
-
+.product__view-details {
+  color: #404040e5 !important;
+}
 .share-button + .product__view-details::after {
   content: '';
   clear: both;
