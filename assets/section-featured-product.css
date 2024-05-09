@@ -36,7 +36,7 @@
   display: inline-flex;
   float: right;
   align-items: center;
-  color: var(--titulo-primario);
+  color: var(--titulo-primario) !important;
   min-height: 4.4rem;
 }
 
