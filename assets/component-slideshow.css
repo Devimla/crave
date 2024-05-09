@@ -1,7 +1,7 @@
 slideshow-component {
   position: relative;
   display: flex;
-  margin-top: -29px !important;
+  margin-top: -25px !important;
   flex-direction: column;
 }
 
