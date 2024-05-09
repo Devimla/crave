@@ -2480,6 +2480,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
   .header:not(.header--middle-left, .header--middle-center) .header__inline-menu {
     margin-top: 1.05rem;
+    text-align: center;
   }
 }
 
