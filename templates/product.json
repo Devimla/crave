@@ -64,7 +64,7 @@
         "custom_liquid_tBLUy6": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n  .custom-image {\n    max-width: 100%;\n    height: auto;\n  }\n<\/style>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/envio_decricao_webpg.webp\" alt=\"Imagem 1\" class=\"custom-image\">"
+            "custom_liquid": "<style>\n  .custom-image {\n    max-width: 100%;\n    height: auto;\n  }\n<\/style>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/envio_decricao_webpg.webp?v=1715297338\" alt=\"Imagem 1\" class=\"custom-image\">"
           }
         }
       },
