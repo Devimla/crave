@@ -36,7 +36,7 @@
   display: inline-flex;
   float: right;
   align-items: center;
-  color: var(--titulo-primario) !important;
+  color: #404040e5 !important;
   min-height: 4.4rem;
 }
 
