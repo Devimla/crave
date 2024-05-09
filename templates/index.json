@@ -304,6 +304,9 @@
         "buy_buttons_kfpfx4",
         "share_TweCJL"
       ],
+      "custom_css": [
+        ".share-button + .product__view-details {color: #333;}"
+      ],
       "settings": {
         "product": "cinturon-almohadilla-de-calor-alivia-colicos-menstruales",
         "color_scheme": "background-2",
