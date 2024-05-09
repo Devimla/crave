@@ -402,6 +402,4 @@ slider-component.slider-component-full-width {
   transform: rotate(90deg) scale(1.1);
 }
 #shopify-section-template--22545684693304__slideshow_PpCBre .section + .section {
-  margin-top: 0 !important; /* Remove a margem superior */
-  /* Adicione mais estilos conforme necessário */
-}
+  margin-top: 40px !important;}
