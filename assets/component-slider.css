@@ -369,6 +369,10 @@ slider-component.slider-component-full-width {
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
+.slider-button--next {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
 .slider-button:not([disabled]):hover {
   color: rgb(var(--color-foreground));
 }
