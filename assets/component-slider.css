@@ -401,3 +401,7 @@ slider-component.slider-component-full-width {
 .slider-button--prev:not([disabled]):hover .icon {
   transform: rotate(90deg) scale(1.1);
 }
+#shopify-section-template--22545684693304__slideshow_PpCBre {
+  margin-top: none !important; /* Defina a margem superior conforme desejado */
+  /* Adicione mais estilos conforme necessário */
+}
