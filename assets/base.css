@@ -401,8 +401,6 @@ blockquote {
     font-size: 1.2rem;
   }
 }
-#shopify-section-template--22545684693304__slideshow_PpCBre .section + .section {
-  margin-top: 0 !important;}
 
 .caption-with-letter-spacing {
   font-size: 1rem;
@@ -1096,7 +1094,7 @@ summary::-webkit-details-marker {
 
   .slider--tablet.grid--peek.grid--2-col-tablet-down .grid__item,
   .grid--peek .grid__item {
-    width: calc(30% - var(--grid-mobile-horizontal-spacing) - 3rem);
+    width: calc(50% - var(--grid-mobile-horizontal-spacing) - 3rem);
   }
 
   .slider--tablet.grid--peek.grid--1-col-tablet-down .grid__item,
@@ -3858,5 +3856,3 @@ h2.inline-richtext {
   margin-right: 15px;
   vertical-align: middle;
 }
-#shopify-section-template--22545684693304__slideshow_PpCBre .section + .section {
-  margin-top: 0 !important;}
