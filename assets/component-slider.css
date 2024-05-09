@@ -365,7 +365,7 @@ slider-component.slider-component-full-width {
   align-items: center;
   justify-content: center;
 }
-.slider-button .slider-button--prev{
+.slider-button .slider-button--prev {
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
