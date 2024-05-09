@@ -2,17 +2,6 @@
   "sections": {
     "1715220029b0393221": {
       "type": "apps",
-      "blocks": {
-        "image_slider_pro_embed_code_ttpDGp": {
-          "type": "shopify:\/\/apps\/image-slider-pro\/blocks\/embed-code\/187cfdb3-f7ca-4af8-9477-517eb71154e7",
-          "settings": {
-            "embed-code": "<div id=\"enap-slider-30936\"><\/div>"
-          }
-        }
-      },
-      "block_order": [
-        "image_slider_pro_embed_code_ttpDGp"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -497,6 +486,23 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1715221207fa091574": {
+      "type": "apps",
+      "blocks": {
+        "powr_image_slider_app_block_MpUpkt": {
+          "type": "shopify:\/\/apps\/powr-image-slider\/blocks\/app-block\/db02efbb-fd06-4a97-88f3-663cfa9effba",
+          "settings": {
+            "app_id": "dd23ce31_1715220874"
+          }
+        }
+      },
+      "block_order": [
+        "powr_image_slider_app_block_MpUpkt"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -512,6 +518,7 @@
     "collage_q3fEFq",
     "collage_q6qmXa",
     "17046572019621ab73",
-    "image_with_text_kbfi4Q"
+    "image_with_text_kbfi4Q",
+    "1715221207fa091574"
   ]
 }
