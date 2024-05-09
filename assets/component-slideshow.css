@@ -1,6 +1,7 @@
 slideshow-component {
   position: relative;
   display: flex;
+  margin-top: -20px;
   flex-direction: column;
 }
 
@@ -208,5 +209,4 @@ slideshow-component:not(.page-width) .slider-buttons {
 #shopify-section-template--16272637362343__slideshow_PpCBre .slider-button {
   color: #FFF !important;
 }
-#shopify-section-template--22545684693304__slideshow_PpCBre .section + .section {
-  margin-top: 40px !important;}
+
