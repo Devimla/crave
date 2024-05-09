@@ -160,13 +160,6 @@
         "disabled": false,
         "settings": {
         }
-      },
-      "1471279892117976293": {
-        "type": "shopify:\/\/apps\/powr-image-slider\/blocks\/app-embed\/db02efbb-fd06-4a97-88f3-663cfa9effba",
-        "disabled": false,
-        "settings": {
-          "app_id": ""
-        }
       }
     },
     "color_schemes": {
