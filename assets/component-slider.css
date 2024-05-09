@@ -354,10 +354,10 @@ slider-component.slider-component-full-width {
 }
 
 .slider-button {
-  color: rgba(var(--preto-letra), 0.75);
+  color: rgba(var(--preto-letra), 0.75) !important;
   background: #FFF;
   border: none;
-  border-radius: 10px;
+  border-top: 10px;
   cursor: pointer;
   width: 44px;
   height: 44px;
@@ -365,7 +365,10 @@ slider-component.slider-component-full-width {
   align-items: center;
   justify-content: center;
 }
-
+.slider-button .slider-button--prev{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
 .slider-button:not([disabled]):hover {
   color: rgb(var(--color-foreground));
 }
