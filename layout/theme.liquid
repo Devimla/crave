@@ -285,24 +285,35 @@
     
 <script>
 window.addEventListener('load', function() {
-    window.addEventListener('scroll', function() {
-        var button = document.getElementById('_rsi-buy-now-button-floating'); // Substitua 'seu-botao-de-compra' pelo ID real do seu botão
+    // Variável para controlar se o usuário já rolou até certo ponto da página
+    var scrolledToBottom = false;
 
-        // Obtenha a posição do botão em relação ao topo da página
-        var buttonPosition = button.getBoundingClientRect().top;
+    window.addEventListener('scroll', function() {
+        var button = document.getElementById('_rsi-buy-now-button-floating'); // Botão flutuante
+        var staticButton = document.getElementById('_rsi-buy-now-button'); // Botão estático
+
+        // Obtenha a posição do botão estático em relação ao topo da página
+        var staticButtonPosition = staticButton.getBoundingClientRect().top;
 
         // Obtenha a posição do footer em relação ao topo da página
         var footerPosition = document.getElementById('shopify-section-sections--22545684169016__footer').getBoundingClientRect().top; // Substitua 'seu-footer' pelo ID real do seu footer
 
+        // Verifique se o usuário já rolou até certo ponto
+        if (!scrolledToBottom && staticButtonPosition < 0) {
+            // Usuário rolou até certo ponto, exiba o botão flutuante
+            button.style.display = 'block';
+            scrolledToBottom = true;
+        }
+
         // Verifique se o botão está abaixo do footer
-        if (buttonPosition > footerPosition) {
-            button.style.display = 'none'; // Oculta o botão
-        } else {
-            button.style.display = 'block'; // Mostra o botão
+        if (button.style.display !== 'none' && button.getBoundingClientRect().top > footerPosition) {
+            // Botão flutuante está abaixo do footer, oculte-o
+            button.style.display = 'none';
         }
     });
 });
 </script>
+
 
 <style>
 @media screen and (max-height: 538.859px) {
