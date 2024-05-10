@@ -522,7 +522,7 @@
   display: block; 
   margin: 0 auto;
 }
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 850px) {
   .img-footer-garantia img {
     max-width: 60%;
   }
