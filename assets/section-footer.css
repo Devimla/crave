@@ -541,3 +541,8 @@
   font-size: 18px;
 }
 }
+@media screen and (min-width: 850px) {
+#shopify-section-sections--22545684169016__footer .list-menu__item--link {
+  font-size: 1.9rem !important;
+}
+}
