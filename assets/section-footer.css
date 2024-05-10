@@ -536,13 +536,13 @@
     margin: 0 auto;
   }
 }
-@media screen and (min-width: 850px) {
+@media screen and (min-width: 750px) {
   #shopify-section-sections--22545684169016__footer .footer-block__heading.inline-richtext strong {
   font-size: 18px;
 }
 }
-@media screen and (min-width: 850px) {
+@media screen and (min-width: 750px) {
 #shopify-section-sections--22545684169016__footer .list-menu__item--link {
-  font-size: 1.9rem !important;
+  font-size: 1.8rem !important;
 }
 }
