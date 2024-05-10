@@ -282,7 +282,9 @@
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
+    
 <script>
+document.addEventListener('DOMContentLoaded', function() {
   window.addEventListener('scroll', function() {
   var button = document.getElementById('_rsi-buy-now-button-floating'); // Substitua 'seu-botao-de-compra' pelo ID real do seu botão
 
@@ -298,6 +300,7 @@
   } else {
       button.style.display = 'block'; // Mostra o botão
   }
+  })
 });
 </script>
 <style>
