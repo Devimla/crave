@@ -523,11 +523,8 @@
   margin: 0 auto;
 }
 @media screen and (min-width: 750px) {
-  .img-footer-garantia {
-    max-width: 80%;
-    height: auto;
-    display: block; 
-    margin: 0 auto;
+  .img-footer-garantia img {
+    max-width: 60%;
   }
 }
 
