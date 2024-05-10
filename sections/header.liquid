@@ -189,7 +189,24 @@
     }
   }
 {%- endstyle -%}
+  <script>
+  window.addEventListener('scroll', function() {
+  var button = document.getElementById('._rsi-buy-now-button-floating'); // Substitua 'seu-botao-de-compra' pelo ID real do seu botão
 
+  // Obtenha a posição do botão em relação ao topo da página
+  var buttonPosition = button.getBoundingClientRect().top;
+
+  // Obtenha a posição do footer em relação ao topo da página
+  var footerPosition = document.getElementById('footer color-accent-1 gradient section-sections--22545684169016__footer-padding').getBoundingClientRect().top; // Substitua 'seu-footer' pelo ID real do seu footer
+
+  // Verifique se o botão está acima do footer
+  if (buttonPosition < footerPosition) {
+      button.style.display = 'none'; // Oculta o botão
+  } else {
+      button.style.display = 'block'; // Mostra o botão
+  }
+});
+</script>
 <script src="{{ 'details-disclosure.js' | asset_url }}" defer="defer"></script>
 <script src="{{ 'details-modal.js' | asset_url }}" defer="defer"></script>
 <script src="{{ 'cart-notification.js' | asset_url }}" defer="defer"></script>
