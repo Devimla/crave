@@ -242,9 +242,6 @@
             {%- render 'social-icons', class: 'footer__list-social' -%}
           {%- endif -%}
         </div>
-        <div class="img-footer-garantia">
-          <img src="https://cdn.shopify.com/s/files/1/0875/8273/6696/files/banner-garantias-footer.png" alt="Banner de garantias no rodapé">
-        </div>
       </div>
     {%- endunless -%}
   {%- endif -%}
@@ -255,6 +252,9 @@
       data-cascade
     {% endif %}
   >
+          <div class="img-footer-garantia">
+          <img src="https://cdn.shopify.com/s/files/1/0875/8273/6696/files/banner-garantias-footer.png" alt="Banner de garantias no rodapé">
+        </div>
     <div class="footer__content-bottom-wrapper page-width">
       <div class="footer__column footer__localization isolate">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}
