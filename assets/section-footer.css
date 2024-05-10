@@ -522,6 +522,11 @@
   display: block; 
   margin: 0 auto;
 }
+.img-footer-garantia img {
+  margin-left: 13%;
+  align-items: center;
+  width: 70%;
+}
 @media screen and (min-width: 850px) {
   .img-footer-garantia img {
     width: 50%;
