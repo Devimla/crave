@@ -401,5 +401,14 @@ slider-component.slider-component-full-width {
 .slider-button--prev:not([disabled]):hover .icon {
   transform: rotate(90deg) scale(1.1);
 }
-#shopify-section-template--22545684693304__slideshow_PpCBre .section+.section {
-  margin-top: 40px !important;}
+.img-footer-garantia {
+  max-width: 100%; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto;
+}
+@media screen and (min-width: 750px) {
+  .img-footer-garantia {
+    max-width: 80%;
+  }
+}
