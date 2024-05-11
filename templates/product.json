@@ -26,13 +26,13 @@
             "picker_type": "button"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
-        "price": {
-          "type": "price",
+        "quantity_selector": {
+          "type": "quantity_selector",
           "settings": {
           }
         },
@@ -73,8 +73,8 @@
         "title",
         "2bc4116f-43c6-4760-b8b8-824c23fce413",
         "variant_picker",
-        "quantity_selector",
         "price",
+        "quantity_selector",
         "buy_buttons",
         "description",
         "complementary_BKyaAU",
