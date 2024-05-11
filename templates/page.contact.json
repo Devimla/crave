@@ -10,7 +10,7 @@
     "custom_liquid_8YiTfD": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/entrar_em_contato_wepg.webp?v=1715395250\"  style=\"width: 100%;\" alt=\"Entrar em contato\">",
+        "custom_liquid": "<style>\n  .imagem-contato {\n    max-width: 100%; \/* Define o tamanho máximo como 100% da largura do contêiner pai *\/\n    height: auto; \/* Permite que a altura seja ajustada automaticamente para manter a proporção *\/\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/entrar_em_contato_wepg.webp?v=1715395250\" alt=\"Entrar em contato\" class=\"imagem-contato\">",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
