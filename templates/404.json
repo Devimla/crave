@@ -1,10 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-404",
-      "settings": {
-      }
-    },
     "custom_liquid_rFEz3c": {
       "type": "custom-liquid",
       "settings": {
@@ -13,10 +8,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "main": {
+      "type": "main-404",
+      "settings": {
+      }
     }
   },
   "order": [
-    "main",
-    "custom_liquid_rFEz3c"
+    "custom_liquid_rFEz3c",
+    "main"
   ]
 }
