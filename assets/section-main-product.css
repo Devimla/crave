@@ -1607,3 +1607,4 @@ a.product__text {
     border: none;
   }
 }
+@media screen and (min-width: 990px) {#shopify-section-template--22545684562232__main .product--medium:not(.product--no-media) .product__media-wrapper, #shopify-section-template--22545684562232__main .product--small:not(.product--no-media) .product__info-wrapper {max-width: 55%; padding-top: 20px; width: calc(55% - var(--grid-desktop-horizontal-spacing) / 2); margin-left: 5px; }} #shopify-section-template--22545684562232__main .complementary-products__container {border-top: solid 0.1rem rgba(var(--color-foreground), 0.08); padding-top: 10px;} #shopify-section-template--22545684562232__main .slider-button {background: transparent;} 
