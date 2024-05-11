@@ -168,10 +168,12 @@
   min-width: fit-content;
   border: none;
 }
-#Quantity-Form .product-form__input {
+.product-form__quantity .product-form__input {
   display: flex !important;
   align-items: center;
+  /* Outros estilos que você deseja aplicar */
 }
+
 variant-radios,
 variant-selects {
   display: block;
