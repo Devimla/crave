@@ -466,10 +466,6 @@ a.product__text {
   align-items: center;
 }
 
-.price-label {
-  margin-right: 10px; 
-}
-
 .product-form__quantity-top .form__label {
   margin-bottom: 1.2rem;
 }
