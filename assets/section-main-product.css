@@ -168,11 +168,6 @@
   min-width: fit-content;
   border: none;
 }
-.product-form__quantity .product-form__input {
-  display: flex !important;
-  align-items: center;
-  /* Outros estilos que você deseja aplicar */
-}
 
 variant-radios,
 variant-selects {
@@ -465,6 +460,14 @@ a.product__text {
 
 .price-per-item__label.form__label {
   margin-bottom: 0rem;
+}
+#price-template--22545684562232__main {
+  display: flex;
+  align-items: center;
+}
+
+.price-label {
+  margin-right: 10px; /* Ajuste o valor conforme necessário */
 }
 
 .product-form__quantity-top .form__label {
