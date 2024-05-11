@@ -3,7 +3,7 @@
     "custom_liquid_rFEz3c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n  .imagem-404 {\n    display: block;\n    position: relative;\n    max-width: 50%;\n    height: auto;\n    margin-left: auto;\n    margin-bottom: -38px;\n    margin-right: auto;\n    z-index: 1;\n  }\n\n  .imagem-404-voltar {\n    display: block;\n    position: relative;\n    max-width: 50%;\n    height: auto;\n    margin-left: auto;\n    margin-right: auto;\n    z-index: 1;\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/pag_404_wepg.webp?v=1715400262\" alt=\"Página 404\" class=\"imagem-404\">\n\n<a href=\"URL_DO_SEU_LINK\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/404_voltar.webp?v=1715400038\" alt=\"Voltar\" class=\"imagem-404-voltar\">\n<\/a>",
+        "custom_liquid": "<style>\n  .imagem-404 {\n    display: block;\n    position: relative;\n    max-width: 50%;\n    height: auto;\n    margin-left: auto;\n    margin-bottom: -38px;\n    margin-right: auto;\n    z-index: 1;\n  }\n\n  .imagem-404-voltar {\n    display: block;\n    position: relative;\n    max-width: 50%;\n    height: auto;\n    margin-left: auto;\n    margin-right: auto;\n    z-index: 1;\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/pag_404_wepg.webp?v=1715400262\" alt=\"Página 404\" class=\"imagem-404\">\n\n<a href=\"https:\/\/latienda-mix.com\/ss\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/404_voltar.webp?v=1715400038\" alt=\"Voltar\" class=\"imagem-404-voltar\">\n<\/a>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
