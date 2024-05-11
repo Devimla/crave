@@ -41,6 +41,7 @@
 @media screen and (min-width: 750px) {
   .collapsible-content__grid--reverse {
     flex-direction: row-reverse;
+    max-width: 103rem;
   }
 }
 
