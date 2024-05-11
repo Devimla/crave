@@ -37,3 +37,6 @@
     grid-column-gap: 2rem;
   }
 }
+#shopify-section-template--22545684889912__main .main-page-title {
+    display: none;
+}
