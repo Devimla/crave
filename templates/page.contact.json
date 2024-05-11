@@ -10,7 +10,7 @@
     "custom_liquid_8YiTfD": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/entrar_em_contato_wepg.webp?v=1715395250\" alt=\"Entrar em contato\">",
+        "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/entrar_em_contato_wepg.webp?v=1715395250\"  style=\"width: 100%;\" alt=\"Entrar em contato\">",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
