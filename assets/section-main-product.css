@@ -1612,7 +1612,7 @@ a.product__text {
   #shopify-section-template--22545684562232__main .product--medium:not(.product--no-media) .product__media-wrapper, #shopify-section-template--22545684562232__main .product--small:not(.product--no-media) .product__info-wrapper {
     max-width: 55%; padding-top: 20px; 
     width: calc(55% - var(--grid-desktop-horizontal-spacing) / 2); 
-    margin-left: 15px; 
+    margin-left: 10px; 
   }
 } 
   #shopify-section-template--22545684562232__main .complementary-products__container {
