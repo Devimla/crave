@@ -456,7 +456,6 @@ a.product__text {
 
 .product-form__quantity .form__label {
   margin-bottom: 0.6rem;
-  font-size: 16px
 }
 
 .price-per-item__label.form__label {
@@ -469,7 +468,6 @@ a.product__text {
 
 .price-label {
   margin-right: 10px; 
-  font-size: 16px;
 }
 
 .product-form__quantity-top .form__label {
