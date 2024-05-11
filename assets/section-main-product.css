@@ -168,7 +168,7 @@
   min-width: fit-content;
   border: none;
 }
-#Quantity-Form-template--22545684562232__main .product-form__input {
+.product-form__input .product-form__quantity{
   display: flex !important;
   align-items: center;
   /* Outros estilos que você deseja aplicar */
