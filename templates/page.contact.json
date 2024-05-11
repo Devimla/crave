@@ -13,7 +13,7 @@
     "custom_liquid_8YiTfD": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n  .imagem-contato {\n    display: block;\n    max-width: 100%;\n    height: auto;\n    margin-left: auto;\nmargin-bottom: -40px;\n    margin-right: auto;\nz-index: 1;\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/entrar_em_contato_wepg.webp?v=1715395250\" alt=\"Entrar em contato\" class=\"imagem-contato\">",
+        "custom_liquid": "<style>\n  .imagem-contato {\n    display: block;\n    max-width: 100%;\n    height: auto;\n    margin-left: auto;\nmargin-bottom: -40px;\n    margin-right: auto;\n    z-index: 999;\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/entrar_em_contato_wepg.webp?v=1715395250\" alt=\"Entrar em contato\" class=\"imagem-contato\">",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
