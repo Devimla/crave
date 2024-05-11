@@ -467,7 +467,8 @@ a.product__text {
 }
 
 .price-label {
-  margin-right: 10px; /* Ajuste o valor conforme necessário */
+  margin-right: 10px; 
+  font-size: 18px;
 }
 
 .product-form__quantity-top .form__label {
