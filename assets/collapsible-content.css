@@ -44,7 +44,11 @@
     max-width: 103rem !important;
   }
 }
-
+@media screen and (min-width: 750px) {
+  .collapsible-content-wrapper-narrow {
+    max-width: 103rem !important;
+  }
+}
 .collapsible-content-wrapper-narrow {
   margin: 0 auto;
   padding-right: 1.5rem;
