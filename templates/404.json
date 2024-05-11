@@ -11,6 +11,10 @@
     },
     "main": {
       "type": "main-404",
+      "custom_css": [
+        ".title {display: none;}",
+        ".center {display: none;}"
+      ],
       "settings": {
       }
     }
