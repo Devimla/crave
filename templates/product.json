@@ -81,7 +81,8 @@
         "custom_liquid_tBLUy6"
       ],
       "custom_css": [
-
+        ".product-form__quantity {display: flex !important; align-items: center;}",
+        ".product-form__input .form__label {padding-right: 5px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
