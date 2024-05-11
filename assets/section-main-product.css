@@ -168,7 +168,11 @@
   min-width: fit-content;
   border: none;
 }
-
+#Quantity-Form-template--22545684562232__main .product-form__input {
+  display: flex !important;
+  align-items: center;
+  /* Outros estilos que você deseja aplicar */
+}
 variant-radios,
 variant-selects {
   display: block;
@@ -456,11 +460,6 @@ a.product__text {
 
 .product-form__quantity .form__label {
   margin-bottom: 0.6rem;
-}
-#Quantity-Form-template--22545684562232__main .product-form__input {
-  display: flex !important;
-  align-items: center;
-  /* Outros estilos que você deseja aplicar */
 }
 
 .price-per-item__label.form__label {
