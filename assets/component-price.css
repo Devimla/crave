@@ -58,7 +58,7 @@
 
 .price__regular .price-item--regular {
   margin-right: 0;
-  color: var(--preto-letra);
+  color: var(--azul-secundario);
   font-size: 20px;
   font-family: 'poppins-bold', sans-serif;
 }
