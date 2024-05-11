@@ -8,7 +8,7 @@
     "custom_liquid_rFEz3c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n  .imagem-contato {\n    display: block;\n    position: relative;\n    max-width: 100%;\n    height: auto;\n    margin-left: auto;\nmargin-bottom: -38px;\n    margin-right: auto;\n    z-index: 1;\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/pag_404_wepg.webp?v=1715400262\" alt=\"Entrar em contato\" class=\"imagem-contato\">",
+        "custom_liquid": "<style>\n  .imagem-contato {\n    display: block;\n    position: relative;\n    max-width: 100%;\n    height: auto;\n    margin-left: auto;\nmargin-bottom: -38px;\n    margin-right: auto;\n    z-index: 1;\n  }\n<\/style>\n\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/pag_404_wepg.webp?v=1715400262\" alt=\"Entrar em contato\" class=\"imagem-contato\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/404_voltar.webp?v=1715400038\" alt=\"Entrar em contato\" class=\"imagem-contato\">",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
