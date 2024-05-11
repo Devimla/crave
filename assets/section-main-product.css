@@ -457,8 +457,9 @@ a.product__text {
 
 .product-form__quantity .form__label {
   margin-bottom: 0.6rem;
+}
+#Quantity-Form-template--22545684562232__main > .product-form__input > div > .quantity__label {
   display: flex;
-  margin-right: 10px;
   align-items: center;
 }
 
