@@ -498,6 +498,15 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "custom_liquid_AA7ikp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n  .img-suporte {\n    display: block;\n    position: relative;\n    max-width: 100%;\n    height: auto;\n    margin-left: auto;\n    margin-right: auto;\n    z-index: 1;\n  }\n.img-404 {\npadding-top: 30px;\n}\n<\/style>\n<div class=\"img-suporte\">\n<a href=\"https:\/\/latienda-mix.com\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/banner_suporte.png?v=1715502320\" alt=\"Voltar\" class=\"img-suporte\">\n<\/a>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -515,6 +524,7 @@
     "17046572019621ab73",
     "image_with_text_kbfi4Q",
     "1715221207fa091574",
-    "17152213064318104e"
+    "17152213064318104e",
+    "custom_liquid_AA7ikp"
   ]
 }
