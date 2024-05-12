@@ -48,7 +48,7 @@
 }
 @media screen and (min-width: 750px) {
 .mega-menu__list .page-width {
-  padding: 1rem;
+  padding: 1rem !important;
 }
 }
 .mega-menu__link {
