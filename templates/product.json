@@ -156,6 +156,9 @@
     },
     "related-products": {
       "type": "related-products",
+      "custom_css": [
+        ".price-label {display: none;}"
+      ],
       "settings": {
         "heading": "<strong>También te puede interesar<\/strong>",
         "heading_size": "h2",
