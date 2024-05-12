@@ -42,10 +42,15 @@
 .mega-menu__list {
   display: grid;
   gap: 1.8rem 4rem;
+  text-align: left;
   grid-template-columns: repeat(6, minmax(0, 1fr));
   list-style: none;
 }
-
+@media screen and (min-width: 750px) {
+.mega-menu__list .page-width {
+  padding: 1rem;
+}
+}
 .mega-menu__link {
   color: var(--preto-letra);
   display: block;
