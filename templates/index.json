@@ -314,6 +314,7 @@
         "buy_buttons_kfpfx4",
         "share_TweCJL"
       ],
+      "disabled": true,
       "custom_css": [
         ".share-button + .product__view-details {color: #333;}"
       ],
