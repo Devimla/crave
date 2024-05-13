@@ -507,7 +507,7 @@
     "custom_liquid_AA7ikp": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n  .img-suporte {\n    display: block;\n    position: relative;\n    max-width: 100%;\n    height: auto;\n    margin-left: auto;\n    margin-right: auto;\n    z-index: 1;\n  }\n.img-404 {\npadding-top: 30px;\n}\n<\/style>\n<div class=\"img-suporte\">\n<a href=\"https:\/\/latienda-mix.com\/pages\/contact\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/banner_suporte.png?v=1715502320\" alt=\"Voltar\" class=\"img-suporte\">\n<\/a>\n<\/div>",
+        "custom_liquid": "<style>\n  .img-suporte {\n    display: block;\n    position: relative;\n    max-width: 100%;\n    height: auto;\n    margin-left: auto;\n    margin-right: auto;\n    z-index: 1;\n  }\n\n  @media screen and (max-width: 750px) {\n    .img-suporte-desktop {\n      display: none;\n    }\n  }\n\n  @media screen and (min-width: 751px) {\n    .img-suporte-mobile {\n      display: none;\n    }\n  }\n<\/style>\n\n<div class=\"img-suporte\">\n  <a href=\"https:\/\/latienda-mix.com\/pages\/contact\">\n    <!-- Imagem para desktop -->\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/banner_suporte.png?v=1715502320\" alt=\"Voltar\" class=\"img-suporte-desktop\">\n    <!-- Imagem para dispositivos móveis -->\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0875\/8273\/6696\/files\/banner_suporte_mobile.png?v=1715502320\" alt=\"Voltar\" class=\"img-suporte-mobile\">\n  <\/a>\n<\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
